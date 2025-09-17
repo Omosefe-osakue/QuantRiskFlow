@@ -1,0 +1,2001 @@
+CustomerID,FullName,Email,PhoneNumber,Address,CreditScore,Income,AccountBalance,LoanAmount,LoanTerm,LoanPurpose,LoanStatus,CreditUtilization
+ce23ad7a-f867-4139-88a7-a794ce8be92b,William Sullivan,adrianrobinson@example.com,413-617-3957x49208,"0787 Kathleen Point
+Joannmouth, ND 07800",676,508142,167580,5638,14,Auto Loan,Rejected,25
+db4d7943-bb60-409f-b095-3feb78b2bfa1,Robert Johnson,fsmith@example.net,(426)239-2467x095,"Unit 0684 Box 4107
+DPO AP 75850",606,608186,448097,3412,15,Auto Loan,Approved,68
+f9a72f72-acc9-4755-8cf4-b0c6d61dfc96,Pamela Scott,janetdavis@example.net,+1-570-444-5753x2999,"71890 Julie Groves
+Griffinshire, GU 48700",656,452823,722125,4818,10,Business Loan,Rejected,33
+5c4bdf1e-1034-453d-b16e-40489fc7c140,Sara Wallace,nicole46@example.org,881.769.9313,"141 April Shoal
+Amybury, VI 28713",786,114751,485843,4999,29,Student Loan,Approved,50
+d5582f64-d52e-443f-9ec1-6d1c8c19c667,Carolyn Giles,james70@example.net,+1-704-814-7903x235,"753 Williams Neck Suite 286
+New Johnport, IL 24878",719,696051,190757,5314,19,Auto Loan,Pending,9
+00145dac-a57a-44ae-b15a-1023a9390b0f,Joanne Vargas,vbrown@example.net,001-325-497-7687x3300,"383 Reyes Village
+Ginastad, FL 91923",546,70842,451141,7306,16,Business Loan,Approved,2
+28878c0e-24bd-466a-b100-7c2b05b67227,Steven Cook,danielsclaire@example.org,267-721-3494x19234,"1020 Hunter Rapids
+Richardmouth, TN 47292",485,347596,94040,4623,10,Home Purchase,Pending,34
+754a3f67-5c74-499a-86dc-6ba2c8b20c9d,Stephen Fisher,ericcoleman@example.org,(930)806-3294x68259,"917 Robert View
+North Jennifer, FL 15965",593,482300,161559,6934,29,Student Loan,Rejected,76
+7e226cff-1dc6-4d17-a74e-112433d0c988,Candace Bowman,agarcia@example.com,419.411.0163,"607 Boyd Canyon Apt. 838
+Laurenmouth, OK 61305",349,281397,973219,3733,10,Home Purchase,Rejected,90
+88645947-60c8-4856-ac32-a9af7ae206b6,Gerald Payne,james45@example.net,6612435726,"1374 Ewing Tunnel
+West Sheriton, DE 89310",361,702507,919660,5069,2,Auto Loan,Rejected,2
+fa74c86d-6863-4f7e-a416-d46138f515ab,James Maldonado,matthewwilliams@example.org,+1-729-480-5355,"5135 Gutierrez Summit Suite 359
+Gilesland, KS 80192",450,176299,848085,3336,22,Auto Loan,Rejected,78
+6401770e-c5cb-402a-bacf-dd7c2ca001ec,Cindy Pugh,dennisnovak@example.org,549-603-5924x8186,"2413 Bryan Courts
+West Leslie, NH 73444",367,789038,422489,6556,29,Business Loan,Rejected,0
+a792c1bb-f73c-43d9-9acb-10a5646375f1,Erik Hoover,brian56@example.net,+1-296-522-8744x14493,"3229 Ashley Creek
+Taylortown, VA 40954",779,643124,157890,4498,16,Home Purchase,Rejected,58
+a4f45dbc-27bd-40af-94d3-558fb29a1f1b,Janet Jackson,mbecker@example.net,+1-989-267-1365,"59194 Weaver Canyon Apt. 437
+Kelseyshire, VT 25284",820,347402,488721,7578,12,Student Loan,Approved,59
+90ac4fbf-fc7a-4b0c-8d87-d82d45a409c3,Sara Barrett,douglasmcpherson@example.org,+1-577-845-7765x4573,"40753 Tammy Village Apt. 881
+Escobarport, MI 67831",641,366237,578515,1247,29,Student Loan,Approved,11
+ded815b3-f02a-4cd7-a96d-a1d2cd9a984e,Taylor Wright,barbarathomas@example.com,516-714-8959x5558,"80130 Aaron Throughway Apt. 471
+Karenburgh, MA 36472",652,799946,806904,1202,20,Auto Loan,Pending,26
+9329ab5b-8f50-4294-96d5-82af41ca84c0,Joshua Jordan,jason51@example.com,+1-654-896-7814,"4285 Vanessa Branch
+Veronicastad, RI 40087",833,682470,979858,9067,11,Student Loan,Pending,99
+4018c763-a63d-46de-acb8-e88a39ce6b8d,Brian Trevino,gutierrezalec@example.net,001-354-865-1218x448,"872 Horton Village
+North Alexiston, FM 38211",791,743868,979348,6911,5,Auto Loan,Rejected,58
+0ee5d4af-2a31-4700-a22e-576c9b0c66a1,Kathy Nguyen,tlove@example.com,(904)833-3404,"932 Nguyen Street
+East Jasmine, DC 21584",440,254836,890650,7870,12,Business Loan,Pending,80
+b9ff495c-4612-461d-847d-446ff68bac3b,Timothy Rhodes,harriswilliam@example.net,001-870-216-5406x305,"80319 Gallagher Manors
+Port Mitchell, DE 27779",650,837004,374565,9033,5,Auto Loan,Pending,70
+4b01d4c5-b80c-488e-9281-b343a6375137,Elizabeth Lopez,huntcarlos@example.org,2462714720,"316 Lawrence Coves Suite 777
+Bullockville, NE 43324",771,753537,200554,8155,5,Student Loan,Approved,10
+6b59b4a3-3ead-4843-9895-9d4eef3955e8,Rebecca Bell,mark95@example.com,001-364-533-1724x5171,"24991 Hicks Center Apt. 799
+East Raymond, NM 56445",493,725417,607165,8539,25,Auto Loan,Rejected,23
+3b6cd140-6c72-4d5b-b3c8-95d4c8a994b4,Brittany Freeman,pamelaingram@example.org,797.402.0369,"70729 Poole Common
+Joshuahaven, MP 08702",704,736403,888321,3247,13,Student Loan,Pending,25
+64cacf86-2e7e-4c23-8786-c5bcab7220c7,Joshua Turner,michellehall@example.com,546.511.5668x6811,"USS Hopkins
+FPO AA 88813",646,823547,361039,4385,22,Student Loan,Pending,10
+cfd69ab8-e8be-4a9d-ab5c-2a9b4ecf9d04,April Miller,nicole63@example.com,(792)423-0965,"6320 Ashley Manor Suite 078
+Smithfort, NM 57748",583,613189,749452,4186,27,Home Purchase,Pending,86
+ac9791ff-62d2-43be-a644-060d144d4f33,Lawrence Love,alishahayes@example.net,282.905.7210x1092,"65029 Suarez Fords
+Jonathanborough, CA 02427",642,232604,475084,8997,11,Business Loan,Rejected,77
+62929174-12b1-4694-9a1b-f3073b6e8fc1,Gina Carey,morgannovak@example.org,(394)858-7627,"8885 Tammy Coves Apt. 925
+Josephburgh, NE 13749",825,112208,499745,1046,9,Home Purchase,Pending,62
+dae6b6f5-0c94-4f6e-872d-1dbf1eae2344,Penny Cummings,conniepowell@example.com,+1-894-599-0205x03668,"11822 Berry Way Suite 054
+Danielberg, OR 34675",450,274403,368289,2600,14,Student Loan,Rejected,41
+94a47228-55fa-4161-933a-f6db6c8f76e6,Margaret Moore,wcooke@example.org,001-834-430-5981x78398,"041 Elijah Keys Apt. 271
+East Patrickton, FL 21252",543,369039,522143,4623,1,Home Purchase,Approved,13
+753a3fc5-db76-4c50-9d74-7117ee991dad,Thomas Hernandez,cmarks@example.com,612-360-4958,"365 Sarah Extensions
+Millershire, WV 06289",303,797891,109427,5901,6,Business Loan,Rejected,5
+2f1a53d9-b64f-4e52-9973-ebf00735465b,Joshua Hampton,butlerbetty@example.com,001-312-561-5426,"86056 Yates Valley
+Philipfort, HI 19711",336,584047,22635,3092,11,Student Loan,Rejected,72
+9738ae7f-a06a-4433-b067-9e12ce07ecda,Elizabeth Johnson,cscott@example.com,(627)620-4955,"326 Garcia Port
+Carterland, WA 29628",535,573974,272,3702,28,Student Loan,Approved,79
+0b8fb8a8-195b-41dd-8f6f-2af795ace869,Alexander Benitez,emily92@example.com,001-580-957-1892x530,"27889 Schwartz Courts
+Jenniferside, PA 57827",604,601280,232299,6586,23,Auto Loan,Pending,17
+6111b374-9ced-42ca-9684-53f263be39d6,Holly Thompson,franconicholas@example.net,718-582-0560x58071,"7040 Timothy Route Apt. 334
+New Darrell, NH 38047",630,582472,602194,2153,29,Auto Loan,Pending,86
+dd18fbae-146e-4d71-bfec-80eb37fce517,Richard Rodriguez,bkeller@example.net,279.401.0258,"833 Cherry Bypass Apt. 886
+North Debbieshire, VI 86483",702,58700,462467,3451,22,Home Purchase,Rejected,86
+16f1dd3e-8614-4a30-a510-e1df578db4c0,Ryan Castaneda,lmorales@example.com,338.505.6640x7295,"95011 Elliott Forge
+Robertsland, RI 68512",787,884833,602208,4533,14,Business Loan,Rejected,85
+1dd0834a-1ccd-43c7-bbc7-2d0b3a6c7cb2,Vanessa Davis,olivia32@example.com,672.979.9884,"76830 Morris Motorway
+Juarezville, CA 22002",792,185690,841589,1911,4,Student Loan,Pending,79
+ab1c33fb-1b1d-47ac-9330-106525acd150,Jeffery Cline,lshelton@example.org,001-339-531-8302x475,"88961 Brittany Crossroad Suite 037
+Hartmouth, OH 75616",606,189683,385251,4989,7,Auto Loan,Approved,26
+f1866707-572a-42da-a9f0-f104de0f0f67,Cheryl Torres,josephodonnell@example.org,+1-295-947-8897x19879,"487 Huerta Hills
+Port Juan, ID 02539",837,483853,800869,4047,10,Student Loan,Pending,48
+d71f1713-3502-47a9-9e98-c84e217ad730,Nathan Campbell,jdaniels@example.net,(950)741-5837,"USCGC Brady
+FPO AE 15730",408,88778,442261,7263,8,Business Loan,Rejected,58
+e4be37e5-201f-4de5-b88b-b33ae9da3920,Jamie Shaffer,catherine80@example.org,739-389-0067,"93354 Heather Ferry
+Lake Eric, AS 26548",716,470933,926363,1601,11,Business Loan,Pending,94
+83e2f458-e87f-486d-9cdd-7e53e3982317,Daniel Rush,eho@example.com,(959)510-4513x666,"21761 Clark Spring
+Debraberg, CT 43683",460,620957,39466,1259,3,Auto Loan,Rejected,97
+5a8cd575-f27a-481f-98ad-fadb78638c7f,Eric Rangel,mary56@example.org,001-276-484-2820x017,"8562 Brian Plain
+Maldonadoview, IA 56949",545,492853,398818,6650,30,Auto Loan,Rejected,26
+57290fc9-dab3-405c-af41-2f58110c14a8,Amber Lloyd,jon32@example.org,585-414-7926,"68227 Cherry Stream
+East Robinside, NV 46254",705,565207,663739,5068,25,Business Loan,Pending,73
+f0d8a0b9-9baf-49a2-b8c3-cb4081b3a863,Susan Michael,melinda71@example.net,(538)622-7775,"6219 Erin Lodge
+Williamsfurt, NJ 33994",787,449868,187086,6178,1,Student Loan,Approved,40
+ce58838f-050e-4f2d-8a8b-d93bc5613501,Lee Gill,davidjohnson@example.org,+1-895-238-8776x4271,"4206 Richard Grove
+Samanthaburgh, PR 45864",662,659234,689397,2443,26,Auto Loan,Rejected,3
+da88d4fd-f32f-4eec-9c5b-7264db998bc6,Eric Phillips,tara04@example.org,983.503.2165,"505 Karen Summit
+Port Deannahaven, MH 95019",565,227958,395809,2352,28,Auto Loan,Approved,61
+f86b2363-b65f-447c-b897-2ea4bf2c0d4b,Jared Fowler,vrichardson@example.org,(805)257-2431x93710,"16265 Alvarez Avenue Suite 279
+Christopherton, HI 46194",629,767390,177826,3853,28,Home Purchase,Pending,62
+4d741703-a596-4d13-aaf8-419855d04646,Ashley Tran,belljeffrey@example.net,9256329874,"60394 James Cape
+Lake Amandaburgh, MH 38536",802,33363,127699,7342,13,Home Purchase,Rejected,11
+63602ecf-88bd-4406-8e4f-1410284171b7,Frank Young,allison95@example.net,790-594-9079x08462,"0114 Harrison Street
+Christopherhaven, OH 42557",353,207091,284658,3099,1,Auto Loan,Pending,48
+2e57ca99-f20c-433b-a409-a27174cc699b,Teresa Wright,jason71@example.org,917-940-0736x493,"901 Leslie Motorway
+West Michael, WI 25023",479,71832,353005,8507,16,Business Loan,Pending,47
+c2aa3803-dd5e-4f3f-a6e2-15ec929e4c4b,Chad Murillo,john43@example.com,8929839263,"7717 Michelle Loop
+South Hannahside, TN 94297",713,166500,450214,7356,1,Auto Loan,Pending,7
+9f1496e7-b5e4-4e12-8929-dddc1c341c87,Anna Williams,john86@example.org,6763564788,"78785 Berger Squares Suite 704
+New Keith, MS 44924",449,447166,878190,7775,12,Student Loan,Pending,79
+48b25855-a815-4724-9b55-c0e83b22791f,Brittany Jones,dbrown@example.com,7947656503,"2509 Blake Motorway Suite 827
+Lake Scott, NC 31619",732,51526,330194,6681,25,Business Loan,Approved,4
+dc74f87f-2bab-4945-b3c7-dd7275831c48,Jason Hall,oduran@example.org,915.981.4894,"7563 Joseph Lock Apt. 829
+New Darryl, AZ 49816",690,838724,351897,2928,30,Home Purchase,Approved,19
+1ca69571-0ebd-49da-a142-dee10b846942,James Sanchez,brandon35@example.org,597.861.9840x3954,"1986 Edwards Spring Apt. 703
+Lake Kristinafurt, LA 28739",316,623526,288703,1788,17,Auto Loan,Pending,79
+9875b2d7-286e-4e84-8fbd-f7dd39b3832e,Kelly Barnes,mortonrobert@example.com,(942)645-2002,"024 May Vista Apt. 234
+East Benjamin, NE 98828",370,68787,779423,9864,24,Home Purchase,Pending,35
+1270e5f2-0050-4ee5-a79b-674be5ea6bc6,Mr. David Zuniga III,hrodriguez@example.org,245-774-8316,"Unit 3385 Box 5524
+DPO AP 40035",671,772267,479638,5425,25,Student Loan,Approved,76
+6188ad57-28cc-418c-bc47-2d1aebac4ec2,Colin Ayala,martincindy@example.org,(337)520-3014,"7948 Thornton Station Apt. 083
+Brandonberg, IA 30590",584,740293,230208,6559,16,Home Purchase,Approved,44
+d7e54c00-002e-40f5-a7d2-d3aca4d7cdbe,Caleb Salinas,shannondominguez@example.net,+1-770-345-1960,"97625 Cameron Center
+Scotttown, LA 58084",691,87526,71340,3130,21,Student Loan,Pending,79
+b850f2d2-768a-41e9-8fb2-25442515c7d5,Michael Morgan,brianhunt@example.net,233.238.0418x6171,"93701 Nathan Freeway
+Lynchberg, IL 01035",326,890226,301494,7758,4,Home Purchase,Approved,34
+3371a5fe-7751-42d2-9d90-b9369f4e6dc6,John Hale,xwood@example.org,(825)677-7323x9895,"33859 Johnson Ville
+Port Josephtown, AZ 22250",780,277902,157602,2281,18,Student Loan,Pending,87
+b75d5236-6c75-4bf7-a399-49fcefc4e825,Chase Alvarez Jr.,bmoore@example.org,298-632-4877x90326,"8171 Noble Plains
+Port Ryanmouth, ND 12282",555,193772,884030,7407,27,Auto Loan,Approved,11
+e998ad3e-199a-4065-84cd-1cdf6e740e3f,Christina Patton,megan12@example.net,(408)798-3117x117,"2703 Samuel Fields Apt. 606
+Port Joan, NM 10088",544,776233,809013,6396,21,Business Loan,Approved,37
+1a1ef996-b094-4a11-a29b-202b84f5016e,Ashley Miller,allison60@example.org,481.920.8060,"931 Lewis Isle
+East Madisonland, HI 05244",464,873488,161611,3318,21,Student Loan,Approved,86
+1095cb7d-289a-45b2-826c-c604ffd2107e,James Nunez,alexsanders@example.org,001-649-633-6267x92961,"914 Crystal Shore
+New Robin, WI 54833",305,327173,229685,8180,27,Student Loan,Pending,27
+58999d87-3165-4169-bbb6-b206cecc5ea4,Christine Ramirez,gordonjeffrey@example.org,893.909.2796x959,"USS Johnson
+FPO AP 39097",467,338584,927922,8856,28,Home Purchase,Approved,94
+92c26846-1d60-4adf-8712-26354c0d28b0,Scott Wood,robertcastillo@example.org,001-762-298-5097x34394,"602 Christina Flat Apt. 718
+South Patriciastad, IN 71802",761,258321,559180,5024,26,Student Loan,Pending,70
+e515d871-29de-411f-8477-bf6eafe0577f,Bonnie Bishop,christophersmith@example.org,+1-241-630-9191,"4076 Colton Harbors Suite 834
+Jessicaview, NE 20272",433,878099,132299,2111,21,Home Purchase,Pending,90
+b2d934dc-77db-4bb1-9668-a8f76e6eb2c7,Hannah Beard,carterjackie@example.net,9392621329,"41450 Jones Drive
+South Emily, UT 65932",784,57895,614476,6702,10,Home Purchase,Rejected,93
+484764ec-7693-4a8e-bf98-16f9ceadd069,Aaron Lozano,jimenezbruce@example.net,659-215-6535x8701,"7701 Sexton Glen
+Lake Nicoleside, KY 93714",394,484253,931246,8309,14,Student Loan,Approved,91
+2a316587-a569-465f-96e6-be3009993882,Daniel Gardner,osolis@example.org,+1-543-749-1017x821,"37654 Mathew Extension
+Port Kari, AZ 42474",845,663000,106748,6101,2,Auto Loan,Rejected,47
+7d49e9b2-7e18-4203-8161-7a02f7d420cd,Elizabeth Hoffman,cookpeter@example.com,510-733-8750x55239,"384 Montgomery Pine Suite 299
+Lake Patrickfort, WY 37860",300,690234,579726,8676,29,Student Loan,Rejected,1
+753ce11e-7060-4760-9f47-ad7d99e615ce,James Lawrence,martinmichael@example.com,3233093262,"294 Ryan Divide Apt. 340
+North Roberttown, MT 61737",346,97000,280932,3644,16,Home Purchase,Pending,51
+050d502e-a483-41a5-b3b1-ede88a001de6,Jeff Smith,nelsonlynn@example.org,943.712.7838x870,"1266 Luke Pine
+Colestad, UT 65399",425,127515,928461,9391,19,Home Purchase,Approved,57
+21a57a16-1c83-4951-a6eb-6bf66feaca26,Jennifer Price,glenn29@example.org,404-525-4269x22541,"88447 Whitaker Ridges Suite 036
+Lake Brady, MS 68522",647,304547,751058,8829,22,Auto Loan,Rejected,81
+355044a2-909a-44d8-a7e0-3bcf4a46f1d4,Nicole Lewis,jjames@example.net,9626793138,"95508 Sexton Cape Apt. 308
+Ashleystad, PA 65226",776,391922,834374,3213,16,Home Purchase,Approved,14
+a92da9f5-929b-4e1b-a7ca-7f8db59db08d,Lisa Singleton,alvinmarshall@example.net,705-649-0154x806,"5864 Morgan Extensions Apt. 840
+North William, NM 48777",781,204440,312255,1869,17,Home Purchase,Rejected,81
+bd91eee8-9415-42ca-9698-6dcdfa5c88f5,William Jordan,yolandamoreno@example.org,001-512-709-3970x4018,"469 Nicholson Camp
+East Shannonmouth, MH 91940",504,129756,294031,9532,1,Student Loan,Approved,97
+3d800eff-0a84-459e-8829-587326661e64,Angela Thornton,carolyn37@example.org,+1-995-580-3846x11241,"3157 Andrea Ferry Apt. 425
+South Brenda, NY 48049",548,58062,155093,3654,21,Business Loan,Pending,73
+247cb287-e0b1-4aa9-bcfd-640cb1c93ac2,Sandy Gilbert MD,humphreysuzanne@example.net,001-541-343-7234,"66104 Miller Underpass Suite 048
+North Colleenberg, WI 46415",810,359908,174335,8765,10,Student Loan,Pending,32
+f23dc325-deec-430a-b23f-bd9a46ec7a2a,Mary Perez,ericowens@example.net,690-369-7726x3296,"35437 Warren Haven Apt. 803
+West Charlotte, ID 29866",432,184879,181057,8652,7,Business Loan,Rejected,29
+f6cb3787-e706-4eb5-8568-5b7c95e4d41e,James Bates,christine87@example.org,720.467.2167,"36814 Zimmerman Rest
+Kristibury, AK 43577",583,570791,382801,9469,4,Student Loan,Approved,99
+17c980bb-a537-4f60-85a3-76f212f7ad61,Billy Friedman,dholland@example.com,001-623-672-5160x9827,"988 Megan Motorway Apt. 854
+West Kimland, UT 84225",671,190657,368129,9216,20,Business Loan,Approved,86
+f07a070b-46e6-4760-8f1c-88949bc7f286,William Adams,rodrigueznina@example.org,001-735-240-4248,"11399 Dillon Ridges Suite 860
+Beverlyville, VA 60886",596,79405,978017,1274,26,Business Loan,Approved,58
+eeae761f-27c2-4b65-b3f0-1bdf8554cc64,Larry Solomon,josephbrewer@example.com,943.694.0163,"9842 Dana Isle Apt. 636
+New Taylor, MA 51721",535,129977,71627,6244,28,Student Loan,Approved,72
+15f70e30-3b43-4a68-b0b0-192e9eee3bbe,Michael Jackson,ldougherty@example.org,(676)563-1188x99128,"7170 Meghan Camp
+Kyleburgh, ID 77554",812,196270,609569,5173,30,Home Purchase,Rejected,43
+ec99cf7b-f380-4ee0-9da3-bb4a8a327864,Jeffery Heath,stanleykelsey@example.com,275-296-2506,"553 Jenkins Drives
+North Courtneybury, SD 50652",837,846817,134790,1364,28,Auto Loan,Pending,53
+f6b23aa9-8c14-4d4e-9837-816039555475,Sandy Mckee,brandonwilkerson@example.net,001-281-771-5590x23422,"5108 Christopher Spur
+Olsonmouth, VT 43354",380,851709,62064,4332,10,Home Purchase,Pending,73
+36350848-256e-427e-8380-f119c21b0df5,Katie Miller,patrick64@example.org,859-804-0316x6552,"5585 Hampton Trafficway
+East Tony, GA 57628",528,525416,5621,9679,11,Student Loan,Approved,46
+2c4c7653-52ab-47d9-8935-a5c2c5136b79,Rachel Bowen,melissa89@example.com,2489649760,"9426 Meadows Common Suite 896
+New Andreachester, WV 91158",502,250677,30338,2226,9,Student Loan,Rejected,46
+59507e3a-99e0-4328-be32-a435b426b806,Antonio Schmidt,nicole70@example.com,+1-218-467-8856x1572,"066 Bethany Island Apt. 205
+Michellebury, VT 11577",820,83838,120440,9728,18,Student Loan,Approved,35
+8b43ea11-2911-4d47-9040-91f0a79c334a,Michael Watkins,johnconway@example.com,935-805-3348x41269,"81069 Snyder Shore Suite 759
+Andradechester, MH 64260",443,255883,784623,2581,29,Auto Loan,Approved,30
+edfaea65-7162-4ac9-8aad-a467e0f5bac4,Patricia Spencer,billysilva@example.net,295-375-7859x3195,"PSC 7325, Box 2726
+APO AA 28322",565,475226,978422,4265,17,Auto Loan,Rejected,10
+cc76519d-889c-43c6-9e68-113f620108d3,Brett Mercado,jthompson@example.net,+1-745-929-0908,"26573 Anderson Knolls
+Robinsonbury, OH 39810",393,885764,349445,2876,12,Student Loan,Approved,45
+b5085923-a4c0-4caa-b5c6-e495a0f88b96,Katherine Gonzalez,phurst@example.com,+1-325-534-3671x186,"Unit 8402 Box 2495
+DPO AA 32253",735,495887,419975,5931,6,Auto Loan,Rejected,48
+221513a9-26e4-4be0-9151-53c6eca7e998,Barbara Marshall,gibsonlisa@example.com,(617)760-5808x961,"938 Edwards Hollow Apt. 997
+New Shelby, PW 24463",375,231202,753470,2939,16,Business Loan,Rejected,97
+f7290e75-fece-4cb2-9fee-9c74ac1e1ce9,Melanie Eaton,susanpena@example.com,613-890-5785,"1055 Perkins Bypass
+Carolynview, VA 98821",304,347549,843716,6302,12,Student Loan,Rejected,27
+7e24ec88-4a49-4f64-905e-d3996497d085,Joseph Perry,stephaniebradley@example.com,+1-240-588-7119x942,"16538 Mario Mall Apt. 632
+Michaelview, AK 28822",401,309487,192314,5602,9,Auto Loan,Approved,98
+3646813e-ae85-4048-8192-a4333ccdeed9,Barbara Miles,rperry@example.net,417.971.6887,"28590 Riley Coves
+Clarkhaven, GU 92279",393,68093,917909,8617,6,Home Purchase,Rejected,30
+ad3ba525-687b-4509-bf96-8cfb898b06ba,Christopher Cox,thomasburton@example.org,001-438-917-1897,"710 John Pike
+Leefort, NH 20683",699,736212,314715,7869,3,Business Loan,Approved,58
+f727e1bd-b5a8-40f4-a34a-a53dded60e73,Jennifer Carrillo,mbates@example.net,(837)309-3390x9873,"249 Owens Corner Suite 376
+Jenniferchester, VT 28229",708,132957,305400,4951,29,Home Purchase,Approved,21
+8f01362f-ca6b-4ca8-8f6c-5afd54dda6f6,David Oliver,gabrielterrell@example.net,001-216-760-8959x6439,"96739 Sara Flat
+Colemanberg, SC 83023",403,91025,583425,5415,24,Auto Loan,Pending,52
+db6e6ca4-3b19-4ee9-93a0-70c834fc94cc,Ashley Black,harold50@example.com,369-476-5329,"089 Margaret Streets
+North Christineton, WA 94740",848,383909,97083,8495,17,Business Loan,Approved,83
+a5fd95a6-5a0b-4324-91be-4fb39571e75f,Christopher Anthony,marc70@example.org,001-866-545-7856x9927,"Unit 6131 Box 5344
+DPO AE 50251",437,446056,101357,3425,26,Home Purchase,Pending,27
+99c46673-f955-45f4-9415-9604b6cce4de,Cheryl Garcia,thompsonchad@example.net,(593)755-1449x3973,"333 James Roads Apt. 654
+Davistown, OH 65634",422,139175,769248,4969,1,Auto Loan,Rejected,36
+b592e0a1-d861-4c31-947f-f62ff136dd5d,Gina Kennedy,wilsondavid@example.org,(317)672-2239x605,"20676 Gonzalez Neck Suite 473
+Davidfurt, RI 67049",489,280980,680562,8701,6,Auto Loan,Pending,2
+6d30206b-2a1a-4c5a-9ba6-ab28b9f9a3b1,Sherri Henderson,brownanthony@example.org,+1-705-373-8815x9052,"567 Cooper Spurs Suite 805
+New Kevin, DE 18956",374,86079,178448,1666,1,Student Loan,Rejected,54
+8a3c5388-c52d-4db4-8634-22cc022f8534,Kyle Lamb,williamboyd@example.org,403.532.6275x2122,"32455 James Lodge Apt. 804
+South Veronica, GU 64579",395,872225,219422,3601,12,Auto Loan,Pending,44
+b72d7c20-695f-445c-be3e-e74a4b6b5bbe,Timothy Smith,gloria62@example.com,8922094340,"7878 Cheryl Overpass
+Port Gregorytown, LA 62092",360,665036,190166,1435,9,Business Loan,Pending,49
+1b751512-b0a2-4c39-b5c0-3301c7bc444b,Ryan Allen,samantha14@example.net,+1-294-403-0720x79099,"3948 Melissa Vista Apt. 812
+West Sydney, WV 27596",683,664313,688866,1070,16,Student Loan,Pending,41
+3338fe5f-4dd7-4dd3-8e2e-d1fa43f18861,Matthew Mendoza,iburke@example.org,300.986.5714x10000,"256 Marsh Course Suite 392
+Port Thomas, GU 55576",791,473269,561799,1686,15,Student Loan,Approved,14
+2bf924cc-8e22-4141-843b-f1d37f91d690,David Harris,hansenstuart@example.org,958.342.6872x04006,"0079 Hood Ridges
+Lake Theodore, LA 05790",515,456757,610284,6596,14,Business Loan,Approved,31
+8ac50ebd-2a1f-4932-8598-7671f8dff203,Wendy Anderson,carolyn03@example.net,(552)564-0387,"4881 Christine Union
+New Davidmouth, ND 57115",675,869950,584680,3586,8,Student Loan,Rejected,96
+832cf413-38dc-44ad-97e1-beb4ed827658,Adriana Moore,nathanscott@example.com,697.615.8664x14334,"6190 Benjamin Wall
+Jackfurt, GA 79400",709,487256,495178,8132,3,Home Purchase,Pending,0
+e272d48c-6eea-4fa8-8fab-cd840604ff14,Jason Mitchell,kevin15@example.net,001-917-982-1982x293,"441 Jessica Mountains Apt. 843
+Samanthatown, CT 48018",643,470146,376889,7064,12,Business Loan,Approved,30
+85363a66-3094-4cb0-bf5e-5a6b78b2e34b,Robert Nelson,amorgan@example.net,318.547.8790x95168,"811 Dawn Forge Suite 581
+East Alexandra, KY 35162",575,539656,333100,3353,6,Auto Loan,Approved,34
+30b862d1-bd98-49e1-b274-c507bc26ee54,Brett Scott,lesliebarnes@example.com,4624313069,"81568 Dana Fields
+West Richardburgh, WV 81902",571,369019,795090,7726,2,Student Loan,Rejected,80
+3210fd30-6958-462a-9dd8-47c6118234f5,Jennifer Hunt,brent33@example.org,373.594.4497x223,"032 Tammy Centers Apt. 011
+Burtonfort, WV 73810",645,294389,239318,1539,4,Business Loan,Rejected,8
+9a3fe329-6bcb-491a-b0e6-aeef6b67f19d,Kyle Hernandez,masonjoe@example.org,(740)258-7603x0936,"39249 Woods Unions
+Navarroside, RI 52530",822,755129,222357,3654,5,Home Purchase,Rejected,55
+ffd621a1-b3ce-455c-8b5b-91778d52e7d5,Timothy Fuller,adam32@example.org,545.533.2956x41150,"2536 Wendy Park Suite 395
+East Ronald, WI 70352",367,477845,580265,5052,23,Auto Loan,Approved,74
+41b60adc-faea-46e6-8fcd-6d2f555db6c2,Dawn Ortega,choiholly@example.org,802-982-9668,"2511 Mikayla Centers
+Alvarezville, RI 05152",736,855498,446656,5343,15,Business Loan,Pending,27
+60cf7178-ac14-48f6-a2cd-86cee1cd286d,Marcus Randall,angela69@example.com,001-973-531-3515,"3036 Quinn Streets Apt. 419
+North Pamville, WV 59123",746,142484,783278,5160,12,Home Purchase,Rejected,53
+535d2584-c008-4f71-9c54-12e3e03bc6ab,Cassandra Castro,andrew97@example.net,546.335.3624x7152,"958 Brown Villages
+East Joshua, WA 47928",555,858280,209853,8042,22,Home Purchase,Pending,27
+989d1a73-dbbd-4e6f-b01c-dbc0fa984b75,Alexis Walker,gilbertstacy@example.com,444.794.7263x4117,"433 Campbell Neck
+Lauraberg, VT 82455",489,376111,816383,1749,3,Business Loan,Approved,37
+bad076bd-10e2-43cd-afbb-aa3aa77b10f2,Sarah Sexton,kmorales@example.org,+1-210-660-1488x630,"392 Pamela Passage
+North Dwayne, AK 61524",315,208120,253641,2018,15,Auto Loan,Pending,37
+aff1c127-a997-473b-ba0b-f41f390ef279,Peter Hunter,katierodriguez@example.org,761-668-5085x546,"462 Hernandez Rue Apt. 582
+Loritown, SD 37572",355,798738,624874,1214,13,Auto Loan,Rejected,91
+8ff2a319-f19a-4b0f-a188-2aefa30be1b2,Erin Taylor,beverlyclark@example.net,(482)613-9575x5723,"Unit 4447 Box 2005
+DPO AA 18951",444,864144,428147,5303,14,Auto Loan,Pending,28
+ef2e6175-d121-4149-b158-e632d15ed898,Bradley Yoder,jessicabrown@example.org,(923)653-9981,"410 Mary Prairie Suite 110
+Saraborough, VI 56047",582,66568,467897,3244,26,Auto Loan,Pending,27
+678d05db-a282-4f82-8761-28e64e30e1b7,Alison Smith,icurtis@example.com,001-616-876-0707x7012,"757 Rebecca Ports Apt. 385
+Lopezville, TN 43926",598,278696,884101,3071,23,Student Loan,Pending,36
+d20b8acc-27d8-4dde-8306-1ca593b2b175,Amanda Marshall,emilylong@example.net,001-643-571-1595,"6652 Perry Wall Suite 437
+Keithchester, CO 15049",700,450587,851972,7888,30,Auto Loan,Rejected,99
+9c3d4469-5be1-49ca-9b27-d3d12b08715c,Mason Huynh,kenneth79@example.org,(655)607-9320x80345,"535 Myers Bypass Apt. 525
+Petersonside, AS 05219",602,489294,761439,3386,29,Auto Loan,Approved,51
+e071c354-f8d9-4972-a6dc-ec390c3f77ac,Zachary Taylor,oschultz@example.net,4266842159,"4044 Christopher View
+West Natalieland, CA 70282",563,261075,845225,9475,17,Auto Loan,Pending,94
+9b6452f7-180e-49e8-bab1-d370dd58ca7e,William Alexander,kelseyblack@example.net,690-346-7300,"20741 Brandon Motorway
+Lake Stephenbury, CO 58592",833,598474,74067,8022,26,Business Loan,Rejected,56
+e832a12c-1e59-47fc-89e2-c0528e655940,Kimberly Mcguire,kolsen@example.org,(523)940-3685x5134,"927 Derek Course
+Lake Emilystad, ME 71627",845,540346,988460,6707,27,Auto Loan,Approved,2
+c1d45d2e-64a5-4e87-b4a6-d256517def03,Crystal Rodriguez,rsmith@example.com,001-556-630-0393x8584,"688 Harris Hollow
+Port Stanleyborough, AZ 89577",835,262396,580827,7713,5,Business Loan,Approved,22
+6d20c8ee-2d27-4f84-b71c-0351e2bd76aa,John Benjamin,jenniferli@example.com,(229)756-5632x48214,"389 Burns Burgs
+West Kimberly, AZ 68356",625,519919,86227,5419,18,Student Loan,Rejected,28
+b194afab-2e74-4d0e-baf5-ed9c03d25297,Erika Davis,pacedavid@example.com,001-493-831-5202x820,"1033 George Lodge
+Rossmouth, MH 28718",394,355629,743973,1625,23,Business Loan,Approved,64
+9333bdfc-d88f-4436-8eea-38645daa7a43,Terry Bartlett,nicolecunningham@example.net,(278)225-1878x30819,"7640 Hickman Walk
+Thompsonshire, UT 71938",805,679840,951283,8458,15,Business Loan,Rejected,70
+c8a88fd9-cef2-44de-87e2-4f644480358a,Ashley Benjamin,taylorkyle@example.org,001-228-618-1073x03207,"450 Obrien Inlet
+Sharonport, UT 19276",531,553678,731768,5301,26,Business Loan,Rejected,60
+dd58f1a0-3f54-4c2e-8ff7-5f1de1d4ec85,Mary Freeman,swilliams@example.org,(821)527-5794x7308,"159 Curtis Highway Suite 342
+Charlesfurt, AS 83283",350,747407,324801,7542,29,Student Loan,Rejected,98
+53cfec44-23ef-4620-88c0-532e34255c12,Brandy Brooks,lisa96@example.org,(504)399-7328,"4878 Amber Turnpike
+Kristentown, AR 42955",360,667269,368272,5110,26,Student Loan,Pending,24
+c0f8c22e-f3b6-4950-8fed-83e2c96017d6,David Parker,fclark@example.net,763.505.1041x7589,"229 Wright Way
+North Jennifer, WY 67146",524,388680,815981,5212,11,Auto Loan,Rejected,11
+1de37341-c321-4fbc-84cd-7c03c87b2539,Catherine Brown,jamie36@example.com,001-519-905-8027,"USS Anderson
+FPO AE 81425",782,634583,367777,4772,7,Home Purchase,Pending,41
+be341035-e845-4816-a84c-970623b46802,Jared Wilkerson,xtaylor@example.org,001-744-787-3798x0984,"326 Bradley Prairie
+Elizabethmouth, MD 24481",437,336718,302737,2192,2,Business Loan,Rejected,57
+cbe7e8fb-37b8-468e-87fc-0b00305e8b55,Robert Wu,mgonzalez@example.net,(294)503-3719x561,"989 William Meadows
+Leemouth, CT 25152",385,361505,943952,3823,6,Student Loan,Pending,41
+d62a9db7-2e6b-4405-8938-9b11980b5768,Mr. Austin Holloway DVM,tara95@example.net,+1-343-430-7955x5720,"383 James Mills
+New Davidland, MA 53553",507,553587,259673,1950,24,Business Loan,Rejected,95
+a9eb1a79-8f16-4c26-8c04-e4961a2a0d46,Chad Green,oscarphelps@example.org,483.438.9797x54708,"793 Nichole Walk
+West Kayla, WA 93599",555,819379,457189,6249,27,Student Loan,Approved,65
+2cc569f0-fa98-4f60-8a9c-04ca5283ff73,Corey Martinez,jonathan94@example.org,560-847-3774x449,"07614 Brown Vista
+Mollyberg, NC 91520",497,271048,395195,1565,4,Home Purchase,Approved,41
+79685add-8f78-4105-b5da-fabfba96142d,Mikayla Malone,david43@example.org,997.907.7344x514,"5315 Edwards Cape
+Lake Jeanette, KS 59553",340,575843,228405,3182,15,Home Purchase,Approved,71
+a019c918-66fb-4651-8f30-db808177172a,Steven Carr,xfarrell@example.net,001-583-247-3284x779,"30035 Velazquez Cliffs Suite 178
+Christensenside, ID 35736",704,388501,196402,6903,29,Business Loan,Pending,25
+6f8fff8c-88a3-45a3-8644-27be7b1b4846,Danny Bailey,kayla54@example.net,(977)800-5046x101,"51905 Arnold Parkway
+East Eric, OH 92805",781,624794,541072,1108,24,Student Loan,Rejected,100
+356eabfe-8b07-44d0-bef7-03654f3780fa,Jimmy Johnson,johnwilliams@example.net,(648)623-5979x844,"USNS Reid
+FPO AP 30841",307,178730,124289,8694,16,Business Loan,Rejected,48
+08a744b0-98ce-4987-824a-dbf8458f73cc,Jennifer Davis,charleswilliams@example.com,(918)590-0758,"2281 James Station Suite 644
+Mitchellchester, MD 49921",601,625925,931402,7456,1,Auto Loan,Rejected,25
+f6bacd9d-4f29-4059-905c-379d24fe34f2,Doris Mcgee,iblackwell@example.net,+1-231-443-2318x92606,"0313 Martinez Crossroad Apt. 997
+Josephhaven, MP 30424",415,468365,390679,6856,29,Home Purchase,Rejected,35
+e185e1c6-fb4d-4342-b9af-c580a2d13459,Joseph Alexander,nrichmond@example.com,451-540-0159x83989,"6087 Rosales Vista
+Emilyfurt, MS 46421",703,318937,428301,6300,27,Auto Loan,Rejected,76
+8c5b1648-ce81-4cf6-bc2c-5b7253441718,Lisa Williams,ipark@example.org,(367)740-3602x71689,"1233 Miller Mountains
+Jacobstad, WA 93939",308,665037,423576,3201,3,Business Loan,Rejected,50
+05feb871-0e2c-4b61-9c2f-d3b66f3ab5fe,Margaret Miller,qford@example.org,2914786059,"419 Smith Freeway
+East Edward, CO 97560",374,690571,446580,5867,23,Home Purchase,Approved,38
+7c3d869f-91bf-411f-8008-77269be34363,Jenna Shelton,erinrowland@example.net,880.869.2614x848,"64688 Nicholas River
+Lake Beth, VI 10040",845,66850,948026,5064,23,Business Loan,Rejected,49
+7c47d95b-e79f-490e-b945-34fbe182b6c6,Oscar Clark,duncantiffany@example.org,5516977338,"3760 Robert Hills
+Port Lindafort, WY 65542",646,210481,645851,2123,4,Auto Loan,Pending,47
+5d62e0f2-e08c-43c5-a813-2f91b8741322,Donald Robertson,luis78@example.org,001-574-411-2687x0209,"189 Berry Mews Suite 429
+South John, KS 19785",506,745782,492113,2158,6,Business Loan,Pending,45
+02c7a0f9-ba5a-4192-8daf-797cc413b4eb,Laura Sanders,chadwilson@example.org,001-610-568-8046x80325,"4801 Mark Shores Suite 260
+Lake Wendybury, CO 66097",624,592473,59982,2944,20,Business Loan,Pending,88
+305e2b56-f1e9-43e6-8118-6d05274a6f6f,Ashley Webb,nicholas98@example.org,001-707-968-0211x009,"378 Wesley Groves Apt. 073
+Cummingsfort, GA 89156",320,880319,944047,1488,6,Auto Loan,Approved,81
+f3b35bd4-91aa-45f5-b030-a8a6cb810cd3,Samuel Adkins,kellyweber@example.org,359.756.3645,"7021 Joel Shoals Suite 292
+Ambershire, SD 73655",538,479212,460911,4270,8,Student Loan,Rejected,43
+e995b25d-1e73-4d89-a002-4a6f0cee8f41,Erin Stewart,wolfronald@example.org,+1-404-665-0426x5376,"96617 Browning Vista
+Erikahaven, NE 16148",449,546926,572207,1907,3,Student Loan,Approved,44
+09f1761a-6f51-42fc-99df-3ef3cee55969,Raymond Bennett,melissasmith@example.net,319-845-1598x640,"4643 Jamie Meadows
+East Alejandra, IA 44541",358,30245,412873,7955,14,Home Purchase,Approved,4
+48df53f1-d913-40d7-8b20-7ab9ea1900b8,Diana Maxwell,samantha12@example.net,001-401-657-7962,"7506 Joshua Glens Suite 495
+New Jamie, SC 55905",530,709253,426325,1719,27,Business Loan,Approved,31
+63722e75-8bb1-42ed-9554-d4a1eee158a7,Albert White,robertmedina@example.net,717-391-8773x037,"3372 Kenneth Springs
+Hatfieldport, OR 10758",776,569114,136,5661,15,Auto Loan,Approved,41
+db71ab36-b21e-4ff9-9889-af46339e685d,Katie Odonnell,emilyjones@example.com,+1-972-373-9550x451,"744 Gamble Greens
+Reginaborough, AZ 55010",484,877394,860625,1940,9,Auto Loan,Pending,41
+8f7fcb3e-5824-4772-9d51-3474eb319bc5,Aaron Ford,ryanjohnson@example.org,570.860.5009x46559,"78252 Theresa Parks
+East Peterville, GA 10444",747,780698,856528,5404,28,Auto Loan,Rejected,57
+dd7ab2bb-2eb4-476b-b851-e6614a7f3c67,Debra Rosales,urobinson@example.net,(442)348-4118,"08547 Robin Cape Apt. 700
+Perryview, DE 60444",471,44486,542668,8663,25,Auto Loan,Rejected,64
+663d81c3-f659-490c-994c-c9e76c5535dd,Albert Walker,sortiz@example.com,3305878961,"9634 Flores Springs Apt. 369
+New Debra, KY 67680",653,817360,171272,8949,2,Business Loan,Rejected,75
+d6b087b4-6477-43cc-b7cd-ec08ea32bea6,Jackson Reed,ballen@example.org,712.287.0390x6747,"74377 Timothy Forge
+West Samuelberg, PA 30606",839,472428,462284,1798,5,Auto Loan,Rejected,4
+2cf0f2d0-2184-44f1-9f84-049cdd949742,Benjamin Obrien,lawsonjacob@example.org,(977)924-4601x1459,"PSC 6087, Box 6387
+APO AP 80659",751,789808,406394,3997,6,Student Loan,Approved,73
+1943ba49-2c20-4eb5-8c8b-e263b70f5723,Sue Kennedy,herreramark@example.org,(679)502-9902x704,"2431 Brown Square
+South Pamela, SD 94279",676,365321,309459,1132,9,Business Loan,Pending,59
+7792667d-472f-4b2e-a9c5-218102656bd8,David Pitts,thomas97@example.com,474-697-8954x97029,"94212 Dan Oval
+Bakerchester, UT 21574",503,140498,420386,4099,29,Business Loan,Rejected,10
+9d0a8819-d501-47ed-afe4-b217c5e6309e,Alyssa Moran,ostewart@example.org,812.847.1024x8529,"7949 Price Corner Apt. 958
+Elizabethborough, SC 62772",378,631197,138757,5635,15,Business Loan,Pending,68
+d6c3b5a3-e3d2-4993-a437-a61f8c6b2dce,Timothy Campos PhD,ujones@example.net,001-772-229-6497x20627,"4485 Schroeder Fort Apt. 331
+South Davidfurt, AK 20202",629,138384,357726,1041,22,Business Loan,Pending,74
+1835e297-2b5e-4b6b-821a-e239e14a639d,Kirsten Lin,salinaslisa@example.org,478.768.6733,"43974 Kerri Dale Apt. 045
+East Tamara, SC 92686",390,535406,769168,9388,17,Student Loan,Rejected,84
+c593055a-862f-4e9a-95b6-784063343c97,Stephanie Hayes,peterlopez@example.org,825.838.4079,"0224 Gregory Summit Apt. 753
+East Sara, MO 28022",312,346109,418757,3341,25,Student Loan,Rejected,82
+b4acf5e8-3b9a-4f1a-892c-84a8e964ebc0,Anthony Klein,williamnelson@example.net,448-554-4438x2751,"082 Tiffany Lane Apt. 624
+Alexandermouth, IA 13898",608,676327,119960,7215,11,Home Purchase,Approved,53
+74bff547-5f08-427b-8e0e-5e06d09e6c67,Francisco Edwards,gwilliams@example.net,256-495-4561,"05287 Blake Gardens
+Lake Stephanie, PW 59733",300,393286,748986,4433,28,Student Loan,Rejected,54
+66b8ee23-b407-45e0-808e-baca462e3adf,Brandon Herrera Jr.,carol44@example.net,001-475-902-0980x6036,"66198 Chavez Trace Apt. 556
+Jimenezberg, AS 93614",679,863736,12612,5944,16,Auto Loan,Pending,14
+c960c9c3-e0bc-469b-bc97-ec9e2105acaf,Nicole Novak,amy95@example.net,339-632-2019x2291,"Unit 1238 Box 3165
+DPO AE 21950",708,638715,304235,4785,18,Home Purchase,Approved,95
+57d59fb6-8c3f-4d63-9e8a-37048827a987,Samantha Adams,eriknavarro@example.com,505-543-8680,"7927 Sanchez Meadow Suite 704
+Donaldfort, AL 13291",589,260011,631460,8868,24,Auto Loan,Pending,75
+1450e42d-0e5b-48ad-b731-e4cba92506c1,Cindy Young,lburke@example.org,310.800.9865x46669,"776 Clark Shore Apt. 482
+New Davidshire, VI 70257",826,122314,643864,4409,27,Auto Loan,Pending,82
+095f0ca3-e6cf-4c44-a69a-b26d0bc46150,Evan Sanders,gsullivan@example.org,7925125386,"36910 Carpenter Causeway Suite 967
+Port Tracy, OK 39601",309,191191,877364,9428,22,Home Purchase,Pending,56
+2933829a-940e-479c-85d0-8e4181cdd5d2,Brandon Lewis,matthewwilkerson@example.com,001-290-725-0256x492,"1856 David Mountain
+Nicolebury, DE 91886",817,890364,165765,7855,16,Home Purchase,Approved,27
+edebe64c-d800-4883-863b-48f06d1b23c8,Daniel Sanchez,mark18@example.net,001-350-773-8986x609,"USNV Watts
+FPO AE 67076",657,150409,923839,9268,24,Business Loan,Approved,25
+ed3b5f5b-4748-464b-b104-a8f4ac451c3f,Frank Ryan,fredericklove@example.com,434-706-7933,"958 Walker Bridge Suite 433
+South Lisamouth, ME 37676",550,598267,836698,7560,27,Student Loan,Approved,99
+b64c3a52-7de2-4522-97c3-d6ae3f69d98e,Sara Lane,eric60@example.net,6329590305,"335 Hernandez Loaf
+East Lauramouth, VA 08211",762,655208,684340,5563,19,Home Purchase,Approved,62
+8243ca98-8e9f-410f-9dcb-02cb09ab5d84,James Green,petersontroy@example.com,2673473751,"183 Melinda Way
+North Angela, NV 95143",750,27613,52241,9012,28,Home Purchase,Approved,24
+e1053699-24ce-4ebe-afde-4b23ebb130ee,Dalton Jensen,zbrown@example.org,286-372-9658x22453,"929 Laura Flats Apt. 914
+Prattstad, VA 90018",451,586851,376881,5547,12,Home Purchase,Pending,37
+be66d888-a736-4ebc-ae5e-a26689a416eb,Amanda Roberts,cameron48@example.com,001-759-267-1968x09916,"284 Andrews Court Apt. 535
+Oliverchester, VI 77669",390,303268,901210,4228,29,Student Loan,Rejected,5
+a7ec72e5-0b13-4070-a745-e0caa633d311,Kristie Kelley,angela09@example.com,001-284-561-5872x827,"610 Hicks Inlet
+North Maurice, DE 51649",637,619796,595740,1431,25,Auto Loan,Rejected,32
+b2378945-d39e-4cf4-ba03-b4e88bac2ec1,Guy Hamilton,chris29@example.org,663.860.0732x5760,"95665 Golden Pike Apt. 899
+South Bobby, FL 64521",497,631772,279051,9379,24,Student Loan,Pending,56
+d3a964eb-e50d-4355-9fba-17b44b9633bc,Christine Liu,cainian@example.net,914.471.9073,"262 Antonio Views Apt. 131
+Port Troy, ID 80472",625,405414,183485,3735,14,Student Loan,Rejected,5
+10eda5d3-4c21-47ae-a030-cb07c18a9130,Denise Wade,kimberlyhernandez@example.net,499.235.9007x361,"56137 Charles Forks Suite 129
+Christophershire, VA 19160",490,889261,280678,3940,6,Auto Loan,Approved,35
+db8e03d8-a95b-43c3-aae5-a32b6690a2c2,Lisa Suarez,robbinssean@example.org,001-963-730-4495,"3296 Hahn Cape Apt. 332
+West Kimberly, NJ 27928",325,148938,373805,4201,3,Home Purchase,Pending,18
+c851c0f4-2e36-445c-aefc-3c33557d3702,Michael Haynes,jstewart@example.com,(222)246-5284x026,"37462 Mcclain Hill
+East Jacobmouth, FL 43694",825,861110,128119,2072,29,Home Purchase,Approved,79
+de18e105-61c4-43cf-ab64-0a498e872560,Tyler Moore,emendoza@example.org,+1-811-948-1069,"76065 Strong Manor
+Jessicachester, AS 18732",769,832459,686614,8841,7,Auto Loan,Approved,21
+cc2ff790-062c-427f-99b6-6f945f08ce12,Scott Williams,andreacooper@example.net,407-661-6319x021,"9558 Carrie Square Apt. 568
+Port Emily, KY 92688",528,347004,385273,5663,8,Student Loan,Approved,91
+a232bdef-0d51-48f0-a171-dea6b9921feb,Timothy Browning,dennis74@example.net,276.993.2923,"069 Kayla Fork
+Port Tinaport, CT 54549",300,853640,9044,4064,28,Business Loan,Rejected,35
+ac09909e-281e-458f-9aa6-1d0326d338eb,Martin Sandoval,griffithjamie@example.net,001-659-435-8546x7088,"26281 Ruben Junctions Apt. 560
+Haleyview, VI 25172",360,795748,257534,9229,22,Business Loan,Approved,87
+bfd03034-6b83-4805-9c18-875e922b970e,Julie Lambert,zhanson@example.net,304-482-8036x887,"2655 Richardson View Apt. 148
+Michaelburgh, MT 64142",835,52156,470161,5257,6,Home Purchase,Approved,0
+5ad03e68-c528-4d40-9871-f9c7fccc1f16,Candice Roach,michaelgillespie@example.org,001-684-421-6413x154,"517 Bailey Parkway
+Davidton, MS 98841",609,893399,350892,1713,8,Student Loan,Pending,34
+4d932965-746d-4d53-9178-5d5922a04e18,Jillian Huffman,michael38@example.org,(994)588-9208x5218,"5731 Alexandra Ways
+Lauramouth, NV 06059",735,730601,689091,5712,5,Home Purchase,Approved,69
+427b2b5b-2f71-439f-97d6-6e2eefcec095,Micheal Schmidt,jeffrey43@example.net,499.431.7308x868,"91352 Nathan Harbors Apt. 546
+Jessicaton, ND 08945",667,789696,426433,7470,22,Auto Loan,Rejected,10
+725be18a-8965-4627-a809-24fcc79fa583,James Smith,campbellandrew@example.net,001-368-617-6594x51222,"716 Martin Extension Suite 121
+Connieport, TN 47401",806,257371,192770,8973,16,Home Purchase,Pending,46
+9cc68d0a-8db1-4cb5-a70f-09023b78ec58,Miss Shannon Roberts,christy90@example.net,328.774.8176,"1040 Courtney Forks
+Ericberg, NE 05290",832,619234,852478,2654,18,Student Loan,Rejected,36
+71d189e1-cce7-4a91-a8ca-7d9156ee9399,Jacob Olsen,drivera@example.com,(968)525-1004,"707 Burns Inlet Apt. 928
+Cassandramouth, PW 83085",623,707064,976285,5441,14,Auto Loan,Approved,1
+2d7554d8-3445-400e-8e48-e87becf6bae6,Sarah Johnson,brownchristine@example.com,549-707-9558x5427,"73841 Christina Court
+North Andres, NH 65364",493,268381,674224,1590,5,Home Purchase,Approved,61
+701c1b90-27ef-4ab9-9328-339dc5053433,Monique Morris,francistodd@example.org,(355)540-0959,"3411 Caleb Corners
+New Mario, MI 31870",709,206547,955,8133,12,Business Loan,Approved,78
+fe7b56b3-1c8d-4e03-89a7-3e071dcd0855,Erin Miller,egardner@example.com,587.932.9920,"455 Angela Junction Apt. 693
+East Allenfurt, NV 09702",410,551712,334138,5444,3,Student Loan,Rejected,39
+2bcf48a4-e790-4279-bb25-e63cbcdc524f,Adam Hendrix,amanda03@example.net,+1-396-256-7760x2754,"070 Dean Centers Apt. 220
+Donaldhaven, TX 16456",707,254437,974391,8988,14,Auto Loan,Rejected,73
+710e51ad-a4f9-4012-adda-36b01b5718dd,Gregory Gonzales,craigmonroe@example.org,+1-511-537-6539,"43973 Garcia Spurs Suite 208
+Port Juliefurt, WI 29039",603,161990,961926,4818,30,Student Loan,Rejected,46
+cdcbdb4e-c1b3-4c8c-9808-c80eb1b3c0db,Nancy Callahan,tommy77@example.net,001-913-973-6317x299,"4894 Stephanie Islands Apt. 662
+Richardland, TN 28700",712,637507,625821,9776,10,Auto Loan,Rejected,98
+caf4abb8-bbb0-4557-b25f-e1727f2abcbf,Scott Paul,kwilliams@example.com,001-575-407-5882x36309,"98617 Maria Shoal Apt. 425
+Lake Matthewchester, AK 47852",398,534299,982036,1926,24,Business Loan,Approved,30
+350009ac-2b5b-4d2e-9c00-b8f16d37a557,Dr. Leslie Roberson,ashley83@example.com,001-525-756-3998x385,"6790 Robert Creek Suite 873
+Waltonbury, KS 03678",841,674400,73815,5543,10,Student Loan,Approved,69
+deafad71-efb6-4300-9b7b-a7ca5eda784a,Judith Yang,zjones@example.org,679.612.8415x598,"Unit 4469 Box 9454
+DPO AA 72171",628,756517,902101,3583,14,Auto Loan,Approved,42
+656a372c-001a-4cf6-9cf5-e8b88149e4b7,Paul Stevens,ifloyd@example.net,582.555.3733,"PSC 4712, Box 3714
+APO AE 31263",414,61914,260864,6558,29,Auto Loan,Rejected,56
+bf5bc304-a076-46c0-b7a9-b5356df6e2d4,Lindsey Lambert,timothyhale@example.net,280-444-1633x4880,"95413 Stephanie Ramp Suite 713
+Ianshire, SD 39881",523,689327,269901,5439,21,Business Loan,Pending,93
+4ee62dd7-ae28-4735-97dd-8647c159a32e,Mr. Paul Gonzales,rebecca68@example.net,+1-663-928-2947,"710 Mahoney Estate
+East Michael, KS 28138",302,219594,721930,5124,18,Business Loan,Rejected,93
+226a5406-a6c6-46c5-a0f8-11aeda0d194a,Daniel Wilson,abigail59@example.net,001-927-526-3829,"8391 Jasmine Haven
+Port Sherry, AZ 19455",444,614801,252881,6887,21,Home Purchase,Rejected,53
+b5064855-e8cd-4100-a4f4-6c887306cb85,David Murray,terranceyoung@example.com,001-650-651-0341x70563,"PSC 7843, Box 3508
+APO AA 90987",604,789414,298498,3785,18,Home Purchase,Approved,86
+d5b0c04d-5857-4f4a-992a-3fd75d19449d,Robert Johnson,lamjamie@example.com,(780)612-8474x59189,"720 Jeffrey Mills Suite 872
+West Rhondaton, MD 90566",528,73823,450161,9768,11,Business Loan,Rejected,27
+9988ace8-c77e-4a49-9cb5-0d438ac250df,Linda Chavez,samantha53@example.org,(776)562-5548,"153 Gates Harbor
+Lake Amy, GA 42621",311,317432,915894,7605,16,Auto Loan,Approved,90
+60b9747a-f420-4fa8-bfa4-38a4d8a8f3db,John Hunter,david27@example.net,001-686-853-9743x4218,"15715 Wright Village
+Lake Tamara, ME 44200",341,274458,142300,2785,20,Home Purchase,Pending,31
+77bb1896-ce91-4898-96f1-6bed1daa7173,Carrie Brown,kellycrystal@example.com,+1-427-436-3369,"7658 Russell Trail
+North John, TX 38624",643,20703,257063,9497,19,Auto Loan,Rejected,85
+c348038f-3e00-47f0-a849-f97f4962dabc,Antonio Vance,timramirez@example.net,664.810.3565,"786 Thomas Bridge
+Bowmanhaven, AR 18292",760,521742,684994,2796,25,Home Purchase,Pending,60
+7b7f79d1-2ae8-47e9-96f9-b1657265ae66,Cathy Sanders,stephanie48@example.com,001-537-525-3314x033,"1671 Smith Drive Suite 760
+Clarkton, VT 94760",417,263310,324742,5969,1,Auto Loan,Rejected,87
+82e74b1a-6543-44ff-bdc7-c9b46af89e90,Brett Miller,michelerobinson@example.com,+1-738-619-6526x5923,"32161 Gray Parkways Apt. 833
+Tiffanybury, OH 15627",378,267123,578286,7050,8,Auto Loan,Pending,93
+2472be8e-6ac2-4d1b-bc30-955f866806b1,Diana Ferguson,kyle59@example.org,+1-581-394-0174x8502,"658 Devin Well
+New Victoria, RI 34521",804,274491,310660,8012,25,Student Loan,Rejected,58
+1cb29f00-c15e-461a-a64c-ce6971c4b360,Thomas Olsen,ujohnson@example.org,+1-379-381-8218,"PSC 6559, Box 2482
+APO AE 59687",682,693852,755232,5636,27,Home Purchase,Rejected,89
+2643d1a8-d79d-417b-83a9-fbaabb318d2b,Calvin Cummings,xsmith@example.net,001-312-210-1277x13282,"9213 Rogers Underpass
+Jimmybury, NH 36241",836,146729,854718,3760,28,Auto Loan,Pending,9
+bfe4acfb-b590-4cf1-aec6-a91b7c0074c3,Gabriella Doyle,aaron27@example.org,001-574-682-5477x927,"6265 Brown Hill
+West Julie, LA 85603",767,811930,416737,5356,18,Home Purchase,Pending,13
+322cac9a-062c-4930-ba46-9182571144f9,Laura Jones,jacquelinemarsh@example.net,001-257-616-6225,"6361 Tyler Valleys
+Rodriguezburgh, MI 37141",529,429017,661161,9753,1,Business Loan,Rejected,12
+3f0556f2-a2f8-4728-bf6f-5d768519ff26,Samantha Baker DDS,cfowler@example.com,625-549-1837,"USS Short
+FPO AA 85340",744,652655,652172,8365,14,Auto Loan,Approved,53
+125d5b64-26da-4ccd-8b26-d1ca4be94bec,Alexis Berry,hbaldwin@example.org,001-903-745-0512,"774 Amanda Glens
+Alexanderstad, MP 92306",392,359524,585733,9856,16,Auto Loan,Pending,81
+670b6ad7-166c-40f2-84a2-4ed6512c84a6,Megan Simpson,elainewilson@example.net,+1-200-630-7483x474,"302 Ellen Common
+Jameston, MI 00975",783,103131,808680,4433,29,Auto Loan,Rejected,5
+d8347212-3455-4b0d-afe4-b728d767e70b,Allen Silva,jason45@example.net,218-369-2618x7940,"USS Hill
+FPO AP 68310",818,612878,512883,6515,3,Student Loan,Approved,49
+0856d496-422d-4112-adec-fc547f224c3f,Kristy Willis,dmorse@example.net,3422566993,"32787 Ryan Prairie Apt. 984
+Nathanmouth, CT 75542",535,394652,713387,9886,25,Student Loan,Rejected,21
+427f664a-d9af-46fd-8e76-b6fac521824e,Audrey Barnett MD,jennifer59@example.com,994-696-7597x865,"PSC 7899, Box 8101
+APO AE 10051",312,453489,132476,1193,25,Business Loan,Pending,26
+997576ec-d2a9-4079-9d2f-5bbcf9368e5e,John Garrett,kellyjones@example.net,(351)512-1337,"PSC 4850, Box 9618
+APO AP 40002",613,264775,491653,1695,24,Home Purchase,Pending,73
+adc0f187-cc6c-4c46-9756-50afb3e5e473,Sierra Price,tracy65@example.org,4582691092,"47444 Taylor Park Apt. 403
+Christianside, AK 16445",341,816859,178932,2585,28,Student Loan,Approved,39
+d84b8162-0fd0-4d60-8a9b-6dbe6ce746fb,Kristy Sanchez,mathismark@example.net,(842)757-7528,"94484 Robert Path
+Nicholsborough, PW 00843",507,866724,438991,6324,7,Home Purchase,Rejected,59
+7d14371f-1f0f-4d76-ac4e-9cbac1d736c7,Victoria Peters,robert48@example.com,221.599.4065x350,"642 Brooke Ridges Apt. 637
+Dudleymouth, AZ 75151",828,316754,186630,9168,29,Auto Loan,Pending,18
+f3d1b245-1cbf-4d59-a3b9-d95542cb2f39,Sharon Wilson,jfuentes@example.com,+1-512-768-7788x4995,"1082 Martin Throughway
+Shelbyfurt, WY 59277",325,622702,448148,8036,4,Auto Loan,Approved,99
+6d501923-9a78-48b6-88f0-c69c39fb1937,Pamela Hogan,nicholasoliver@example.org,222.789.9326x099,"7909 Jill Roads
+North Robinmouth, NC 93758",696,405871,649600,8357,9,Home Purchase,Pending,43
+ce676ebb-341c-4f92-a444-1cdd680675fa,Jessica Fowler,aadams@example.net,001-555-446-8784,"3149 Brown Creek
+Lake Sharon, ME 78456",731,645659,482410,9999,28,Home Purchase,Pending,45
+df5ff49e-41f5-462c-9258-2b577fd4795f,Vanessa Miller,christopherlester@example.net,(294)236-6457x9131,"USCGC Brewer
+FPO AP 13659",677,726082,293219,4642,2,Student Loan,Pending,23
+7a6bf7a8-91ff-4858-a637-1d743db21ecc,Jacob Perez,elliottjohn@example.com,2713078807,"2713 Christopher Greens
+North Melanieborough, SD 34753",835,503580,382745,2046,2,Auto Loan,Approved,100
+51ff8218-78a9-4a3d-88c8-b74d24c74410,Ashley Kelly,ljackson@example.com,201-958-9575x8719,"USS Ramos
+FPO AE 42913",631,226673,102353,4170,10,Auto Loan,Pending,93
+514b39d0-d550-414a-afd2-9822d38e30be,Jason Jones,pjones@example.com,406-681-3665,"09923 James Viaduct Apt. 066
+Caitlinchester, MT 79308",365,886029,727035,5448,25,Auto Loan,Pending,85
+4cbe203c-6e48-46f3-b0ed-a6af90d6fd79,Rebecca Contreras,hartcrystal@example.com,585-773-4411x711,"437 Roberts Ville Apt. 164
+South Dana, UT 76946",480,546246,563879,8197,23,Student Loan,Approved,53
+fe936edc-8366-4a75-b984-57091a460da1,Christina Kirk,matthewhall@example.com,+1-778-644-8136x548,"5463 Russell Locks Apt. 986
+Lake Helen, KS 62312",340,337569,516200,3631,25,Auto Loan,Pending,29
+bd80918b-9636-4898-8f53-530771d217f7,Julie Martinez,eric67@example.com,001-323-265-2914x2433,"4131 Watson Knoll
+Davishaven, CA 79171",444,791104,521618,6711,22,Student Loan,Approved,78
+aef1ae85-05ab-419a-8b67-5a287c0a18a5,Todd Church,stefanie69@example.net,(234)797-4125,"0414 Robert Road
+Cynthiahaven, NV 45959",827,32955,712059,6045,11,Business Loan,Pending,44
+8faa025c-36ce-4a1f-bcd7-e7589a53027e,Suzanne Miller,lisamorris@example.net,8383618086,"282 Gonzalez Mills Apt. 096
+Lake Teresaland, ME 20735",691,441091,226209,2208,20,Student Loan,Rejected,6
+2803fa9e-bcd5-4fe0-bb0b-29f870b1e8c6,Scott Hicks,areed@example.net,(240)983-5018x86443,"2507 Williams Route Suite 252
+Watsonville, MN 48868",711,236529,786132,2714,11,Home Purchase,Rejected,71
+1ef17c87-3df9-4ece-8d5d-cac515de5633,Sean Harvey,wongeric@example.com,001-244-860-1940x59724,"09692 Evans Harbor Apt. 528
+Millerland, MS 86601",561,348195,187149,2057,22,Student Loan,Approved,79
+7be30a55-4cf5-4935-bd2b-703fc7b5cd3c,Reginald Hoffman,brodriguez@example.org,724.548.2352,"534 Gomez Ports Apt. 127
+Cardenasmouth, MD 87313",643,117202,99277,9306,20,Business Loan,Pending,31
+541fc490-5315-4ef2-81bd-6478a3658fd3,Amanda Reed,mark04@example.org,+1-274-415-0580x744,"1754 Lewis Greens
+Port Jennifer, KY 64543",304,537150,572586,5043,29,Business Loan,Pending,52
+d81c427e-9650-4bc6-8e4a-f0fddeb68d43,Samantha Randolph,shannonrachel@example.org,001-519-572-3322x3865,"40713 Hudson Overpass
+Stewarthaven, AZ 52615",845,447644,485078,9418,8,Home Purchase,Rejected,35
+0fb96a38-80bb-47e1-b82f-28bea943dd22,Dr. Jose Rodriguez PhD,mark88@example.com,001-411-203-7093x8125,"40158 Graham Village
+Maciaschester, MS 37263",764,37860,823268,9360,22,Student Loan,Rejected,55
+0918665b-83b5-4dc4-8497-b7d7e51a9fd3,Allen Wood,heidiharris@example.com,+1-203-394-4272x039,"62153 Stevens Shoal Suite 144
+Janefurt, VI 04892",365,225073,554552,9849,27,Student Loan,Approved,9
+331943ea-058a-4637-b7d3-1b2c3e6ee16b,Heidi Weber,santiagoluis@example.org,337.497.3824,"0333 Dustin Extension Suite 339
+Port Brianside, OH 02959",849,126603,900900,8821,15,Student Loan,Approved,26
+5496f80d-a659-410b-8470-1b2eaae6d52b,Teresa Moran,morganjackson@example.org,001-410-688-2874x95191,"97018 Tracy Mall Suite 533
+New Brianfurt, PR 65263",729,403523,87732,1449,28,Home Purchase,Approved,19
+7bd5f09d-27c7-4ded-b6e4-818261c816b5,Carolyn Torres,allison62@example.net,322.997.7477x72048,"78901 Brianna Summit Apt. 658
+New Meredith, MA 81379",810,331566,162921,4913,21,Business Loan,Pending,52
+a10d98b0-a87d-4a8e-9555-fa8d5d369b18,Michael Jordan,nataliechapman@example.com,(405)801-4455x82579,"44642 Eric Glen Suite 169
+Blakefort, FM 32835",462,626577,457189,6179,30,Student Loan,Rejected,55
+c956e06e-4f76-41d5-bb2a-436e3474bdd5,Jacob Baxter,olee@example.org,(246)519-1045x29940,"3595 Brittany Summit Suite 663
+Wagnerland, LA 86934",611,801699,255325,6034,15,Home Purchase,Rejected,0
+92e53dc2-d540-450f-aca6-9b74789ce52c,Kendra Webb,christinerobbins@example.com,974.664.7721,"87938 Perry Creek
+Lake Vickieview, DC 17925",317,752839,576569,2164,5,Student Loan,Pending,34
+6f9a37f6-924f-4c28-bbae-12cd2cd8692e,Susan Newman,thompsonsusan@example.org,812.982.2368x9955,"0183 Castillo Rapid Suite 367
+Jenniferville, NV 86387",478,521054,848295,1088,12,Home Purchase,Pending,55
+6b4ea4ac-2d7f-4c95-9506-4b226aeb19b2,Mr. Christopher Sparks,fishercameron@example.net,+1-232-840-4309x3702,"73997 Charles Valleys Apt. 186
+South John, ND 87971",362,626832,960609,2143,23,Business Loan,Pending,86
+f83f24b7-076e-484d-9f1b-5f434897fb98,Tara Doyle,cortezwillie@example.net,(278)224-7902x69766,"118 Joshua Creek
+Nathanside, ME 42379",348,139575,933406,7426,18,Business Loan,Approved,91
+b27cf42a-a349-4224-bb26-f0c5a9aed971,Ashley Oliver,fdawson@example.com,(339)719-6459,"3995 Johnson Ways
+South Brittanyborough, KY 95304",461,24178,37376,2364,20,Student Loan,Rejected,88
+f875bb3b-fdcb-4f82-959a-389c8ec9d67f,Deborah Hickman,stephaniestone@example.org,933.965.2009,"82491 Solis Knoll
+Port Shelby, RI 95149",675,276074,496212,8035,26,Auto Loan,Pending,27
+35caac1d-6d80-4147-bdd0-22aadaaba608,Lauren Hardin,hernandezcurtis@example.net,+1-542-716-8351x314,"2124 Eric Trafficway
+Charlesmouth, MN 32508",829,642953,952624,1554,3,Home Purchase,Pending,57
+c4408133-9261-4966-9100-afa48f678431,Shirley Arnold,christine80@example.net,(586)509-3903x671,"1442 Caldwell Extensions Apt. 584
+Sydneyfurt, DC 80888",506,538795,580378,4383,25,Auto Loan,Pending,99
+c13571ad-9414-4702-bd6a-789cb682e96b,Joseph Jackson,rachel73@example.org,819-381-1022x49471,"745 Ward Wall
+Turnerville, MP 61006",799,59015,573446,9671,11,Home Purchase,Rejected,83
+de30355e-d2bc-4650-9b2a-25fed9af25d8,Shawn Holloway,ashley45@example.com,(866)361-7951,"734 Graham Village
+North Francisco, IL 83275",406,42376,920991,5987,3,Auto Loan,Rejected,15
+e6ffcdb0-94fb-4927-aa96-0a65752b185c,Brenda Miller,rachel03@example.org,821.851.9136x96441,"5359 Alicia Square
+Lake Debra, OR 25205",416,698803,107698,8239,26,Auto Loan,Rejected,93
+1a661907-541e-418b-85fc-6e46b02718d3,Rachel Padilla,gonzalezvictoria@example.com,944-988-2791x9029,"2403 Ayala Plain Apt. 925
+New Michael, VI 69138",595,441419,781945,3435,3,Auto Loan,Rejected,49
+63dcbaa1-ee67-4d68-b4ac-08005f502dbc,Danielle Fischer,jasminerojas@example.com,354.535.1857,"2503 West Plaza Apt. 117
+Kimberlyton, ID 00675",718,462877,946459,7415,3,Home Purchase,Pending,81
+1b49f05f-92c9-4839-9c07-2a282a3b61f1,Michelle Newton,lawrenceburton@example.net,+1-703-281-0594x237,"40750 Gail Mills
+South Tammy, AZ 75197",623,416162,504020,3762,5,Auto Loan,Pending,6
+f537fb25-bbe4-4cd4-b138-4c63e90ebd0d,Victoria Warner,crystalreed@example.net,+1-876-885-7937x3392,"6845 House Point Apt. 957
+Davisstad, CA 21613",718,509866,824484,1782,19,Home Purchase,Rejected,92
+0d8ee9d3-1431-4dbf-8c73-1c31b9de1761,Amy Alvarado,ricky43@example.org,(615)307-0783x153,"65201 Daniel Forges Apt. 709
+Port Leslieville, VA 57740",560,828218,659833,2772,16,Home Purchase,Approved,46
+231f3e78-c430-4e31-ae4e-1dd927de23a0,Thomas Leblanc,hayleyellis@example.com,2325282544,"02904 Jacobson Via Apt. 291
+Dianechester, MO 48607",686,393850,421572,9134,10,Business Loan,Approved,32
+42f60102-d4ed-433c-9199-9e22b2e8f138,Thomas Small,jonesbrittany@example.net,6524266003,"881 Megan Loaf
+Johnsonland, OK 22113",380,150651,706343,5362,4,Business Loan,Pending,17
+e7c83fcf-5f06-468d-a590-14b32b6f3366,Stephanie Lee,clopez@example.org,508-756-9294,"919 Emma Via Suite 575
+New Linda, UT 34158",566,359885,580470,1238,20,Student Loan,Pending,19
+34b80667-339e-4412-b195-d7d4b5da6e50,Zachary Pierce,robertselizabeth@example.net,001-929-307-2483x036,"89334 Mcguire Mews
+Reidton, MP 44814",367,22326,623567,5055,1,Home Purchase,Pending,18
+9f5dca56-1f78-48c2-a109-a3c00c15d23a,Heather Mcintosh,dnewton@example.net,(255)717-6303,"6339 Maria Station
+Scottfurt, ID 88715",419,893105,394782,4720,7,Student Loan,Rejected,16
+1a384642-d7aa-43f2-a39a-5a55cf37bbac,Jordan Blackburn,richard73@example.org,623-551-0220x47794,"59444 Woodard Port Apt. 829
+North Jamie, WV 59544",762,63786,477227,4835,14,Auto Loan,Pending,24
+9746a565-2828-4f35-bed5-4dce801c36c4,Nicholas Johnson,jacobwilkinson@example.com,654.453.2126,"19967 Robert Manor Apt. 670
+Port Steven, VI 85202",735,368529,286811,7100,7,Business Loan,Rejected,38
+0846b49b-eba5-460b-bfbd-297aec7ae495,Mrs. Stephanie Murphy,edwardedwards@example.org,(583)827-1197x213,"73410 Smith Course
+Hartview, MN 68973",407,659387,505610,1786,27,Home Purchase,Rejected,73
+bacae827-3dd0-47f7-99ec-2d78e8e72e3d,Stacy Harmon,troybutler@example.com,837.717.6149x309,"89263 James Port
+East Loriborough, CT 32541",590,325346,301987,4657,3,Business Loan,Rejected,70
+47aeda3d-57e2-4816-9d1d-825a8764051e,Ronald Smith,johnsonlee@example.net,(777)483-4383x9073,"167 Chavez Locks Apt. 644
+New Misty, ME 36375",600,255902,52199,2625,5,Home Purchase,Rejected,55
+76e33d08-2d0c-4ec7-b45c-c8a2b8461a86,Melissa Hansen,rliu@example.org,001-845-373-5525x66545,"68136 Cheryl Lodge
+West Amber, MD 60705",805,381972,418080,1062,6,Auto Loan,Approved,33
+13c555a4-dc81-49e2-8f53-9dd31c263c6a,Stephen King,katelynmoore@example.org,6322413549,"111 Gray Road Suite 584
+East Vanessaland, ID 69008",634,309282,943222,1490,7,Student Loan,Rejected,64
+aa9db303-4302-4049-b397-9380020e6f7c,Austin Garner,donnayork@example.org,(912)361-2704x10263,"32989 Jocelyn Junctions Apt. 391
+Markland, CT 16607",745,795654,222600,1399,4,Auto Loan,Pending,28
+6ebd154d-b951-4d39-a7ea-ddeacda1811c,Benjamin Mason,thull@example.net,394.355.9940x7633,"363 Taylor Tunnel
+East Jacobbury, NH 50943",802,545112,43119,3740,27,Home Purchase,Approved,19
+d73a8839-cec9-44c4-820d-cf277dc74ab4,Amanda Wallace,jasonrice@example.com,466-591-9481,"1498 Hernandez Freeway
+East Annaburgh, OR 20353",462,615188,680948,6007,20,Business Loan,Pending,28
+36717fc8-79e9-4054-ac3a-a795ec787d69,Allison Pennington,randolphangela@example.com,870-561-8495x78020,"9530 Bartlett Pine Suite 854
+East Paulamouth, ME 60348",652,785447,367542,4272,25,Home Purchase,Rejected,95
+f2cb7759-b139-4cd5-9ed9-cf7bc919a3e4,Dustin Pennington,paulcampos@example.org,+1-281-631-8892x1196,"508 Miller Rue Suite 360
+Duncanborough, GU 47581",493,416727,3260,1662,10,Business Loan,Approved,9
+3b0224cd-4a1c-485f-b12d-d2175c79299a,Charles Schroeder,billybond@example.org,(428)226-2919x5331,"013 Haas Fields
+Port Kennethland, OK 13558",422,113704,896279,7571,9,Auto Loan,Approved,81
+9f60ae58-f90a-4aff-b02f-cac73f121d89,Richard Davis,kferrell@example.org,647.771.8347x403,"20456 John Overpass
+Lake Mirandamouth, RI 79822",843,179474,986785,8512,9,Home Purchase,Rejected,64
+386636ba-231e-40ea-bd9a-fbc40b789f7d,Alexis Pena DVM,webbmary@example.org,+1-963-379-9459x211,"787 Stout Mountains Suite 986
+West Stephen, DC 56700",398,271301,193712,5927,22,Business Loan,Rejected,38
+07436162-42e6-4d4e-aa54-07c12123255e,Jessica Rodriguez MD,mary39@example.net,675.850.2931,"9296 Brown Centers
+Kevinfort, OH 19481",399,131297,134774,3230,28,Home Purchase,Approved,65
+4ef1e60a-57ca-439b-bb4f-a8f5e6657245,Bryan Harris MD,hallian@example.org,667-727-4024,"94308 Steve Meadow
+Scottbury, PA 88880",302,395742,591753,3933,1,Home Purchase,Pending,54
+245242ef-1310-45af-bad6-7d316f178b8f,Paul Tate,floresmark@example.com,9607581618,"082 Jill Unions
+West Kelliemouth, AR 93769",306,594351,986578,9893,11,Student Loan,Rejected,96
+49955c1f-cc65-4f0b-80a0-593fcb8ce870,Jamie Valdez,nsmith@example.org,001-745-499-0894,"75671 Peterson Spurs Apt. 292
+New Sarah, TX 23266",427,854117,671556,7149,5,Business Loan,Pending,60
+65539689-22b0-4be5-b3e8-f3131577cfb5,Thomas Scott,ebell@example.com,332.818.8371x17371,"20342 Mendoza Islands Apt. 858
+New Michaelmouth, TN 18143",444,664933,854472,1916,13,Student Loan,Approved,24
+337e890d-f5e4-4667-afe6-7e37eb01989d,Nicholas Ingram,andrewilson@example.org,001-647-379-6913,"1507 John Fort Suite 202
+East Angelamouth, TN 84945",558,72423,724147,9364,13,Auto Loan,Pending,57
+309828c5-829c-434b-8a7a-6b7ea7d19639,Alicia Carter,qbowen@example.net,(550)886-0794x564,"7356 Christina Park
+New Brandon, HI 08122",764,866156,365411,7928,12,Business Loan,Approved,71
+7d415569-e6f1-444d-bac8-40fa177a27bd,Maurice James,angelica89@example.org,347-649-2262x70762,"1416 Gonzalez Turnpike
+Gonzalezberg, VI 23441",329,453511,947863,1350,8,Home Purchase,Approved,76
+e94b68ae-03e6-47a3-8399-e77e1f98af17,Dominique Tran,zcampbell@example.org,566-803-8258x8622,"983 Susan Squares Suite 872
+Morrisborough, RI 68714",727,579060,614305,7136,23,Home Purchase,Rejected,51
+8c1eeb74-7b7a-4d15-a2f0-1c1a33a7c459,Elizabeth Martin,linlauren@example.org,546.964.5843x7152,"4139 Huang Islands Apt. 254
+New Robert, AS 14696",333,397708,628543,1188,21,Auto Loan,Pending,81
+353a1ac8-b1ad-423d-9357-33e7994d570a,Peter Mahoney,reevesbrett@example.org,(894)531-8307x61967,"70540 Sheena Walks
+Port Crystalshire, DC 93355",332,406530,720360,2129,11,Business Loan,Rejected,36
+c9fb26ad-145c-425a-b4b1-d8a3e4e5082d,Ethan Sanders,edwardsalison@example.com,(501)767-9649,"75186 Fowler Forges
+North Tiffanyton, DC 35853",518,488882,975538,8168,8,Auto Loan,Pending,85
+8727c19a-9452-4b1f-b415-fa3d746ac691,Katie Jackson,ronald81@example.org,(553)470-8209x522,"0944 Melissa Pike
+New Julie, NC 20359",541,675766,149573,9173,18,Business Loan,Pending,64
+e2889bf1-536f-4df7-b849-55437f1d1116,Micheal Stein,wjackson@example.net,001-509-588-4589x1638,"15965 Christopher Land Apt. 539
+Port Cherylland, SD 10292",493,601057,385576,8776,16,Auto Loan,Rejected,27
+26c6eaf2-b587-424d-8719-729d0ae46c07,Jerry Martinez,higginsbrian@example.org,654.534.3221,"0767 Wells Light Apt. 520
+Martinfurt, DC 79068",671,39467,545155,5031,11,Student Loan,Approved,85
+265b3329-1696-40db-bfd8-ad56f001928a,Christine Ward,russellshepherd@example.com,001-873-387-5554,"323 Erika Terrace Suite 599
+New Kimberlybury, VA 37088",514,62080,911466,1549,20,Business Loan,Approved,85
+875a15d0-319f-4516-a4cd-f36f0e7c30bd,Michael Dougherty,dawnrice@example.net,8749597115,"7629 Michele Stream Suite 531
+Lake Travisberg, LA 31617",566,810713,600174,8096,19,Auto Loan,Approved,4
+03ff6bb5-efe3-45ec-9bbb-ea4cd388462b,Brian Patton,cynthiafarrell@example.org,359-915-0149,"215 White Cape Apt. 282
+Watkinsstad, VA 65949",429,850369,426559,4735,5,Home Purchase,Approved,36
+4528e32a-28f0-4864-8926-3f61d4d3a5d6,Vincent Horton,wwilliamson@example.com,412-825-1336,"6613 Jennifer Walks Suite 025
+Williamshaven, WV 72829",348,68276,604717,5580,2,Auto Loan,Pending,97
+3df3cd99-99ae-4863-bd4c-802198cdedd8,Christine Bishop,aellison@example.net,6503072744,"5328 Trujillo Rue
+South Alexa, WI 34143",663,289986,168326,5192,14,Auto Loan,Rejected,86
+ca658307-4dfc-492b-a91e-2e821914ac72,Belinda Figueroa,ajordan@example.com,001-557-213-2635x626,"966 Griffin Burg
+North Carrieberg, WV 83855",357,421873,984525,6800,29,Auto Loan,Approved,82
+77f4d37f-7499-4951-a3fd-f188ff8be6cb,David Haley,blane@example.net,378-950-8530x5734,"62043 Erik Harbor
+North Saraville, PW 59481",635,560016,134934,5397,11,Student Loan,Approved,44
+77c69b89-737e-4070-828b-725184ee9caa,Sydney Clark,rodriguezthomas@example.net,480-272-7376,"6112 Angela Branch Suite 400
+Lindaburgh, MS 27760",546,550123,501843,4365,15,Auto Loan,Pending,48
+1330fdd8-81c6-410b-8842-52449b740d17,Robert Cole,annjohnson@example.org,(555)263-7528,"989 Michelle Ramp Apt. 140
+East Tammy, GA 67055",551,493196,885097,2326,29,Business Loan,Pending,31
+1e2378e8-55df-430a-8acd-025e7b5852e2,Samuel Lawson,wphillips@example.com,9807366930,"890 Green Flat
+Jeremyfort, ND 61240",381,412686,469284,9525,28,Auto Loan,Approved,93
+bbd4bc1b-d80f-4ddb-88d0-a8d4b71833f4,Jared Savage,nicholasjohnson@example.com,001-884-747-3400,"89309 Olivia Causeway
+West Josephburgh, FM 31559",667,612168,846985,6795,26,Student Loan,Rejected,65
+92fdc83a-85e8-4095-bef3-e63fd3f84f44,Judith Brown,rmartinez@example.org,+1-985-260-5972,"062 Shields Village Suite 706
+Roberthaven, NH 20629",403,636360,656948,4395,11,Home Purchase,Pending,43
+fcb19e69-4d0b-41a9-9492-aadd11006d01,Mrs. Sheena Marshall DDS,xpeterson@example.net,974.636.1258x82185,"95529 Kyle Road Suite 844
+Marymouth, IA 72785",570,35952,621658,9091,22,Business Loan,Rejected,55
+08bb3f20-2d4c-4cef-b9e8-104c4850d626,Mary Nash,paulgutierrez@example.com,+1-931-883-5454x946,"58731 James Forge
+South Shawn, SD 36710",641,457226,980595,5392,27,Auto Loan,Approved,81
+d3edce21-6da6-4361-98cb-3c82cabc16d8,Reginald Johnson,riverapatricia@example.net,534-677-5898x650,"865 Logan Rapids
+Lake Arielhaven, HI 81463",331,143289,912689,6805,21,Business Loan,Rejected,48
+0c2c93fe-8b4a-497d-982c-0268ce09ba7d,Jonathan Smith,douglasrivera@example.com,+1-583-394-5450x64754,"64761 Dawson Motorway
+Lutzmouth, SD 08017",403,31338,363177,5621,7,Auto Loan,Rejected,32
+0c63097c-38b2-40a5-b6d5-f8d5cbc4824c,Jennifer Soto,bryanjody@example.net,+1-875-213-9190x76198,"0119 Conner Port Suite 675
+Lesterburgh, IA 15758",311,784317,531261,9647,29,Student Loan,Rejected,82
+6a90848b-4688-4731-aa6f-044df76bfffe,John Cox,donna52@example.org,443.884.8007x93731,"08418 Pugh Mission Suite 936
+Lake Melinda, KY 72118",687,532444,45472,3826,15,Home Purchase,Pending,70
+a793f4df-2ed3-494a-9d64-72d73d8fe6d2,George Harris,laurajohnson@example.net,830.888.9957x64550,"8942 Julie Hollow Suite 169
+Hamptonfort, NC 20993",452,314005,854231,1514,7,Auto Loan,Rejected,95
+ad4300c7-7845-4440-8db5-63f2fef4b7d7,Kathleen Cole,dbrown@example.org,205.449.8217x4214,"Unit 2291 Box 6484
+DPO AP 18572",469,28407,164481,9488,28,Home Purchase,Approved,20
+f8b760e2-c5b0-4837-9bf1-56a3ec28a34b,Derrick Melendez,gkelly@example.net,(726)808-3452x568,"45882 Brown Trace
+Lake Julieport, IA 55834",650,537817,835861,8829,12,Business Loan,Rejected,85
+49a885fa-42c0-4beb-96cb-198e2b3bd270,Yvonne Brewer,mitchellrobert@example.com,737-946-3459x6725,"85022 Michelle Divide Apt. 713
+Sullivanville, NY 59333",635,546878,763265,4384,7,Student Loan,Rejected,69
+621cc25b-f415-48a1-87e5-3c0c651b237a,Angel Lee,rowlandellen@example.org,5062740037,"44950 Fields Shoal Apt. 301
+Michelleberg, IN 42647",403,327714,863818,4285,1,Auto Loan,Pending,66
+447103c2-5679-4622-a6da-15749816d35b,Mandy Sullivan,linda40@example.net,2134561350,"69778 Roth Mall Suite 274
+West Veronicafort, OR 15660",610,226940,544303,8888,6,Auto Loan,Rejected,6
+5be483a8-6f51-4300-b731-6d2d931b6877,Kimberly Brewer,bstrickland@example.com,+1-598-311-1286x870,"788 Kelly Loop
+Lake Leslie, ME 03482",400,95721,208657,1592,19,Business Loan,Approved,22
+06188071-7d23-4105-9ed6-535d2a43eaf4,Willie Abbott,cphillips@example.org,469-273-4944,"993 Karen Mountain Apt. 090
+Wilsonland, MA 44931",409,323863,248552,9903,2,Business Loan,Pending,3
+ae0a4c6b-30e1-42d5-8b11-a217eb4b943a,Jeffrey Mendez,lyang@example.net,945.200.4055x848,"USS Miller
+FPO AA 35935",612,337180,175195,1325,5,Auto Loan,Rejected,45
+e50d02c7-a8af-452f-832a-ec6374335f07,Thomas Choi,oarellano@example.org,961.954.4718x787,"319 Carson Spring
+Woodland, MO 57113",384,123201,269675,8836,3,Auto Loan,Pending,25
+127900c9-e3ef-4040-8f8b-3fced2860bde,Tara Cantrell,debbie28@example.com,001-781-747-8220x51133,"474 Sean Dam Suite 645
+Nelsonport, MT 29767",448,479180,609130,3859,6,Auto Loan,Rejected,34
+552fb0ea-5f52-46f3-9e8c-6b88b289024a,Belinda Barnett,stephanienoble@example.net,(850)742-7501x8427,"111 Johnson Harbors
+Port Donna, MA 25558",453,214620,166182,7903,17,Business Loan,Rejected,12
+474d313d-fd89-44fe-b5ae-902a3ff53053,Leslie Joseph,michaelbowman@example.net,994.863.7025,"6373 Buck Haven
+Luisshire, SD 08961",541,600950,675292,7174,10,Business Loan,Rejected,88
+14fae0d3-2fc8-48d0-9d3c-343b82f271ad,Willie Huang,jlee@example.org,602.733.4468,"6059 Jones Route Apt. 938
+East Cindy, OR 82713",439,715530,681877,7051,15,Student Loan,Pending,32
+a28db7ae-496f-41ff-920e-688df1efacce,Emily Dillon,iphillips@example.net,241.928.3657x89268,"260 Santana Manors Apt. 863
+West Karenhaven, WY 79095",475,333995,966270,6878,11,Business Loan,Pending,98
+98e5dae6-67ed-49de-99b3-e64fde14db44,Danny Kline,itucker@example.com,3906881993,"93960 Herring Lights
+Ronniechester, MO 03410",757,461948,375353,4997,5,Home Purchase,Pending,2
+4d2bb9d6-c1c9-4257-a208-5d1d2119936b,Ashlee Frazier,odomnathaniel@example.net,001-984-320-2831,"52454 Gibbs Points
+Sandrastad, WA 07851",844,161788,925630,9712,28,Student Loan,Pending,91
+1eef0b79-0c76-4b72-affd-a121381077e1,Rebecca Larson,shane34@example.org,201.202.7934x33479,"043 Matthew Corner
+Parrishshire, VI 97721",629,840346,148768,6125,7,Auto Loan,Pending,30
+0ac4a9a9-9444-4fde-85dd-0f9a2bf92aa7,Thomas Norris,hannah14@example.org,468.791.1340,"0144 White Avenue
+Danielview, KY 95125",777,216167,871669,2002,4,Home Purchase,Pending,45
+c20accab-da6a-4c00-9e74-fe775093ddea,Anne Franco,kmunoz@example.org,(365)275-3130x7251,"28611 Rogers Haven
+East Chadmouth, FM 07246",653,609107,209801,4330,5,Auto Loan,Approved,56
+bb0e2915-7886-4f63-8469-61b37ff98b1f,Jeffery Bird,thomas55@example.net,(231)521-9974,"89053 Smith Lake Apt. 056
+Andrewfurt, AR 89759",511,613724,42743,3096,5,Student Loan,Pending,100
+94f1ed60-eeca-4598-8245-1185634b55a3,Steven Roberts,lanekeith@example.com,485-913-9170,"505 Cruz Rest Suite 182
+East Cynthiatown, WY 67246",586,780902,792044,7478,15,Business Loan,Rejected,90
+9e6c9e0b-363b-494e-ada3-a2b8af4f4515,Sandra Reed,ricksheppard@example.com,577.929.5115x680,"Unit 8684 Box 9814
+DPO AA 11298",638,215611,84090,4255,30,Business Loan,Approved,22
+4945ec75-f8f0-4a3d-996b-97df498f97ec,Robert Cook,danielfreeman@example.net,858.513.4228,"99457 Lance Shoals Suite 642
+Hermanmouth, UT 33254",718,732443,883096,2231,3,Student Loan,Rejected,88
+a190337b-50d9-4f0a-bebe-d0ae642fbea0,Amanda Torres,bryancortez@example.org,355.351.6578,"844 Luna Knoll
+Allenshire, MS 36602",689,888196,882888,2282,18,Business Loan,Rejected,75
+6b1f1455-27f3-40de-9b83-3e6cf3683adc,Danielle Torres,julieterrell@example.com,442.946.2405,"2864 James Estates Apt. 933
+Larsonbury, GU 31976",775,698055,768063,5324,1,Auto Loan,Approved,8
+edac209c-c228-41b2-b256-3c63aedcee6b,Joy Burke,lestercraig@example.org,(985)559-8075x226,"0868 Megan Heights Suite 000
+North Jamesview, OR 29580",665,486601,124413,5293,3,Business Loan,Approved,22
+deb9237f-2d1c-4bbf-97a7-cffdd59659c6,Ashley Banks,rodriguezmelissa@example.net,001-383-222-0744x56263,"592 Chan Run
+East Kevin, NV 68805",601,879628,903099,2677,7,Student Loan,Pending,71
+91a44827-6c38-42d8-bc18-78276ab65e66,Autumn Ramos,salinasheather@example.com,660-251-2431x638,"PSC 9055, Box 5530
+APO AE 68061",704,777617,237087,4598,28,Home Purchase,Pending,91
+18a9db5b-5a57-4bd8-b50f-2f84d069232a,Erin Levine,wheelermatthew@example.com,777.662.6236,"USCGC Reyes
+FPO AA 39693",517,231699,190177,5692,29,Auto Loan,Approved,94
+8d5b8e31-e8b2-4a24-aff4-05d683607d4b,Jennifer Blevins,garzacrystal@example.org,677-564-6086,"2693 Thomas Glens
+Brandonhaven, MO 35715",700,506149,169481,1773,25,Student Loan,Approved,8
+74099b21-a825-4f47-9a96-cec23741e9b2,Rachel Frank,david77@example.com,786.759.7282x5103,"PSC 2045, Box 7163
+APO AP 40997",720,85936,548457,6772,17,Business Loan,Pending,63
+10103507-8519-4aa4-ac9d-820dc5317d9b,Alexis Wells,linda71@example.net,314-258-8942x729,"007 Preston Route
+Port Coltonview, MA 56786",391,279319,479881,3258,2,Business Loan,Approved,59
+18af79b6-21c8-488a-b44b-528d0b4ca9c7,Jessica Deleon,stevensoncory@example.org,+1-826-579-6838x5203,"74143 Kerri Highway Suite 044
+Smithstad, HI 07307",580,863440,618532,1044,1,Business Loan,Approved,73
+07b8af4d-ce1c-4a3e-9ba4-a7437ec6e672,Jeffrey Pierce,courtney37@example.org,(935)888-9295,"777 Cameron Court
+Moralesburgh, GA 78778",773,379277,32060,5265,28,Business Loan,Approved,87
+d648c062-bd7a-4260-88bb-b51c993e8b03,James Gonzalez,freemanalexander@example.com,747-964-7523x7930,"9066 Patel Cliff Suite 408
+Davidton, ME 74547",554,506723,477028,6879,11,Home Purchase,Approved,100
+f47c075a-6655-437d-95f9-090d687c43a5,Justin Curtis,zthompson@example.org,(342)554-9335x384,"94909 Carlos Port Apt. 830
+South Maryburgh, DE 49972",625,400462,934427,2996,10,Student Loan,Pending,13
+a9fb0435-d27c-406c-90cb-3f30474d7664,Heidi Wong,kaitlyn18@example.com,001-435-250-9965,"93673 Brock Ferry Apt. 231
+Gilmoreton, MO 94825",808,875993,968766,3774,21,Business Loan,Approved,51
+10bab849-1076-41e9-826b-e160c1ebf6f9,Joanna Lambert,jacquelinebrown@example.net,(643)567-7798,"90318 Scott Groves
+East Jennifer, WV 87470",336,584752,815710,7101,22,Student Loan,Pending,59
+0c4e0a93-db5e-426f-bd5a-b0923a0d21a2,Darrell Liu,cynthiachan@example.com,928.755.1340,"05230 Young Fords
+Jeffstad, LA 59394",756,450062,667748,1000,16,Business Loan,Rejected,78
+9278ab7a-624c-4b1f-8d18-c627b1156cca,Mark Klein,jordannancy@example.com,+1-811-278-6274x24121,"99067 James Mountains
+South Michaela, OR 94965",462,657654,302197,5927,8,Auto Loan,Rejected,77
+547b850b-2f90-4737-8280-ba929f1657a0,Curtis Hanna,noliver@example.org,701.269.4520x1763,"87775 Travis Roads
+Annaport, WA 18897",416,112680,166476,5543,21,Business Loan,Approved,85
+5a8de3f0-1bbe-414a-9307-eb9bdca06bfe,John Manning,carrjohn@example.org,(459)800-0869x358,"08901 Key Rapid
+Dorothyton, ND 73332",380,511409,5814,8062,22,Auto Loan,Rejected,29
+f6d25d86-a227-4c0f-9909-bc5372102c59,Mr. Ruben Hahn,jeffreyjohnson@example.org,4259473614,"668 Weber Spurs
+Port Matthew, ID 43348",803,37011,600756,2172,8,Student Loan,Pending,94
+7a2e4f99-1a34-49af-a63c-c60cb5f75799,Corey Ward,bradystephanie@example.net,(941)214-2129,"5978 Roberts Road Apt. 520
+East Jasonfort, IA 19632",618,415689,473984,6373,13,Business Loan,Rejected,32
+010eac24-654d-4b3f-8638-e08890f05dbd,Victoria Charles,rblack@example.org,857.840.4758x68597,"428 Delacruz Burg Suite 329
+Brandiberg, NH 51857",399,815537,359110,8774,14,Business Loan,Pending,28
+85fe946b-da3f-47b9-bbf3-0d73b82c471c,Cynthia Moreno,erica21@example.net,872-330-6059,"731 Jessica Route Suite 391
+South Brandystad, VT 60252",467,172490,633373,8177,26,Auto Loan,Rejected,11
+4534262c-6cb9-4f2b-89b4-2c0071a76b56,Timothy Kelley,riveradaniel@example.net,800.385.6354x75075,"3563 Neal Vista
+Moorechester, GU 00917",769,764664,991346,7791,9,Auto Loan,Rejected,7
+cb53ca67-24c6-4918-a3f1-58dd37ab6cee,Maria Allen,gamblemichelle@example.net,001-306-597-4842x3246,"9049 Katherine Ford
+Olivershire, HI 33463",629,509347,195568,6587,29,Business Loan,Rejected,53
+bc21dc81-0bb1-405d-b409-bcbc6dbaaef3,Jessica Johnson,craig72@example.org,001-700-777-5419,"3504 Leonard Knoll
+South Peterbury, AK 35155",627,660753,131405,6022,22,Student Loan,Approved,50
+f4e5e410-c76a-4d43-92b4-5f457c8a9e48,Aaron Mendez,mlee@example.com,331-240-9878x46114,"417 Christina Mall Suite 680
+Gutierrezland, OR 76696",728,473391,871942,8882,22,Auto Loan,Pending,27
+aa4afe37-ecb4-4e20-a9c6-8d10eb21c4e4,Jill Huber,wrightmary@example.org,(430)200-8343,"39200 Carrillo Drives
+West Janice, FL 47427",418,829419,800603,2398,2,Auto Loan,Pending,13
+e9953c6b-6606-458e-959b-870e6ea2eb9e,Roy Walker,uochoa@example.com,644-422-3913x95443,"USCGC Brooks
+FPO AE 19251",304,736590,570640,1508,17,Student Loan,Rejected,8
+8ca243dc-7e21-450b-b722-72c2a752563b,Cynthia Bright,todd70@example.com,780-255-5032,"0392 Moore Village Apt. 748
+New Christophermouth, OH 69340",844,724466,967507,2865,13,Student Loan,Approved,64
+7d53fedf-3d7c-4c93-a5d3-14a610c8fc59,Emily Rodriguez,douglasherrera@example.com,550-321-5395,"1826 Matthew Ferry
+New James, VT 48308",759,694079,126647,4723,17,Home Purchase,Rejected,29
+c51c2e8a-3ff4-4c1a-9f84-939c506b9b05,Dennis Black,kellyjay@example.com,001-277-319-6911,"966 Brown Groves Suite 932
+Bellport, MA 55827",742,505110,448310,5710,8,Student Loan,Approved,89
+acebb6b0-aa58-463f-a221-445e7193489a,Marcus Short,cooperjoseph@example.com,7263722409,"317 Bennett Circles
+Port Brandi, KY 81460",650,408691,320545,3911,13,Business Loan,Approved,37
+32051ce8-0af7-414e-abd9-1c84edf37ca5,Christopher Beltran,wayneunderwood@example.org,+1-342-697-9194x65438,"53047 Martha Drive
+Phillipchester, ME 55054",386,35326,838649,8743,28,Home Purchase,Rejected,37
+a3d01935-655e-49a3-abc0-d023377f4e33,James Maldonado,ysmith@example.com,874-896-5351,"22035 Jennifer Plains
+Lake Michelleland, CO 17515",826,259217,227941,2270,28,Student Loan,Pending,28
+5d1cde75-59a6-49f7-b680-1a52630e2e6e,Julie Martin,sdawson@example.com,(566)519-1104,"686 Brian Road
+South Ariel, CT 14430",319,865603,116120,5467,5,Home Purchase,Rejected,10
+d71d04d3-8417-462e-ad76-8fa12b2bbd82,Teresa Allen,thomas96@example.com,(874)713-0883x81593,"85487 Erickson Centers Suite 660
+East Kristen, SD 15503",416,171109,133379,5065,25,Student Loan,Approved,59
+f90164c7-800a-482f-8e5d-513080a91b1a,Michael Kelly,sanchezjodi@example.org,001-613-285-3974x31882,"7673 Johnson Common
+Barronmouth, IN 19147",596,734765,807212,1094,9,Business Loan,Pending,62
+1a949511-c722-46f2-b1ce-029ce0e2f227,William Richardson,hayleyroberson@example.com,729.474.0815x4991,"49784 Kari Glen
+Crystalview, MD 89612",331,459912,916331,4270,9,Business Loan,Rejected,87
+4f2e084b-270a-478b-9b56-ebf365b1e590,Michael King,johnsonchristopher@example.com,603-332-2468x170,"6189 Dylan Island
+Theresabury, CO 26115",439,39528,8552,7688,21,Home Purchase,Approved,85
+40290096-a8ed-4737-a215-f1dc00ae2e93,Tyler Ryan,cholmes@example.net,979-937-8037x2565,"22586 Kristie Land Suite 482
+New Marymouth, IN 38505",729,861042,292030,1437,22,Auto Loan,Approved,91
+11b95db0-69e3-4b80-bbca-7415190ac577,Ashley Rodgers,randall30@example.org,+1-796-934-1797x1014,"217 Heather Ranch
+Williamsport, MH 93723",762,887897,337494,8841,8,Business Loan,Rejected,57
+c270ba7a-e002-4260-8f71-8bb0e124b340,Kenneth Johnson,curryeric@example.net,328-805-7401x2919,"95270 Jonathan Viaduct Suite 591
+New Matthewhaven, OK 40654",324,801359,241003,8791,6,Auto Loan,Pending,64
+38ff3b4e-04ba-4d60-8174-f27c8e34899d,Lisa Clark,rojasmary@example.com,885-528-7148x299,"89181 Joshua Gardens Apt. 568
+East Richardfort, DC 00781",659,786533,25490,8788,16,Business Loan,Rejected,28
+a438f487-a629-4ed8-93e4-cf5ceb9d41b3,Michelle Tran,shortchristopher@example.net,739.294.3506x36775,"00835 Jacqueline Islands Apt. 534
+Morrowside, VA 36207",487,326658,81103,2244,30,Student Loan,Approved,9
+e12a54fd-ba85-4d47-bad3-17eea492900e,Erin Carter,brittany64@example.org,973.839.4868x4742,"910 Stanton Points
+East Bryanhaven, ND 09863",461,279447,752947,1219,30,Student Loan,Approved,57
+c84aeb3f-67ee-4416-8779-d945d1c20a07,Olivia Richardson,leslie84@example.org,+1-639-459-1629x78430,"145 Joseph Points
+Garciafort, WY 78855",459,382584,646086,3490,28,Auto Loan,Pending,61
+071fa807-a250-4325-afe8-4941c541eca3,Larry Herrera,epeterson@example.com,468.699.5926x14835,"001 Roberts Cliff
+West Annland, UT 65220",307,300473,678362,9176,9,Business Loan,Rejected,99
+ebfdebc1-acf8-451d-8e61-f0773879b7dd,Jody Estrada,hernandezjesus@example.net,+1-900-336-8583x0885,"Unit 3133 Box 4053
+DPO AE 88250",469,212688,615596,4467,24,Home Purchase,Rejected,23
+f6c9eea2-6b6f-4e9b-b907-cd55790debe4,Scott Arnold,stewartmichael@example.net,918-372-1643,"1522 Dennis Harbors Suite 088
+Ricardotown, OH 68454",429,161291,191986,7688,16,Student Loan,Rejected,59
+2c763cf8-1d58-4386-b5a8-87d3e6aa934b,Danny Gonzalez,reynoldsedward@example.com,001-359-938-3759x3815,"824 Melinda Highway Apt. 846
+South Christopher, KS 31900",674,752664,434082,5919,22,Student Loan,Rejected,23
+c9725679-e99f-49f9-ad8c-09cf1d9cee97,Zachary Jones,houstonronald@example.net,310.850.3846,"98575 Michelle Streets Suite 578
+North Michelleville, ME 43051",522,573748,656381,6083,8,Home Purchase,Approved,100
+e6a29228-ddab-4f57-bcb2-216ef80b9ae8,Melissa Brown,donaldsaunders@example.net,(935)611-4237x439,"164 Ortega View Suite 350
+North Brandon, OK 67757",675,602330,313056,6883,5,Auto Loan,Approved,31
+f406363c-3dc9-4efb-93ce-00b5cd73890f,Matthew Baker,lori33@example.com,+1-483-498-6596x4862,"9855 Jeffrey Village
+Alexahaven, WV 51900",539,226761,54303,3085,4,Business Loan,Rejected,56
+51c71e40-d923-431f-972f-233ae1497bc4,Thomas Harris,kristen00@example.com,415-242-9379x92277,"152 Amy Views
+Matthewstad, WY 73970",502,227685,588263,8823,29,Business Loan,Approved,62
+8545d6ae-dcf1-4d99-b645-0af8a767987e,Sara Baldwin,woodsteven@example.net,(359)981-4947,"3217 Tina Corners
+Port Julian, ID 85780",802,470953,38385,5822,24,Auto Loan,Pending,32
+8e2fd22a-6ff6-44b2-8964-6c7fb0d93ba9,Heather Nguyen,jerome46@example.org,657.900.7414x172,"USCGC Peters
+FPO AP 30907",723,733262,893492,6877,9,Student Loan,Approved,80
+8446b926-068e-48bb-b611-286c37bed85e,Lisa Perez,mary21@example.org,001-447-311-6921x44608,"6593 Kenneth Grove
+Port Feliciastad, IA 95623",841,320805,143214,7185,25,Business Loan,Approved,11
+f9fe35a3-7817-4b48-bf14-a544c5dea697,Adam Wright,fergusonvictor@example.org,879-327-7287,"371 William Turnpike
+South Debra, MS 49804",655,695375,96556,1611,21,Student Loan,Pending,37
+ae115184-46ca-4198-8d13-c37249283b25,Rachel Chase,scottkimberly@example.com,235.277.8884,"39408 Peterson Flat Apt. 193
+Whiteberg, NE 44157",677,736356,795019,4524,22,Student Loan,Pending,1
+8e9a1407-a061-43fd-82dd-b208a33c5d4f,Heather Sims,xthomas@example.org,001-918-703-0907,"98245 Sonia Forest Suite 233
+Port Raymondside, VT 36814",483,491651,58097,9384,27,Auto Loan,Approved,82
+8c435c44-d066-4cee-8595-e1f2d72b244e,Holly Ramirez,tatemichelle@example.com,840-869-2536x084,"0223 Morgan Plaza
+North Barbaraburgh, AS 17415",830,782094,198841,5960,28,Auto Loan,Pending,31
+824c6045-feee-4717-8fcb-0af267317cd9,Amber Robinson MD,xwilkinson@example.com,(598)867-0790x04288,"55841 Alexander Parkway
+East Brittany, MT 28845",411,580322,93775,8967,26,Student Loan,Pending,33
+d2ae308c-c1e0-482b-934f-9934e58d976f,Annette Howe,jacquelineflores@example.org,+1-389-723-8361x05946,"91079 Schultz Crescent
+Stantonstad, DC 94286",733,629505,395723,1109,30,Home Purchase,Pending,43
+795b464c-70d5-4d57-aeec-a668ff153578,Christopher Allen,jilldavis@example.org,(331)432-5320x933,"56739 Judy Glen Suite 880
+East Kayla, NJ 80175",660,777074,433958,1431,8,Student Loan,Approved,14
+b807e9c2-cedf-4502-bb56-6e5216dc9b6c,Bridget Wagner,haleythomas@example.org,341.304.1735x58986,"49113 Russell Field Suite 955
+Richardshire, RI 00524",796,676946,777889,4266,12,Auto Loan,Approved,19
+d0edf0f5-b50e-4382-ae0f-a7792eea246e,Pamela King,gibsoncarla@example.com,733-976-9292x595,"595 Martinez Wells
+Kristyhaven, NY 13661",752,371911,958996,2566,19,Student Loan,Approved,13
+95dcf6d4-4e99-4c1f-b840-a21b811b32a3,John Alvarez,nancytodd@example.net,001-400-736-0002x545,"651 Hall Pass Suite 438
+East Royhaven, NM 39979",641,214341,336373,1571,4,Business Loan,Rejected,4
+ad6e4779-678c-4249-8d0b-02043280c9ef,Aaron Strickland,tonyajackson@example.net,817.284.0368x30219,"32111 Julie Spring
+West Summerview, OH 74379",846,661368,322910,6285,22,Business Loan,Approved,55
+e666f5da-9b60-45ea-8dfe-9d443df18d29,Ronald Lopez,caitlinclayton@example.net,+1-867-818-0634x1745,"970 Tyler Trafficway
+Lisabury, MI 52703",433,160796,150485,9028,4,Student Loan,Approved,64
+1772b1fa-d7a3-4b72-979c-d72223503f24,Joanna White,orozcokirsten@example.com,7848251199,"919 Jones Via
+North Jason, LA 16379",605,231440,715661,3476,8,Business Loan,Approved,96
+a33ec2f7-e197-49bb-b382-649e4e378014,David Payne,stoneheather@example.net,929-434-5382,"68020 Anderson Turnpike Suite 841
+New Melissa, AS 21249",353,539314,539833,7117,17,Home Purchase,Approved,51
+6b459d55-03bd-49cf-a86d-c21c9a4ad5cc,Sandra Townsend,fspencer@example.org,(386)223-3147x4848,"8915 Fuller Fort
+Billyton, SC 22015",647,164555,979706,9205,25,Business Loan,Approved,98
+2d660098-ade6-4f5a-8810-5e8d157c0d17,Ashley Larson,oliverjason@example.net,355.865.2511,"11631 Sarah Fields
+North Jeremyville, IA 88393",347,460095,629508,1331,13,Student Loan,Rejected,54
+230a5120-8220-4f9b-abb9-483277ef315c,Steven Lambert,raymondsilva@example.net,(249)432-4332x466,"773 David Shoals
+West Juanburgh, NJ 74875",687,698990,409878,3263,8,Business Loan,Approved,97
+d5cacdd0-8091-4495-9fbe-da3b139644a3,Ashley Hickman,conradmorgan@example.net,+1-971-798-0855x7092,"470 Dorothy Fort
+West Melissaborough, WI 95964",429,26515,693666,8529,30,Student Loan,Rejected,66
+2f996325-dcf8-4843-b531-2f4f16904961,Edward Burke,jennifer58@example.com,386.392.0486x79405,"190 Kent Inlet
+Joyport, NY 55082",784,367740,531600,8382,1,Business Loan,Rejected,43
+f2d81c3c-1a0d-4ca5-83c7-6f85913e17d3,Mark Landry,michelle32@example.com,+1-479-504-2870,"145 Ingram Lake Suite 814
+Josephborough, HI 29147",306,622295,588520,6735,10,Auto Loan,Rejected,14
+8183bcd5-c947-476e-8cac-cc974605c318,Cathy Moore MD,sophia82@example.net,256-772-8846x173,"USNS Garcia
+FPO AE 66080",378,508029,926497,4570,22,Student Loan,Approved,77
+e70695f6-889c-41ac-9818-bdeee883df43,Gregory Tucker,jennifermckinney@example.net,763-622-3856x646,"15026 Simmons Radial
+Glennmouth, SC 87489",545,474665,605377,6139,11,Home Purchase,Pending,28
+cfb38376-3c3d-4838-81a6-d6af7ec428b7,Mark Burke,deanna79@example.net,+1-533-514-0221,"673 Willis Groves Apt. 763
+North Vincent, IN 22182",415,719812,341977,5993,4,Student Loan,Approved,14
+a9192281-2baa-4c07-b1d4-05fafac9f0f1,Eric Olsen,fgonzalez@example.net,468-668-6606x78414,"408 Susan Freeway
+Millerberg, VA 77019",666,699010,901535,8343,5,Business Loan,Rejected,57
+367adce2-cc6f-4576-a656-f7579a42ebff,Robert Jenkins,ibass@example.com,(583)660-3309,"04425 Massey Cove Suite 554
+Davishaven, HI 36198",371,672419,193869,2019,12,Home Purchase,Rejected,85
+c60033dc-c151-4ffd-a8c1-6427df62f171,Rebecca Watts,gkline@example.com,637.577.1910x758,"9676 Nichols Greens Apt. 659
+East Laura, FM 49498",330,824971,441941,7372,10,Home Purchase,Rejected,33
+b3c4c766-56e8-4530-90fd-5e3edaf7ac45,Kristen Keith,william65@example.net,(675)289-7063,"4130 Miller Meadow
+Lindaborough, NH 26232",807,422329,468108,2136,8,Home Purchase,Approved,41
+a5b57987-23ab-43be-bbc0-38e98ab53d38,Laura Bartlett,mallen@example.com,729.242.2219,"9616 Kimberly Street Suite 008
+Carlahaven, NH 03384",457,475582,600593,7031,16,Home Purchase,Approved,51
+09ada44b-c651-4aa5-9189-8010b5d9c476,Gerald Perez,johnjohnson@example.net,001-636-420-0412,"0182 James Court
+North Thomasville, GA 50910",799,783993,509091,6153,3,Business Loan,Pending,18
+282f53fe-ca3c-4047-a6de-2efaade886a0,Derek Hall,timothycunningham@example.com,(579)697-3070x810,"8947 Elaine Crescent
+Port Rachel, MN 49555",541,580961,48565,6531,30,Home Purchase,Approved,81
+1ec2998c-0a04-4d27-8c69-9ac3cfa8d510,Joseph Williams,pamela67@example.com,+1-859-224-6293,"205 Ariel Mountain
+New Williamshire, CO 60728",760,126641,945937,1658,8,Business Loan,Approved,87
+473a3366-db26-471b-bb50-bcf6df8d89e6,Douglas Miller,devin82@example.com,001-824-877-0433,"382 Sherman Mountains Suite 135
+East Kathleenmouth, CT 92312",366,890180,6986,3484,20,Auto Loan,Approved,63
+af10d75e-12e2-493b-a7dd-c5e5671c0c3f,James Spencer,williamwilcox@example.com,470-670-5508,"805 Sanchez Highway
+North Michael, OK 37054",500,368187,432332,2112,25,Student Loan,Rejected,33
+c3f3c26b-c485-4532-8d47-33a192b8788f,Rebecca Marquez,rgaines@example.net,001-953-854-5495x075,"76973 Taylor Wells Suite 759
+South Nathan, PA 31942",680,305750,569181,5436,20,Student Loan,Rejected,7
+10ee9d98-7238-4a4d-b61f-eaef9d5eabe4,Stephen Wilson,zweber@example.com,462.330.2068x823,"5468 Michelle Cliff
+Port Tannermouth, MP 10951",375,504248,54774,2456,21,Home Purchase,Approved,66
+bcd80afd-37d8-4a90-a9a9-de33627b2ab0,Krystal Mcdaniel,elaine82@example.net,(703)918-7051x855,"9239 Myers Parkway Apt. 560
+South Janet, PR 12909",541,730892,323630,4035,29,Home Purchase,Approved,59
+0ca9bc2d-58bb-45ca-bc85-499b7e19fae5,Anthony Knight,ereynolds@example.net,(257)895-0086x73514,"70901 Chelsea Causeway
+Turnerfort, MA 53989",523,762435,689052,3092,5,Business Loan,Rejected,35
+f829a9fd-1b0b-4843-88f2-298b20b9f3e7,David Jimenez,khensley@example.org,249-682-7612x09923,"14190 Amy Underpass
+Lopezchester, PR 45476",573,173992,725565,1047,1,Business Loan,Pending,35
+6a21d91f-9e3c-4849-810a-27672e68e9db,Judy Burton,khantracey@example.com,+1-409-746-6509x577,"350 Cassandra Knolls
+Stewartchester, HI 98349",543,79643,312896,9218,21,Student Loan,Rejected,61
+3ffccadb-101c-4512-9dfd-dd6d0214eef3,Joshua Liu,gilesbrandon@example.com,(353)318-5819,"056 Rebecca Harbor
+West Peterview, WI 55818",562,826839,861968,1292,15,Business Loan,Rejected,52
+a0e5a572-c160-4d17-a1cf-e4dd1150d92b,Lorraine Webb,kimberlyjones@example.org,371-237-5824x52063,"45061 Berry Square Suite 272
+Lisaland, ME 29982",377,854114,322347,7621,17,Student Loan,Rejected,16
+7cbeb098-9935-4072-bbae-b7b0c654f253,Misty Jackson,eileen93@example.com,(501)647-1499,"46534 Connor River
+Morganstad, OR 72618",593,875091,627378,3995,13,Business Loan,Pending,45
+92fe874e-a5c2-4b5a-aedf-9c8d15a5c092,Tracy Young,mjackson@example.com,764-322-9416,"1468 Laura Passage Apt. 073
+Lake Christopherview, WY 95955",745,225300,143494,5808,20,Home Purchase,Approved,82
+f99d3b8d-4eef-470f-b46e-cf755726aeae,Benjamin Davis,benjaminschultz@example.com,+1-545-267-3761x4460,"7838 Thomas Motorway
+West Stephanie, MI 16543",565,218411,334493,8831,26,Business Loan,Approved,40
+be6419d3-e229-4ac9-82d1-d1dba9c46260,Francisco Walsh,eddie27@example.com,533.798.8838x78231,"740 Nicholas Tunnel Suite 805
+Josephton, PW 98924",834,161655,822806,6390,13,Student Loan,Rejected,44
+0d6bef8e-5064-4f9a-b529-c40a8a97f58a,Mr. Christopher Gilmore,jkerr@example.com,001-932-249-3538x16923,"5473 Sloan Throughway Apt. 277
+South Daniel, RI 26004",611,716035,162075,8911,15,Auto Loan,Rejected,38
+cd920401-b774-4274-bbf5-054364f208e0,Zachary Wilson,velasquezbrittany@example.net,8739770778,"97200 Clark Highway
+Garyfurt, SD 98979",540,675232,445679,1696,26,Home Purchase,Rejected,87
+6260c4ce-23d1-437b-a738-9a52a2614ace,Stacy Stafford,gmclaughlin@example.com,372.403.8198,"PSC 6099, Box 3617
+APO AP 35936",537,786039,131890,7749,15,Business Loan,Approved,59
+c0ff07af-76f0-42b9-b931-d0b4cc71ef2c,Kathy Davis,khernandez@example.org,+1-973-810-0301,"5732 Paul Loaf Apt. 854
+Lake Aprilstad, ME 49258",704,574007,430726,3982,11,Home Purchase,Rejected,5
+44c13098-017e-43c4-98f8-208ac1fff043,Steven Welch,andersonjordan@example.org,964-461-3847x03520,"4793 Davis Court
+Carltown, CT 42909",688,403022,314026,8978,5,Business Loan,Approved,72
+92a94cac-1593-49b8-996d-41a91a851fde,Alyssa Hill,fcarter@example.com,991-573-6435x43249,"26983 Mccullough Inlet
+Johnsonstad, MO 87358",624,757009,271476,9714,7,Student Loan,Approved,84
+fc938db4-f651-491e-afbd-9430b04a3000,Ryan Stephens,ostone@example.net,+1-873-834-5561x442,"380 Holly Crescent Suite 655
+Downsmouth, IN 88306",835,586719,306030,8210,22,Business Loan,Pending,66
+6bae7478-6488-49ff-93e6-0f9640cfb772,Frank Fisher,tracey04@example.org,211-990-9759x52241,"2184 Nelson Rapids Apt. 734
+Port Danieltown, ND 22616",778,627117,784308,6417,30,Student Loan,Rejected,98
+3a50f952-bb27-4558-b14f-8b883319adab,Carla Carroll,michaelthomas@example.com,(557)339-3938x503,"1964 Andrea Crescent Apt. 415
+Carterhaven, KY 30337",529,764009,901202,6769,22,Home Purchase,Pending,20
+d653ed9d-eaea-4d65-9cd5-8006d5f826b6,Steven Marshall,rojasjoshua@example.com,514-636-8236x047,"3738 Clarke Dale
+Timothystad, GU 03218",470,137860,653100,5448,4,Business Loan,Pending,6
+d3ec168f-bca4-4fe9-aa29-261a433b76cc,Juan Wells,hannah13@example.com,314-370-1675,"USNS Beck
+FPO AE 79214",660,464185,483111,1526,26,Student Loan,Rejected,66
+87373275-5b84-4e49-af20-c5efaded77c3,Julie Bryant,eddie20@example.net,565.524.4392x66742,"USS Barron
+FPO AP 18056",838,818731,890294,8337,17,Home Purchase,Pending,96
+e5dc393c-5805-4317-8e6e-be2e8c4d69bc,Tracy Martinez,seanbaker@example.net,2462536091,"380 Kim Point
+North Laura, NY 62259",461,223377,797960,3855,5,Business Loan,Rejected,78
+418d9512-cc34-4c28-a694-2b850d043da6,Clarence Huffman,kyle22@example.net,989.967.0403,"48194 Mcconnell Extension
+Lake Amanda, MI 65650",506,888874,34781,4734,19,Student Loan,Approved,52
+a2178434-fe3e-491e-918a-3fe23f5b06b4,Tamara Rodriguez,oneillstephen@example.com,468-413-0642,"969 Michael Roads Suite 212
+Schultzland, MO 99914",524,367820,328081,5697,24,Student Loan,Rejected,59
+a7c4343f-36b4-4f82-bbbc-4c55035dc379,Cindy Stephens,mcdonaldzachary@example.com,+1-270-598-8464x1979,"97985 Torres Mills
+Andersonmouth, MA 97101",307,772934,806193,2694,19,Home Purchase,Pending,40
+e8e210e0-8f23-4e51-9227-e40f6aed3899,Matthew Mcintyre,deborah18@example.com,750-851-2423x4744,"04164 Donald Loaf
+Julieberg, KS 87638",792,230099,200220,1185,4,Home Purchase,Pending,53
+d7ec25ce-0781-474f-9f76-c53c9c41eec5,Danny Murphy,victoriameza@example.com,(706)539-9218x980,"USS Odonnell
+FPO AE 29623",335,363577,103616,2552,12,Home Purchase,Pending,38
+048b2fd5-608b-4a4d-96b1-3359cd5d133d,Jim Ford,darrenmorris@example.com,001-483-250-1641x41871,"9323 Huang Plaza Apt. 315
+North Laurenhaven, CA 06746",764,140685,270595,5870,9,Auto Loan,Approved,56
+945121da-323f-478f-8a47-65504d7dabbb,Christopher Clark,antoniowoodard@example.org,001-778-899-6761,"1871 Long Street
+Cannonfort, VT 09526",686,112175,879738,3748,30,Student Loan,Pending,44
+2146cc64-94f1-430b-8f54-2b6a99dfc6f2,Kathleen Miller,xvalenzuela@example.org,001-846-746-2736x170,"8930 Nichols Spring Suite 181
+Ericksonmouth, MS 17211",762,357483,973179,1134,12,Auto Loan,Approved,70
+5d8d5638-8467-424d-8518-7713e7a535db,Rodney Fisher,watersstephanie@example.net,295-241-8576,"PSC 0194, Box 0864
+APO AA 53491",625,407025,639455,9207,28,Business Loan,Pending,39
+447bd7ab-3e0b-44a2-aa9e-1d736fa0beaf,Lindsay Thomas,balvarez@example.net,+1-303-411-0768x6205,"7471 Reed Park
+New Brenda, MT 42608",792,24607,308729,1701,17,Business Loan,Approved,94
+39938244-c298-484e-ac25-d18e05a671a7,Daniel Phelps,lsnyder@example.net,+1-267-616-5040x439,"00199 Elizabeth Lock
+Laneton, MI 25905",619,208893,336922,3846,16,Business Loan,Pending,85
+56ab7c81-4573-4f34-af38-0b8af827d657,Julie Rowland,simpsonjessica@example.org,517.280.7373x731,"22059 Thomas Port Apt. 064
+Pricefort, DC 41166",611,498348,47846,6263,12,Student Loan,Pending,27
+3996b14d-a711-4f58-b069-3c8944c61d5e,Theresa Harris,john26@example.com,211-302-9627,"70966 Isabel Knoll
+Smithville, MT 42620",319,610601,99336,4380,20,Home Purchase,Rejected,64
+8004a81e-b056-4eab-a8f3-870bdfb43052,Joy Berry,gthomas@example.net,955-267-1720x6755,"12104 Michelle Mission
+Kirbymouth, LA 02186",729,617536,628102,8425,9,Business Loan,Rejected,61
+767c0c63-74d4-4ac6-8fba-f58026d50ac5,Rebecca Kent,gregory16@example.com,+1-511-240-5251x7189,"939 Rodriguez Pine Suite 874
+Port Greg, FL 25481",844,668125,289177,6223,17,Auto Loan,Pending,96
+19502bc3-d639-4abb-bd00-17dac8ee0745,Roger Johnson,harrisonann@example.com,644.723.3300x387,"32920 Nguyen Freeway
+Millerbury, FM 03893",434,384856,948067,3465,27,Business Loan,Approved,57
+b2803cd0-30e5-46c6-9e25-9fc7416d8ec8,David Chapman,hansontina@example.org,897-891-6395,"95357 Chelsey Loaf
+Mariaville, HI 37402",786,30511,9835,2330,28,Auto Loan,Approved,69
+aa106578-52d7-4c7d-986b-5d461b96b969,Jessica Kirby,crios@example.com,648-758-7457x6867,"32931 Debbie Fork Suite 339
+Michaelshire, OR 98985",650,168297,138519,3650,29,Student Loan,Rejected,72
+d3572793-ffef-449f-9ea3-9de3077af345,Richard Berry,pricekathleen@example.org,325.753.2146,"USS Boyle
+FPO AP 86341",777,542408,255424,4737,6,Business Loan,Pending,47
+6c1ebb33-addc-4d43-aee6-62a2d7465973,Tracey Mayo,icarey@example.com,001-562-701-8944,"9561 Nicholas Square
+Smithburgh, NV 88971",530,861351,819138,7483,25,Auto Loan,Approved,68
+c63a29a7-9907-4218-bd18-5a5671c54423,Colin Kirby,jesse28@example.com,(758)557-4400,"PSC 5212, Box 7559
+APO AA 37600",585,592198,389246,1048,27,Student Loan,Pending,10
+8e6d9289-64fe-454a-a224-6b6047ae3485,Jillian Frazier,trush@example.net,001-668-652-8653x5384,"50927 Lindsey Pass Suite 810
+New Calebville, GA 83102",740,163104,542886,4382,21,Auto Loan,Rejected,14
+f74dccc7-fddf-4958-a982-c8ae02748922,Jasmine Young,alan44@example.com,+1-587-290-1987,"031 Samantha Ramp Suite 773
+South Karen, MI 77220",663,129590,468318,4660,6,Auto Loan,Rejected,36
+90cad8a6-4b33-4e8b-a45d-411cb99dc2d1,Craig Newton,markbarnett@example.net,624.530.4158,"USCGC Matthews
+FPO AP 21046",769,397919,997215,5090,22,Home Purchase,Pending,97
+8fb9ed9a-34bd-44c7-811a-f9d9bb0d847d,Daniel Johnson III,ograves@example.com,630.713.4301x0971,"14556 Rice Run Apt. 559
+Elizabethport, LA 52893",347,188500,127846,6701,9,Home Purchase,Rejected,74
+c0214de2-3979-490b-8cbb-286f096deb07,Gregory Young,mirandahowell@example.org,(646)527-0408x72757,"479 Wells Crest Suite 673
+Kimberlyhaven, FL 61806",438,852174,147048,5055,3,Business Loan,Rejected,78
+fcaf795f-74dc-4a36-8d82-80a96e1957c0,Angela Diaz,tammy75@example.net,(891)782-3522x4098,"Unit 7011 Box 4166
+DPO AE 22137",746,512847,192064,8806,23,Business Loan,Approved,19
+e5f6b7b9-1eb2-4b1c-8f19-11a4698d98c4,Christopher Jacobs,laura64@example.com,(224)951-1303x2908,"Unit 2135 Box 7672
+DPO AE 27721",589,394431,264930,3807,1,Student Loan,Rejected,1
+aa5d80a5-0ff0-43fe-82e7-fabf14bb1c83,Marcus Cuevas,jonesbrenda@example.org,440-540-2763,"918 Jones Ridges
+East Kristinaburgh, MO 25738",726,364678,37127,3572,6,Student Loan,Pending,46
+5860b84e-5fb1-472f-8f2f-b0352ff2e69f,Danielle Miller,lgonzalez@example.net,872.916.0168,"16666 Good Estate
+New William, DE 94726",327,874850,562734,5523,18,Auto Loan,Rejected,42
+b2938a35-f347-40bf-9e08-ae82d3137428,Lawrence Camacho,nicholas48@example.org,(495)635-5353x7975,"613 Gaines Fields
+South Rebecca, IA 77899",599,352703,911218,8273,29,Auto Loan,Approved,91
+200ff0f4-b23d-4bba-b22d-305ae57bc0d4,Sarah Moore,barbara43@example.com,827.749.2478x174,"35623 William Ports
+Andersonton, KY 07429",301,228550,501195,6215,22,Auto Loan,Approved,34
+9afa1af6-fdf9-4da7-aa48-5ed3d93e71b0,Mr. Mitchell Harmon,lindseyfoster@example.net,001-968-945-5288x0246,"002 Charles Shores
+Stephaniechester, CA 91394",406,610241,55697,2758,2,Home Purchase,Pending,5
+a69bbfe4-2bfc-40f4-8d7f-cd225a21e446,Jared Molina MD,tammygarcia@example.net,001-930-201-6184,"1804 Stephen Divide
+Jacobhaven, NE 83761",751,64289,25460,2773,11,Home Purchase,Rejected,34
+7e936fa0-4294-44e2-a689-e263ea6440f6,Deborah Allen,brookeyang@example.org,(712)866-8138x71355,"895 Hunter Mill Apt. 107
+South Michaelmouth, DC 41787",329,714268,577861,7535,1,Student Loan,Rejected,50
+afd2d744-f70e-4490-9fd7-90959e6a981c,David Levine,julie27@example.net,(349)982-4425x73284,"USNS Crawford
+FPO AE 67503",473,94559,270384,2843,26,Auto Loan,Rejected,96
+4edcfe47-62cc-4c66-96b0-7b0c0f616d32,Catherine Walker,daviswilliam@example.org,+1-228-387-8527x85539,"0032 Burgess Brook Apt. 238
+West Zachary, SC 89962",586,181010,865822,1684,19,Auto Loan,Pending,79
+fdc782ad-ea6e-4822-aba3-42bb29b20d8a,Zachary Ward,tracy39@example.net,+1-450-575-0673x9426,"3096 May Keys Apt. 516
+Salazarport, NY 41789",830,532475,408241,6802,6,Auto Loan,Rejected,78
+835e7eaf-604b-40b7-a126-8675bcba45d4,Mark Farmer,rebekah40@example.org,803-348-0137x0271,"68824 Freeman Rapids Suite 613
+East Gregoryton, MH 09205",499,236903,420135,9955,25,Auto Loan,Pending,70
+8c837bf3-8c74-4844-b338-0bc1736c9cbe,Michele Cook,sknight@example.com,(682)885-0697x7046,"209 Berger Pine
+Port Edward, MD 34820",776,686613,179537,7577,11,Student Loan,Rejected,39
+40c70200-8829-45f2-956e-b3fa7e5b910d,Dr. Charles Thompson,nortondaniel@example.com,205.426.6893x4413,"022 Elizabeth Meadow Apt. 846
+North Sarafort, MT 08961",368,313369,242554,2060,5,Home Purchase,Approved,93
+f84d929a-338f-4cdb-97e1-73c379a51415,Timothy Krause,mary93@example.org,202-433-7437x6825,"23881 Daniel Lock
+Kramerburgh, AL 24523",442,598490,305092,9836,30,Home Purchase,Pending,42
+776abe13-c9b3-42f4-8ef7-d3952ab8cd3b,Joshua Harmon,lisafrey@example.org,(260)549-1275,"013 Anderson Parks Apt. 498
+Port Johnnyton, IN 86651",654,528209,576555,6157,29,Home Purchase,Approved,10
+3334e947-8f14-4ba7-9c2c-ac7d6522fd64,Sarah Scott,tiffany31@example.com,001-979-218-0304,"027 Clinton Haven Suite 327
+Cameronfurt, WA 92639",488,689597,485570,7637,27,Home Purchase,Approved,64
+06550298-aa75-44a7-8b37-682527ba5637,Hannah Harris,ashleyfranklin@example.net,+1-762-863-3621,"Unit 6258 Box 3725
+DPO AA 72769",451,105292,423234,3701,18,Home Purchase,Approved,42
+d6af3df4-7ce0-4aa5-9d7b-ea58109b873b,Barbara Miller,heatherdean@example.org,854.746.7095,"Unit 8229 Box 7466
+DPO AA 22729",367,226823,488220,4810,21,Business Loan,Pending,6
+2b36e905-6ba9-4c86-9c20-a483fb075fc1,Kelly Green,sandersmelissa@example.org,001-434-493-2713x30186,"72763 Robert Trail
+Port Jasonmouth, WI 63952",410,472944,380760,3026,4,Home Purchase,Approved,79
+5687b37f-8414-480d-8cab-5708c899a92d,Michael Rocha,millerpamela@example.org,001-497-858-4081,"Unit 9027 Box 2891
+DPO AP 83374",321,689652,501489,8919,8,Home Purchase,Pending,8
+23040134-9806-4aa1-b2a0-0242b34b5b3a,Vickie Smith,briggsmichael@example.org,371-978-2592,"02978 Matthew Landing Suite 810
+South Amytown, VA 61236",698,285553,87643,9688,18,Home Purchase,Approved,92
+b9fb1e4d-cfde-4436-8443-19b0d7b78010,Johnny Johnson,melody93@example.org,001-953-797-2922x1113,"64636 Katherine Parks Apt. 251
+Stephenstad, MN 86592",604,393075,666928,5682,2,Business Loan,Pending,60
+116c71f5-589a-4e6e-82d6-c1ea40a07aeb,Gina Reilly,williamsblake@example.org,716.682.9328,"049 Caldwell Roads
+East Kennethborough, OK 92815",768,774738,247439,4563,22,Student Loan,Pending,63
+88de164e-708e-4448-90c2-5ff21d5f8321,John Sims,ipeterson@example.org,846.646.8934x47623,"853 Paul Highway Apt. 851
+North Michaelland, FL 16160",340,671705,400036,7329,14,Student Loan,Approved,36
+b3bc1475-6aea-4457-a598-3aca1672fdf7,Ronald Tran,michael57@example.org,568-989-6237x94140,"65802 Rodriguez Extension
+Sharonborough, GA 42579",494,321510,972053,5720,9,Student Loan,Approved,9
+8f897328-2ee3-411d-bc07-9b2e877273ee,Joseph Ferguson,chase12@example.org,393.371.9942x295,"76634 Alfred Roads
+New Crystalland, WI 08668",643,398142,204823,7961,4,Business Loan,Pending,50
+dcf19454-5c4a-4295-851a-ee7c36d8b55b,Christine Hernandez,david36@example.org,935.219.4972x44605,"468 Wade Knolls Suite 417
+Nancyberg, IN 65426",455,709728,311051,6751,3,Student Loan,Rejected,65
+10beef07-9d35-457c-acaf-6ddf0c812eac,Mario Alexander,astevens@example.com,299.901.6886x34966,"591 Gibson Spring Apt. 197
+Robinview, IL 61630",414,864279,94401,7018,9,Business Loan,Pending,66
+2d99e1ba-bb6c-452b-9b02-9310a05d721b,Jason Mccarthy,alexandercox@example.net,+1-773-919-0890,"732 Shawn Lights
+West Ambershire, LA 50305",484,291846,648876,8748,11,Auto Loan,Pending,96
+5c640590-7905-467a-b625-154c3025b2f9,Todd Stone,boothrobert@example.org,+1-395-536-6769x710,"USS Rich
+FPO AP 42166",693,870118,5032,9607,30,Business Loan,Pending,88
+6b78d45e-06a2-4639-8460-651b3760483c,Mr. Kenneth Mckinney,vincent38@example.com,+1-528-699-2705x829,"96052 Cook Branch
+Bondside, TX 98402",332,30434,463398,4838,5,Business Loan,Approved,52
+da2a4593-6ee6-4fa7-86e1-4d1d1e06b473,Patricia Blevins,richard91@example.org,(766)839-9203x1651,"397 Mandy Circles
+South Matthewbury, GU 72745",680,792836,670928,6490,15,Home Purchase,Approved,42
+ef038e95-a621-4f59-86fc-467ed5f437b3,Isaac Wood,troycarter@example.com,275-298-4055x8705,"USCGC Hill
+FPO AP 60711",745,273300,71743,8981,28,Auto Loan,Rejected,99
+2d0c7a62-5798-4a20-9b91-9d344413eae6,Doris Brown,kfowler@example.org,783.366.0596x855,"88289 Lopez Mission Suite 119
+Roberttown, NV 26352",308,233742,521143,7171,18,Business Loan,Pending,48
+71fca78d-434e-44e7-a279-67ea1c3634b6,Alyssa Wilcox,ambernavarro@example.org,3788712028,"207 Lee Port Apt. 427
+New Barbarafort, MO 11779",685,808324,297772,9428,28,Business Loan,Pending,45
+78930f23-ed44-4926-bced-6230c9865bd6,Joshua Jordan,rvasquez@example.org,001-815-928-8073,"99256 Elizabeth Motorway Apt. 335
+Nancyshire, SC 55302",694,673123,684781,6464,22,Home Purchase,Approved,5
+6efd0803-1f39-4362-841a-ff659aac9e44,Michelle Diaz,scott42@example.net,232.955.0738,"8176 Graham Rapid Suite 530
+Lake Dawnstad, DC 30743",591,460061,877437,1465,9,Home Purchase,Pending,85
+bc059273-6885-42fe-9193-3a28bade00f4,Theresa Wilson,riverajeffrey@example.net,001-429-315-3848x6554,"11004 Ware Ridge Apt. 800
+North Marcus, NC 68587",547,627611,525745,8491,28,Auto Loan,Approved,57
+16925635-a1b4-4f45-9910-bf68c2e66299,Thomas Armstrong,twood@example.org,001-814-647-6155x1445,"USNS Finley
+FPO AA 03004",736,519051,678077,1424,12,Student Loan,Rejected,59
+158398a5-c0b8-4a55-b05c-3a706976e32a,Laura Banks,brandythompson@example.com,+1-870-225-0375x16832,"960 Murray Ridges Suite 740
+North Rodney, WV 33817",323,542556,115870,1351,14,Business Loan,Rejected,32
+239462bd-2628-4226-b583-cccf4a55e3e5,Diana Frank,allen48@example.com,263.732.6846x7103,"057 Cole Park Apt. 646
+Sparksmouth, DC 86689",484,334229,515402,8980,27,Student Loan,Rejected,19
+6b258cca-c1f5-4766-b9f4-8029afb59132,Kyle Morris,ityler@example.com,(455)607-5378x47909,"507 Margaret Extension Suite 658
+Justinborough, NC 40037",588,782646,835935,4615,21,Student Loan,Rejected,55
+44886554-f9e2-432b-9cc1-85684b7388cb,Ruth Wright,cgriffin@example.org,447-303-5281x5681,"11345 Mcdonald Islands
+West Michelle, DC 51367",702,279222,161295,5034,27,Auto Loan,Pending,61
+c155479d-d74e-4fc0-bed0-353d30da486f,Tamara Stone,jonescourtney@example.net,(648)514-4241x2153,"PSC 2055, Box 1800
+APO AA 10680",396,110526,828727,8544,17,Home Purchase,Pending,16
+b2b790db-d160-42c3-932f-25ea4577b22c,Taylor Skinner,mark81@example.org,892-590-8413x1642,"83341 Burns Vista Suite 032
+Christinaside, AL 96792",510,752267,19405,9753,10,Auto Loan,Rejected,26
+bc884858-d905-430c-bafd-6c30c71af378,Elizabeth Jackson,wilsonkaren@example.org,001-662-633-5536,"64276 Allen Spurs
+Port Colleen, MH 11657",715,848052,464407,2156,28,Home Purchase,Approved,91
+2854ea98-a34f-4ac6-bddd-a2c5dcd505c0,Donna Kelley,michael54@example.net,452.284.8881x76277,"311 Smith Lodge Apt. 700
+Zavalatown, MO 68440",844,736209,148271,4501,23,Home Purchase,Pending,68
+6773feda-3130-425a-a8c3-231b8d081b39,Sarah Osborne,richard97@example.net,+1-520-368-0243x54988,"8213 Hernandez Dam Apt. 164
+Burnsport, KS 80030",577,728960,412223,1382,30,Home Purchase,Approved,5
+e6006503-2c9d-4699-afa8-23c27cc02955,Carolyn Hatfield,sanfordfrank@example.org,+1-900-558-8616x6328,"6466 Evans Forge Suite 700
+Jillfurt, MT 42082",596,843584,255900,5309,6,Student Loan,Pending,79
+cfa78301-875e-4034-99b9-bf61fdd007be,Jessica Francis,canderson@example.com,(853)656-4557x5898,"327 Kathryn Lodge Suite 040
+Herbertburgh, FL 35359",598,92682,638618,1912,15,Home Purchase,Approved,16
+72ab566b-4aa5-4228-b29b-1fceb7205096,Karen Stewart,kpowell@example.net,846-850-5846x130,"10816 Adkins Spur Suite 211
+New Cameronborough, MA 88593",727,548774,531426,3440,24,Home Purchase,Pending,79
+e27cef75-a068-44ce-b2d0-35ffa4d2fce9,Joan Carter,julie54@example.org,5334721086,"PSC 6727, Box 9991
+APO AA 70502",836,708252,124473,3849,28,Home Purchase,Approved,79
+7fba6cc3-d974-42ce-a66e-4a5ac071f0fb,Veronica Owens MD,ronnieballard@example.com,(905)525-8702x749,"6455 Cheryl Manors
+Mollychester, OK 99692",808,819720,34452,7823,29,Home Purchase,Pending,85
+58cddaab-2d02-4c5b-add8-fe620704eced,Jeffrey Espinoza,robertwheeler@example.com,527-236-1088x744,"835 Mckinney Mountain
+Port Monica, CA 29001",446,650169,196457,2954,26,Business Loan,Rejected,1
+59b2de6b-50dd-4067-b045-833d3720f3bf,Charles Gomez,nathan06@example.net,+1-626-657-4293,"424 Brian Run Apt. 533
+Thomasview, MI 77715",448,199480,28988,3527,10,Student Loan,Rejected,88
+d4c38a74-954c-45df-8cf5-6ed24c10c19d,David Holt,leonerica@example.org,+1-386-612-7993x88945,"59726 Ho Rapid
+East Sarahaven, TN 84030",675,629150,353799,6720,9,Auto Loan,Rejected,66
+1087dcd0-e96f-4f52-b3fa-df677cf831ce,Stephanie Fisher,rbarnett@example.org,001-448-224-1546,"055 Thomas Underpass
+New Dustin, MA 91156",589,540491,467422,4055,7,Home Purchase,Approved,46
+6a530045-eba0-4e08-9354-f9ed45483b79,Alyssa Peterson,tiffany68@example.com,295-730-8746,"966 Allen Forest Apt. 404
+East Douglas, LA 65409",665,457397,839122,6524,6,Home Purchase,Approved,86
+4ee5e16c-e471-47d5-91f5-1b08d6cd6ec0,Donna Lopez,fboyer@example.org,001-341-428-4551x412,"8813 Robert Loop Suite 745
+West Brendaland, WV 46027",317,388407,473064,5271,24,Student Loan,Rejected,85
+d80d43a8-c78e-4392-9f51-e222a41758d1,Gloria Romero,zrivas@example.org,(938)483-9371,"5940 Valencia Bypass Suite 772
+Johnstonborough, TX 34021",562,194370,742297,3479,7,Auto Loan,Pending,76
+8ee9d756-8f13-4b65-9394-f948bed3761b,Steven Scott,cgriffin@example.com,001-782-216-6202,"42710 Berry Square
+Katherineland, GU 87399",370,794722,246222,3149,7,Auto Loan,Pending,97
+c2695a2d-fd3d-4bc6-a951-7fe4497ee294,Harry Warner,ferrellwilliam@example.com,+1-308-910-2520x67478,"3496 Priscilla Stream
+Brandyhaven, ME 38462",762,514362,284481,5930,11,Home Purchase,Approved,51
+82a4523e-ab9e-4b5e-a144-b4323b327ce4,Kerry Kim,james24@example.org,862.545.1270,"229 Dawn Burgs Apt. 924
+Alvarezberg, ND 55428",651,133959,236448,2871,20,Auto Loan,Approved,55
+0d288370-d4a3-4e7e-b011-6945f4e903e4,Natasha Davis,jesus36@example.org,587-345-1172x70082,"904 Burns Spur
+Lake Julie, TX 14186",436,472043,241031,3878,16,Business Loan,Pending,20
+46b143e6-e519-4036-8574-095014db78be,Jody Ramirez,jonessandra@example.net,+1-640-550-1272,"111 Taylor Valleys
+West Jamesberg, VA 68575",638,267552,239921,6280,24,Home Purchase,Rejected,68
+ed7bf8f3-5148-417c-b787-24f95801964a,Samantha Smith,annettebond@example.net,4168568719,"381 Michael Circle Apt. 160
+Alvarezborough, MD 85917",642,147202,526512,3690,25,Student Loan,Rejected,100
+b85f00b7-bb2d-4f06-8aa5-02329d90f80f,Jeremy Ortega,russellmckenzie@example.com,6105477381,"880 Stark Mill Apt. 601
+East Michael, GA 10965",626,736201,660597,9557,6,Student Loan,Approved,80
+b2fab79d-0d3e-4e41-9108-b0f5401c75cf,Marcus Carrillo,barrerasamantha@example.com,238.364.1199x1977,"6689 Douglas Lodge
+Michelleview, SD 42274",709,769639,76840,5944,22,Auto Loan,Rejected,81
+84188905-e004-4042-b2cb-ccc55fd9366a,Melissa Jones,ilewis@example.com,+1-442-761-4275x64703,"82273 Jessica Meadows
+West Aaronview, MH 63683",347,775299,880390,1316,5,Student Loan,Pending,43
+30d235b8-ea84-4c02-864f-3baea1c1a96c,Cory Morse,james61@example.net,+1-735-430-5290,"89591 Daniel Bridge
+Masonton, ID 25317",676,469799,858132,9971,19,Business Loan,Rejected,82
+ee7f917d-5392-4dca-9782-3b77aef6edcf,Crystal Robertson,kellyhuffman@example.com,001-324-811-4534x5486,"807 Flores Row
+North Robert, VI 74036",440,463477,632483,6382,16,Home Purchase,Rejected,63
+e70b5267-05ef-4afb-9bb9-33aa908b3991,Brian Moore,smithjose@example.net,+1-891-767-8614x35231,"297 Christina Drive Apt. 483
+East Tammy, VI 25332",411,650449,25090,2417,11,Student Loan,Approved,40
+420973d0-8ed9-45ac-aa3f-165fe7909344,Kristen Clark,tatkinson@example.net,(573)486-3220x9386,"0646 Cooper Walk
+West Amber, GA 97103",667,812569,200258,4437,26,Student Loan,Rejected,93
+67999878-a1eb-41dd-8281-77216ca0ac4b,Michelle Brown,hernandezjoseph@example.com,001-383-245-2990x2000,"3447 Marshall Pine Suite 228
+Port Melissaside, WY 16189",564,784930,595972,3797,29,Auto Loan,Pending,45
+78757c52-8ae4-4f0d-be9b-1a24651c30c1,Amy Padilla,timothymathis@example.net,240-549-8388x128,"5147 Turner Key
+Mathiston, NY 73110",695,648486,201293,1440,19,Business Loan,Pending,68
+1ca3c174-fd2f-4219-aeb8-2862bf4c3b6b,Julia Hill,jenniferwiley@example.com,(567)807-3655x455,"06786 Daniels Alley
+Christopherborough, MA 12110",770,374812,146020,1956,29,Business Loan,Rejected,99
+f363109d-e8fc-446c-adb9-3f1e739b5aed,William Gentry,wrichards@example.net,(794)705-5909,"80341 Ashley Tunnel
+Rhodesmouth, RI 45146",457,107400,179549,7730,12,Student Loan,Rejected,41
+1be204a6-12df-4e63-8273-976f2665fbb9,Louis Johnson,robinstanton@example.org,(358)611-0298,"6989 Sandy Villages Apt. 757
+Erinchester, ID 59061",716,45015,416767,2298,17,Auto Loan,Rejected,31
+5a84ec50-cfc4-4025-a35c-e57f8092d279,Chad Guerra,zsmith@example.com,(641)748-1594,"494 Frederick Shoal Apt. 899
+Alexandershire, NC 73309",321,53762,291700,8516,8,Student Loan,Approved,80
+03e942a2-d64d-4465-a757-7f489a1b7c55,Andrew Wade,raymondcunningham@example.net,503-922-3917x07076,"9874 Ortiz Greens Apt. 433
+Elizabethbury, WV 87729",663,503518,90408,1048,2,Auto Loan,Approved,55
+96b729ac-96bb-4f46-be12-6aba9a8e8442,Abigail Murillo,mariojones@example.org,(934)250-2275,"USCGC Ruiz
+FPO AP 29554",545,567458,300966,8225,19,Business Loan,Pending,35
+b0e619f3-b2f2-478e-ab81-945d000ea53b,Danielle Gallagher,craig62@example.net,(949)720-3931,"505 Michael Station
+Rebekahton, TX 67242",845,333597,939289,5763,24,Home Purchase,Rejected,65
+21473d30-264e-4f83-81dc-111f14d0f139,Ashley Green,lisasmith@example.org,231-642-4823x446,"73513 Lopez Curve Apt. 228
+West Brittany, MA 01531",510,555242,650023,3028,1,Home Purchase,Rejected,50
+5ccec3d9-684f-452e-a2cb-151354931ee8,Elizabeth Parker,duaneryan@example.net,4407914958,"81648 Andersen Squares Suite 151
+Taylorshire, LA 92517",570,102981,600814,4837,4,Auto Loan,Pending,40
+b5e96352-c40d-48e9-9a4e-fd7bea6d64e5,Oscar Rivera,peterstewart@example.com,924-379-7982x224,"6200 Williams Greens
+Murrayville, MI 71231",387,48676,972449,1939,26,Auto Loan,Rejected,98
+033121af-d388-4b9e-a85f-d33649a774f4,Dana Medina,daviestroy@example.org,001-326-373-9835x79730,"0400 Brian Square Apt. 390
+Washingtonhaven, NV 26518",615,358187,606666,3105,30,Home Purchase,Approved,49
+a3725c9b-6203-4e78-934b-0fa0f64b7c70,Juan Jackson,monica91@example.net,(838)625-5306,"3926 Robert Mission
+Normabury, MD 21499",599,32901,923038,7258,6,Auto Loan,Approved,72
+22ea5923-24c8-462a-8ede-6a3ea13867a7,Kelly Ellis,ronald13@example.org,771.340.7787,"USS Alvarado
+FPO AE 05820",695,379905,444337,7994,6,Home Purchase,Rejected,6
+1d49ac1b-b403-4ff1-9402-5ea926b60180,Daniel Webster,moorejason@example.com,(305)720-3693x0170,"586 Lambert Land
+Andersonport, NC 99284",829,259427,660410,7708,13,Auto Loan,Approved,3
+e30d2e2d-1d17-42d5-99db-597d6380a59b,Morgan Avery,miguelmoody@example.net,849.787.5592,"58834 Arthur Way Apt. 186
+Joyceland, MP 78277",826,253751,205496,4868,5,Auto Loan,Pending,31
+e0085481-44dd-4645-9dd6-dfec76c08cbe,Tammy Lynch,melissa14@example.net,502-662-3805x7890,"950 Lee Station Suite 882
+West Georgemouth, PR 83658",456,282488,865337,4561,10,Business Loan,Approved,54
+b33aca33-4e80-4389-bd68-aa6bf66f4f1b,Keith Rodriguez,poconnor@example.net,001-240-759-8612,"386 James Mountains
+West Jamesfurt, FM 35086",558,595972,116275,3480,22,Student Loan,Approved,4
+1635bfca-bc09-4781-a6b8-c0cbab68f07b,Robert Kelley,pamelaturner@example.net,709.395.4682,"734 Megan Stravenue
+Michaelhaven, VA 49073",306,321227,401528,8673,30,Home Purchase,Approved,28
+6383fc9d-5f85-44b7-8175-56c7d79b9682,Erin Villa,gstewart@example.org,001-581-740-3130x85572,"Unit 7324 Box 3178
+DPO AE 62423",658,440283,393381,9946,2,Home Purchase,Approved,98
+8450cd69-b012-4181-960b-272b48edaedf,Stephanie Allen,mcdonalddaniel@example.net,(331)568-5577x659,"6825 Michael Club
+East David, MS 03900",572,885037,797076,4624,16,Auto Loan,Pending,67
+b104f103-3a9f-4918-bb2e-66773ca0d186,Suzanne Wong,lopezscott@example.net,744-821-3212x75646,"232 Villarreal Vista Apt. 295
+Ginaburgh, IL 05585",748,460224,370473,6012,19,Home Purchase,Approved,79
+41bffedc-363e-4041-aabc-081186b74fc3,Brent Hansen,carrie46@example.net,(200)904-0797x549,"574 Nicole Overpass
+Bakerton, NH 73814",556,138422,734511,7627,21,Home Purchase,Approved,86
+9e6329c7-c3b9-4f0a-b8f5-c0725f7fe13c,Amanda Kelly,amanda34@example.com,(809)589-3547x16760,"37564 Stephanie Mountain
+Josephshire, MN 08316",826,789003,327269,4533,11,Home Purchase,Rejected,72
+47467ce2-e2db-45a5-af54-685f7b5c7e3a,Daniel Hernandez,malloryjackson@example.org,6844289584,"9941 Mariah Port
+Davenportmouth, MA 39320",430,158026,920050,7874,28,Business Loan,Rejected,76
+aed5f558-c6b7-4128-ae43-1aee793feef1,Lisa Lee,eholmes@example.org,500.848.8065x65406,"94927 Hines Unions
+South Michael, MI 93617",418,86326,51672,2445,26,Auto Loan,Rejected,69
+e28a6591-dc9b-42f0-a43f-ed4f9ee2b59d,Stephanie Pennington,hollandrobin@example.org,(722)421-7822x7650,"4222 Hogan Isle
+Thompsonhaven, AR 06613",520,101386,222307,7294,8,Student Loan,Rejected,48
+76377c86-3205-4cea-b590-eadfca70af65,Catherine Cooper,fvargas@example.net,(590)772-7935x3732,"1366 Hughes Locks Suite 929
+North Carl, OK 25564",667,389489,42485,5619,19,Student Loan,Approved,82
+c6830505-e746-4466-a1a6-5b25a16d985d,Shari Pham,harry84@example.com,241-702-7328x4756,"41876 Taylor Lane
+Jacobsburgh, VT 66698",635,364244,840770,9485,9,Home Purchase,Pending,27
+816952b8-2fe7-42b6-bae6-d72c9ec2267a,Rachel Young,jamie17@example.org,(433)265-5130,"4759 Ramirez Falls
+Nunezland, TN 19434",486,391098,737034,7290,5,Business Loan,Pending,41
+28ab7991-89c6-4166-8c5c-c6a0cb74b042,Lance Flores,richard28@example.net,9154057129,"2834 Flores Drive
+New Philip, ID 01982",733,802910,216168,8377,14,Student Loan,Rejected,31
+082365fa-e593-428b-ad9f-89a312cf37be,Dennis Simmons,brandonwells@example.net,001-359-515-2673x03867,"368 Nicholas Plains Apt. 315
+Karenfort, NV 24053",300,186177,913498,5779,23,Home Purchase,Rejected,18
+7df91acd-a480-478b-a525-4511f500eedb,Amy Moore,iwest@example.org,+1-364-434-4280,"772 Brittany Forges Suite 554
+Kristitown, OK 98617",365,681766,315318,9570,3,Auto Loan,Rejected,2
+35c699cc-32fa-4044-b20d-3e4bd3055fb2,Dr. Luis Sandoval,rachel85@example.com,7952318897,"PSC 1605, Box 9297
+APO AP 60415",836,843639,196093,3217,14,Home Purchase,Rejected,17
+ef9b44f3-f539-4eaf-9d0d-edf44a538c44,Dean Miller,david85@example.net,804.340.6576x04149,"2920 Mitchell Brook
+Juliachester, GU 25494",620,387145,131705,8405,25,Home Purchase,Rejected,74
+df5c1ccd-7fea-420c-96c0-71a00ceeb173,James Miller,anitaowen@example.com,001-548-380-4922,"1183 Bernard Expressway
+New Frank, NC 55909",414,573600,966408,1402,17,Auto Loan,Rejected,54
+2943e444-0b52-4d60-9b66-b3ecb063eb92,Christopher Foster,sandersmichael@example.org,225.393.2132,"279 Courtney Vista
+Stacytown, MT 29860",729,582847,953988,7694,27,Business Loan,Pending,45
+ee9e5703-67b5-4eb8-a485-8ee74664a6d8,Charlene Brown,kelly73@example.net,+1-906-477-8044x11317,"684 Derek Landing Suite 209
+North Timothy, OR 66231",532,64138,895483,7253,12,Auto Loan,Approved,86
+b7982765-00af-479e-a6d2-15e459e129c3,Kayla Mills,amyprince@example.net,304.708.4259x71669,"06340 David Forks
+Gabrielshire, WY 04985",403,427056,714516,9725,2,Student Loan,Rejected,58
+e933c566-6eae-4c66-858d-ab3093a35a8f,Heather Hawkins,john71@example.org,723.278.4909x8226,"0030 Sandra Spring Suite 987
+South Richard, NY 18630",531,55219,899918,1936,30,Student Loan,Rejected,90
+5df81b13-ddb6-4350-aa7b-1ad6ff5d7398,Mary Schneider,andrea35@example.com,(757)330-3517x6449,"8853 Eric Terrace
+Port Maryville, CO 19647",828,757763,889883,1911,13,Auto Loan,Approved,24
+bfdb23cc-2340-4c26-b839-25c6cacc4c2f,Margaret Moore,uschmidt@example.net,+1-290-552-5311x4128,"0597 Jacobs Rapid
+Brandontown, ME 25475",834,713016,597775,2327,17,Business Loan,Pending,38
+57213d85-e4ca-4b22-bd3e-3aaad94bfeb2,Sophia Torres,holmesaaron@example.com,254.453.1008x688,"762 James Fall Suite 160
+New Richardville, NH 68377",322,434678,532161,4594,19,Auto Loan,Rejected,6
+ec7829cd-32a6-43ee-a8a0-0e8e4982364a,David Johnson,darrenperez@example.net,388.276.9555x932,"320 Pamela Cliff Suite 951
+Tiffanyhaven, CA 77524",367,833317,236960,1148,16,Auto Loan,Rejected,85
+a7e76386-89aa-4715-8de9-84781dc799bd,Wendy Gonzalez,davidelliott@example.org,(571)666-7174,"9437 Griffin Canyon Apt. 425
+North Rebeccafurt, VA 28576",592,735284,908578,7855,18,Auto Loan,Rejected,27
+d2f4fb1c-8ffc-49bc-b972-ffa1e70d9bfa,David Green,erin22@example.org,(365)327-5880,"225 Rowland Stravenue
+Samuelbury, OK 77472",641,444280,552709,6590,9,Home Purchase,Rejected,92
+5b3061cd-a5b8-499e-8add-d28f25cb8b4a,Justin York,peggydrake@example.net,+1-275-644-7823x585,"2573 Jeff Court Suite 449
+Port Mario, CT 61463",525,179689,25909,8379,22,Business Loan,Rejected,55
+0fd6205f-5ef3-4df7-9d41-44e5f57a4235,Jennifer Moran,ronniehernandez@example.org,463-453-8264x02909,"03727 Loretta Island
+Jeffreytown, ME 69548",776,483927,681355,5576,3,Auto Loan,Approved,50
+5fb2b438-eec5-4edc-ae31-8b8c99388e68,Caroline Hardy,ierickson@example.com,+1-832-856-1451x311,"4917 Le Ridge Apt. 113
+South Amberberg, OK 63136",740,637555,72530,8645,5,Auto Loan,Approved,57
+47d80dda-5336-400e-ac87-d62d405972e9,Harry Wilson,anna08@example.net,394-974-2645,"376 Stacy Flat Apt. 201
+West Joshua, AK 85098",509,670133,776389,8838,8,Auto Loan,Pending,14
+e094aa38-21ee-4a55-af39-95a60c1e30e9,Antonio Buck,williamsleonard@example.net,(497)337-3474,"48897 Patrick Mountains Apt. 751
+South Christopher, VI 38392",363,183882,161246,2313,5,Home Purchase,Rejected,50
+988ef02a-007c-416f-83c9-65987ae96c85,Erik Hobbs,michelle71@example.com,001-619-456-6300x2320,"7198 Stephanie River
+Thomasland, CA 45344",718,525049,825626,2906,25,Home Purchase,Pending,0
+39ab648f-fb6a-47c3-9074-8eeae4bc45c1,Deborah Rose,wilsonandrea@example.com,(594)787-7773,"164 Williams Plaza
+East Nicoleborough, CO 75619",626,321854,90110,1326,13,Auto Loan,Approved,55
+78fdd076-c6c1-4bb7-88ed-bc1e123a3183,Megan Mckee,jenniferestrada@example.org,001-705-204-4560x9334,"2133 Denise Mill Suite 382
+Maryborough, WI 09004",795,298178,858905,9456,26,Student Loan,Pending,73
+81f756ec-9266-448d-87c6-fca3a5fb1d2a,Pamela Jones,nelsonpeggy@example.com,365-747-5943,"560 Rodriguez Junction Suite 224
+Markshire, ME 75386",465,81009,997267,3996,15,Home Purchase,Rejected,97
+5d472865-311b-4045-b272-858e9b4057c0,Angelica Rush,sperry@example.com,+1-323-279-0302,"69921 Heather Port
+South Danielmouth, WV 01731",371,27953,226068,8768,23,Business Loan,Approved,23
+37bd68b1-2597-42d5-9067-2820e7acb6fe,Jerry Quinn,singhbarbara@example.net,429.877.6610,"148 Rachel Isle Suite 675
+North Jacobberg, VA 08026",445,642161,973717,7578,8,Business Loan,Pending,47
+0a7ba78c-3425-4b63-9f74-45ac04de103f,Karl Bentley,montgomerystephanie@example.org,(468)737-7210,"USNV Jones
+FPO AP 55819",602,154126,10781,6454,26,Auto Loan,Rejected,0
+bfea340d-2648-4a94-afa6-c42c0004afb4,Michele Johnson,cgraham@example.com,(816)411-3442x650,"171 Robinson Circles Suite 503
+Natashastad, RI 30783",431,492492,328438,5659,8,Home Purchase,Approved,5
+3c5fcd0c-d85e-45a0-bdc7-049cf0cc9e79,Keith Johnson,christopher99@example.net,513.897.8387,"5208 Jennifer Brooks
+West Derrick, KS 43155",683,470754,671747,4274,20,Auto Loan,Approved,74
+6973cc4a-18bb-4797-9bd5-9ce8447fa005,Nicholas Stanton,sarahthompson@example.com,917.582.4891x98834,"165 Julie Square
+Rachelside, MT 96555",725,367335,876415,6700,18,Business Loan,Approved,13
+531811c5-cb8a-4749-8bd1-17fb4f91efd3,Victor Moore,stephanie66@example.net,001-903-483-4787x9300,"19523 Reginald Hollow
+Port Emilytown, PR 63016",774,792163,978785,4204,12,Student Loan,Approved,0
+f3b06827-eff4-4881-9d4c-c74667419c6e,Brandon Pearson,thomasgonzalez@example.com,001-383-259-0388x150,"4862 Harrison Green
+Robertsonborough, AL 12890",534,752596,897383,2294,7,Home Purchase,Rejected,63
+faab473c-d880-4172-908b-4e132a77f400,Marie Mckay,david29@example.net,818.461.1949,"4923 White Road
+Lake Amber, KY 93923",825,410114,124597,1233,21,Business Loan,Pending,26
+c1a3f083-551a-4bd5-85a4-ce2f4157b722,Darlene Horne,walkerscott@example.com,608.821.7171,"862 Kathryn Mountain
+Hickmanport, MA 43499",745,706334,316579,7791,16,Home Purchase,Pending,47
+17b4e49f-76d8-4482-9455-1431d041145a,Jordan Wilson,kchandler@example.net,4687460666,"4052 Garza Port Suite 113
+Lake Kristen, NC 58352",377,52135,196158,1526,20,Business Loan,Approved,26
+35da1d17-d338-42f9-8855-162f060c65e2,Anna Hoffman,grodriguez@example.net,435-451-0725,"33388 Rivera Landing
+East Mary, MD 83285",366,298711,856960,1059,21,Auto Loan,Rejected,33
+595e783b-369c-4240-8ae3-3f8def5f962d,Adam Oconnell,powelljulia@example.com,001-667-275-8441x9355,"905 Obrien Roads
+Lyonsview, AK 58007",428,338063,839634,3739,13,Business Loan,Pending,28
+d866e58d-543a-4193-bc39-5202da7bb508,Andrew Fields,collinselizabeth@example.com,(279)639-0726,"699 Elijah Squares
+Doyleton, AR 51802",328,777637,262293,6779,22,Student Loan,Pending,12
+47c09590-84b5-4661-a400-9d2211bd27d0,Brandon Weiss,aritter@example.net,974-958-8246,"9705 Smith Gateway Suite 487
+Port Elizabeth, MN 94151",755,417348,955084,7773,10,Student Loan,Approved,7
+54ee23d0-f5ae-48ca-afcd-d45470305d6b,Denise Elliott,theresa17@example.com,+1-202-907-1097x859,"850 Ferguson Ridges
+Meyerfurt, OH 66757",714,619393,885584,6173,3,Student Loan,Rejected,29
+c57624e2-a06e-49ac-a065-33c5f2a0bfaf,Ashley Guerrero,brownrebecca@example.net,302-979-7883x4612,"24484 Franco Stravenue
+South Danielleborough, AK 43217",803,736594,388270,3594,4,Home Purchase,Approved,29
+391654d3-cff0-4878-8a7b-5bbc7e78a570,David Brock,jasminesteele@example.net,001-664-522-5649x4323,"Unit 5991 Box 8312
+DPO AA 23544",552,800363,924356,8274,17,Business Loan,Pending,24
+86dbeb9f-d9aa-47f3-a3b9-a4cf71fc69e2,Mia Fowler,dennissamantha@example.com,+1-372-798-6431x944,"71822 Drake Walk
+East Steven, NH 13786",761,263824,486288,7101,13,Auto Loan,Approved,22
+a87ebb89-96b5-4704-a830-f100d5f8eec7,Edward Duncan,jonathan55@example.net,(583)740-5247x03523,"0298 Andrea Manor Suite 792
+Rodneyport, PR 58779",719,584364,242098,1329,15,Auto Loan,Rejected,64
+f7ee9780-14f8-4639-aa7e-fc2f919294b5,Christie Brooks,lorrainerivera@example.com,980-398-7702,"6713 Erica Field
+South Staceyport, NV 73962",541,285376,7324,4450,18,Home Purchase,Approved,34
+1a6c61a4-cd8f-4fdd-bbbb-df6fc8eae90e,William Allison,hhill@example.net,(206)226-0816x69989,"PSC 2174, Box 1186
+APO AE 29187",719,405840,465313,9979,10,Auto Loan,Rejected,96
+3e7929ef-ed25-4937-8860-a87e3df85c5b,Lance Hutchinson,marissa23@example.net,6618279872,"4329 Bird Gardens Suite 319
+New Adamhaven, ME 36857",359,837747,388326,4570,29,Home Purchase,Approved,5
+233ec70f-d778-47ef-81e3-9b33a3ebbc00,Elizabeth Harris,christian55@example.org,4149260246,"7771 Joshua Village
+Lake Jared, GU 92332",613,531696,831759,8719,30,Auto Loan,Rejected,90
+4db78764-85c5-49b7-949f-5603cf7bc480,John Smith,mbowers@example.com,001-884-238-8002x2075,"04839 Walker Junctions
+North Alan, MP 32284",463,115975,119196,2623,21,Business Loan,Approved,51
+ded39fca-3fa1-4f8d-92ff-389be1bcff84,Christina Jones,knightalan@example.net,942-944-8700,"841 Teresa Village
+New Haroldchester, GA 69430",400,217372,121026,5078,8,Business Loan,Approved,64
+bb56ceb4-43b9-4ef6-b23c-73c42290ca9f,David Stevens,sonya70@example.net,+1-999-860-1370x30472,"31605 Johnson Mill Apt. 231
+East Sean, MS 67685",472,816252,765199,3431,19,Home Purchase,Rejected,68
+946e6c06-2595-4e11-b1a8-d12761c3c58d,Joseph Lawson,brianrowe@example.com,9255340433,"95200 Kelley Knoll
+Lake Joshuabury, AZ 64479",720,460044,304528,3384,3,Business Loan,Rejected,84
+d6c7e477-ddd5-48ed-b733-88bb4fea9e8c,James Lee,anthony17@example.com,+1-841-420-4064,"14735 Warren Parkways
+Port Erica, MT 41376",367,460945,802747,8484,8,Business Loan,Approved,7
+958ddc69-f1fa-4a7d-9445-8acd27213fba,Steven Moreno,joneswilliam@example.net,001-956-300-7424,"Unit 7530 Box 7607
+DPO AE 43002",739,361788,622755,3909,25,Auto Loan,Rejected,7
+5ca868df-68c4-4a66-a1d2-2650b20128ad,Samuel Harris DDS,bmartin@example.net,+1-862-490-8160x59446,"PSC 9704, Box 5763
+APO AA 23886",648,365168,385985,6764,19,Auto Loan,Approved,95
+5fb288dd-1c9e-4be1-a6a8-a08081cadb87,Jessica Owens,wendy02@example.com,683.294.1505,"5019 Clark Tunnel
+Lake Zachary, MI 10797",850,400187,271540,8436,24,Student Loan,Approved,58
+d829d4b9-f306-44db-abc5-516a77d3c774,David Marks,yadams@example.com,342-313-8997x4409,"34860 Brown Summit
+Lake Meganland, MO 55161",775,375033,752071,6181,30,Auto Loan,Approved,2
+697122cd-adf3-458c-b917-0b00495ef87a,Sharon Fischer,williamsbrian@example.com,899.273.1461x063,"PSC 5327, Box 7887
+APO AA 81974",674,574263,830852,7556,30,Student Loan,Rejected,44
+3c483edd-4b09-4060-afe9-353865f913df,Maureen Williams,chloe29@example.com,(485)487-9547x55596,"04560 Laura Stream
+Port Kenneth, IN 04264",395,80717,363960,5525,3,Home Purchase,Rejected,93
+1eec3651-9e39-4c82-ba2e-18121a7f2b07,Emily Cook,barbara84@example.net,001-735-695-6467x35697,"22368 Hayes Passage
+Michaelton, MN 32182",316,681814,311649,2170,5,Business Loan,Rejected,6
+d45d8ea2-8e70-422e-b235-af3917126f9a,Amanda Hawkins,wilsonsteven@example.net,(206)618-8239,"10721 Julie Ways Apt. 964
+Lawrenceport, GA 21306",308,603226,502279,4509,11,Student Loan,Approved,16
+94e49bc1-176d-4dfd-866c-117fdb6be59d,Nicholas Fox,troy37@example.org,518.979.3852x45347,"12214 Clifford Inlet Apt. 842
+Jillborough, GA 78540",583,622634,820589,5106,27,Business Loan,Pending,78
+f98f4aaf-1c6b-44ee-96f9-16aff9341476,Alexander Thomas,llogan@example.net,926-708-6619x9443,"035 Moran Center Apt. 207
+Fishershire, IL 82992",700,202246,217972,2821,30,Business Loan,Rejected,30
+12ab7666-5969-4fa6-b232-416c1f2d2654,Chloe Hines,cenglish@example.org,517.358.3905,"9935 Edwards Shoal
+New David, NJ 93578",845,835453,928145,6723,17,Home Purchase,Pending,87
+26ea5157-04bc-4da8-9be4-fd5088668194,Becky Sellers,singletonangela@example.com,+1-887-533-7065,"10572 William Path
+West Samanthastad, SD 67633",575,255307,186992,3343,5,Business Loan,Pending,29
+127533c4-0b91-4923-a37c-ce1716d1a2ba,Nathaniel Jackson,sarah78@example.net,+1-655-921-3516x06677,"0172 Joshua Locks Suite 049
+Port Brittany, HI 65472",492,705658,616567,6176,25,Home Purchase,Rejected,75
+cd30e335-96b5-4ecc-a2c1-7575da9dc39d,Frank Miller,kenneth35@example.net,+1-721-921-1739x21614,"4129 Angela Path Apt. 579
+Johnsonville, FL 34474",620,822684,17871,9487,7,Student Loan,Pending,76
+0a2cbbec-8ce0-4fc4-a13c-6f24d000babc,James Reyes,hayscollin@example.org,756.743.2059x355,"738 Sullivan Viaduct Suite 938
+South Vanessa, OH 51286",823,832043,552564,2932,28,Auto Loan,Approved,50
+0d99d7cc-f1a9-45c8-8b28-021d3a78b478,Theresa Bradley,lnorman@example.net,922-425-7073,"97024 Hernandez Bridge Apt. 000
+Rangelborough, GU 66790",477,360358,583612,8146,20,Student Loan,Pending,96
+19f935f7-23f4-4e83-825b-75e797f0005f,Jennifer Allen,sonyaroberts@example.org,(375)412-9197,"7172 Bright Lodge Apt. 226
+North Danielmouth, MI 88560",483,746472,157151,9436,28,Business Loan,Approved,71
+0d08628f-64e6-40e0-903d-10bdd96423ca,Casey Jones,elizabeth40@example.org,(957)289-0984,"7169 Natasha Mall Apt. 345
+Karaburgh, TX 31399",563,643368,398747,5422,21,Business Loan,Approved,49
+7c951aa3-01c6-4323-9165-d04abe50d19c,Kristina Roman,sheryl12@example.com,001-410-736-0220x92943,"87618 Stephanie Overpass
+East Michaeltown, NC 97621",429,44852,198491,7710,5,Business Loan,Approved,68
+2ecf8430-9b11-451c-8770-77c537d1bcd5,Kristina Patterson,brandonnoble@example.org,001-521-588-0142x997,"965 Mcdonald Fork
+Marquezview, MP 06736",501,240146,864628,1240,18,Business Loan,Approved,50
+b6e58f6d-7d01-4fbd-8ca3-b00e5cc779eb,Katie Thompson,baldwinjohn@example.net,476-845-4723x9015,"7580 Nicole Islands
+Port Jacqueline, NM 03665",830,182724,44474,7807,14,Business Loan,Pending,95
+b515de06-0b49-477a-8348-294aaf2503e1,Tyrone Sanchez,amyhart@example.org,(961)803-3839x652,"PSC 0432, Box 7436
+APO AP 78953",506,155733,344712,1854,18,Business Loan,Approved,85
+f7e4fec7-8170-44bd-aee8-214f11e564ea,Melinda Rodriguez,phillipskeith@example.net,446.210.1240x59157,"970 Jonathan Hollow Apt. 873
+West Manuel, CA 95300",833,178917,722817,1299,14,Home Purchase,Rejected,75
+278e3eea-d4af-4a9a-bd1c-717bcf54ab23,Brenda Roman,derekduffy@example.com,415.249.2493x030,"488 Rodney Crossing
+Port Audrey, PA 85887",500,325070,536279,4010,26,Student Loan,Rejected,68
+decfbc9b-3b41-4424-a637-ceb7e32dabf5,Lucas Dunn,sweeneyglenn@example.net,+1-630-742-1391,"Unit 1856 Box 4010
+DPO AA 31977",510,216543,454239,2295,24,Home Purchase,Rejected,62
+c307a9ca-72d9-4e8e-8253-219c1119cd82,Shelley George,mccarthypamela@example.net,001-324-281-6891x044,"550 Julie Stravenue
+Angelabury, NE 02261",576,312258,473081,6520,3,Student Loan,Pending,91
+6bf7cdd1-ea36-44aa-97e6-634f216f45df,Allison Wilcox,alyssa47@example.com,(387)926-2835x8684,"36870 Maldonado Corners
+Port Nathan, FL 64962",563,544593,840,3368,17,Business Loan,Rejected,25
+7ad93454-577a-4f02-b3aa-a423da609ba1,Raymond Jenkins,dustinmiller@example.com,565.393.2399x744,"18582 Anthony Circle Apt. 254
+Patrickberg, NY 52775",485,649399,315139,2216,29,Student Loan,Approved,4
+21e4775c-856e-4c66-9ede-643cd60aa651,Duane Cox,zsanders@example.org,436.579.4410,"975 Edwin Street Apt. 332
+Katiechester, WA 02682",528,262808,377102,1430,25,Auto Loan,Rejected,77
+e25d1978-dbbb-4b35-a086-a957aa24a1a2,Bryan Bennett,osbornekenneth@example.com,001-520-841-5942x5314,"163 Whitaker Knolls Suite 793
+Stevenburgh, DE 53625",604,259692,142844,2545,13,Business Loan,Approved,63
+87c70b35-e3d0-4745-ad01-2a023fa5d371,James Adams,hmendoza@example.com,360.221.9194x59205,"19300 David Mountains Apt. 380
+South Richard, NJ 81194",740,553818,580332,1859,21,Auto Loan,Pending,21
+0433f65b-28f3-4452-acef-965ef9785073,Steven Keller,jamiemitchell@example.com,703.965.5320x705,"05013 Joe Mount Suite 330
+North Tina, NC 96754",651,356153,52134,5474,28,Auto Loan,Pending,89
+b2d431fd-9a60-40b3-8cdb-dad2c3ecc1ac,Melanie Payne,laura27@example.com,200-391-8110,"173 Sherri Key Apt. 760
+Lake Christopher, FM 85016",325,775160,389860,1389,24,Home Purchase,Approved,33
+ef13570d-cd74-4941-b964-fb1bba768f8c,Jerry Cooper,robinsoncarly@example.org,(501)369-0931x56504,"73606 Wilkerson Trace
+Oneillton, HI 29257",361,427365,859002,4726,9,Business Loan,Pending,8
+5663628e-4053-41c9-a1b0-ebd89e365573,Mr. Justin Vance,barnesjacob@example.net,766.661.9015x94798,"49406 Ibarra Common
+Donnamouth, LA 40755",804,560646,904234,5735,5,Auto Loan,Pending,100
+f40b37c6-f54b-4ee9-a076-57870b99819c,Gavin Lee,heatherfrank@example.com,7239271837,"84248 Sanders Rapids Apt. 650
+Patelland, WV 83732",795,267823,485721,6651,17,Auto Loan,Rejected,45
+a99c5922-955e-4149-ac7a-3fd846b79b43,Joan Hernandez,chad35@example.org,988-536-9355,"1780 Michael Loop Suite 772
+Patelland, MS 84239",648,470508,182272,9821,12,Student Loan,Approved,60
+e8c86b89-ce76-499d-b118-13280edbfe03,Daniel Clark,icoffey@example.net,001-650-941-1261,"99988 Chambers Junction Apt. 605
+Michelleberg, CO 21853",427,69204,153298,4976,14,Auto Loan,Pending,3
+ba065706-6bf7-4fea-89c7-e7930f4db3e0,Kristina Melendez,sydneysmith@example.org,(915)498-1218,"402 Hoover Ports Suite 204
+West Nancy, MN 78561",362,160556,572122,4690,14,Auto Loan,Pending,55
+a586b919-b9a7-4080-998e-c71920884632,Christopher Ramirez,robertsonamber@example.org,488-735-9925,"1832 Lopez Alley
+East Timothyshire, PR 43522",653,203148,807157,1595,21,Student Loan,Rejected,92
+8b92b71e-2f47-4206-931c-cc000738049e,Nathaniel Howard,georgecox@example.org,4825970043,"1259 Mckinney Glens Apt. 729
+East Kennethhaven, RI 91894",673,658457,225957,4351,11,Home Purchase,Rejected,30
+c6babfe9-0ae4-4ac9-93fc-cce2657b6956,Mark Lynch,wmahoney@example.com,(465)726-1877x85333,"9805 Julian Rue Apt. 914
+South William, MD 56366",326,846067,181823,3471,28,Business Loan,Approved,74
+2ee7d348-a2eb-4a28-87ee-ec731490849f,Andrew Hernandez,adamsshane@example.net,(938)648-4905,"19075 Wilson Hill
+Martinezport, MS 61744",797,254228,919946,2228,24,Business Loan,Pending,29
+e570eb28-fdf6-46ab-95b2-4e621a5d9cfe,Jonathon Smith,enguyen@example.org,001-631-961-8391,"0263 Porter Street Apt. 331
+Nelsonchester, MN 14551",318,558002,100332,2527,20,Home Purchase,Pending,85
+38aa9439-b3da-4d06-b26c-21662e425f5c,Kimberly Scott,robert06@example.com,+1-856-769-3592x5086,"827 Lee Centers
+Muellerland, OH 39965",728,315591,794033,5365,22,Student Loan,Rejected,65
+1f8d500c-dcc1-4aec-b688-b1e4bc57772b,Pamela Sims,nancygarcia@example.com,(458)907-4829,"4682 Joel Drives Suite 961
+New Joseph, NH 11318",599,176021,331774,6293,8,Student Loan,Approved,37
+53f536e8-4c36-42ec-a683-db66c2f875c2,Timothy Turner,velezjames@example.com,212-893-1116x44516,"35289 Jennifer Wall
+Brightberg, DE 69099",714,346972,571589,2097,19,Student Loan,Pending,91
+c0c23e87-61aa-4cc1-9a7d-694e449f676c,Elizabeth Galloway,patty88@example.net,814-314-4724,"82884 Mark Heights Apt. 187
+Farmermouth, CT 57061",384,189208,362952,2515,8,Student Loan,Approved,63
+dd8106b3-3b9e-44f5-b492-6e23b2b333a8,Hannah Brown,jefferyfry@example.com,304.440.7152x76471,"3965 Michael Shores
+Port Ashleyland, OH 72066",450,767880,75748,5391,24,Auto Loan,Rejected,55
+390e719c-1512-410e-a83b-2893c81662a8,Nathan Martinez,johnsonjohn@example.com,001-568-726-4481,"83093 Sylvia Highway
+West Rachelview, MH 93817",768,722586,51355,5232,18,Business Loan,Pending,31
+e1c54654-40ba-43c0-bc4c-dead38782891,George Rice,mcdonaldjoshua@example.net,+1-289-572-1825x97274,"034 Alexis Road
+West Sabrina, MA 39843",592,435450,344664,3466,7,Student Loan,Pending,33
+0384b544-60c9-40f7-9eba-5f9b8fa55261,Elizabeth Silva,andrewbryant@example.org,(297)400-4725x9614,"0613 Newton Mountain
+West Crystal, MP 33253",509,190862,273215,3091,17,Auto Loan,Approved,77
+86a08b4f-308d-4de9-9808-35a53b9ed355,John Chen,vcontreras@example.net,001-937-538-7637x79162,"106 Douglas Run
+Reevesville, FL 01458",771,293808,261181,6445,23,Auto Loan,Rejected,37
+2545355b-4719-471a-bb16-efe605f6da6e,Catherine Mason,jimmymiller@example.com,261-350-8391,"PSC 6241, Box 9630
+APO AE 66534",485,868411,173055,2181,7,Auto Loan,Rejected,97
+a1aa1d0b-8314-45d5-9b8e-023f84c2aebe,Matthew Phillips,obell@example.com,579.919.5351x2012,"38349 Bowman Shores
+West Jeffreyport, MA 24836",850,274778,549289,9217,2,Student Loan,Approved,29
+365d84d1-ece9-4b0f-a0f2-f0719f34f81c,Annette Little,smithmary@example.net,471-631-1578,"3570 Valdez Locks Suite 630
+Port Lisa, AL 68542",515,449345,148710,3232,25,Auto Loan,Pending,5
+ee181557-1e3f-4f2a-b9df-becbbb419c14,Deborah Snyder,ryan04@example.com,(410)424-8024x89002,"4371 Katie Well
+Port Carly, VT 19027",684,283412,201978,9339,15,Business Loan,Approved,60
+599bf75c-57f3-4ee3-a736-47ffc9a83acd,Tammie Miller,fordjames@example.com,940.950.2796,"85376 Brad Pass Apt. 049
+South Robertton, MH 23994",565,528923,834412,6543,4,Student Loan,Rejected,53
+8f3265d5-88dd-4eb4-8250-399af794c11e,Nicole Mcguire,kdavis@example.com,(447)853-4831,"89706 Brown Course
+Barrettburgh, VI 24836",678,281855,159417,9529,5,Business Loan,Rejected,91
+73daf762-65f1-4ed6-a030-f6ce622c5f79,Danielle Leon,zwilkins@example.org,(948)624-6753x8052,"69093 Gray Knolls
+Hobbsfurt, MP 97182",816,409438,408238,8110,18,Home Purchase,Pending,12
+8bcab779-9006-4a39-9465-d19fdd8aff41,Lori Kim,williamsonalexis@example.com,(883)780-5354,"5638 Jessica Crescent Suite 613
+Harrishaven, WV 44611",340,89714,309615,5313,26,Home Purchase,Rejected,36
+ada12a44-2881-4e2c-8ee2-e82ac5880b8e,Edward Bailey,kevin89@example.org,+1-314-306-2178,"PSC 3474, Box 2286
+APO AE 01022",366,36084,678693,8942,1,Business Loan,Pending,100
+7b17e3f8-8048-4878-b824-c15aacd7cdf8,Robert Phelps,mjohnson@example.com,356.306.4397,"2517 David Stravenue
+Taraland, ME 43956",649,397063,293511,9814,10,Student Loan,Pending,95
+a1b05547-a357-44e0-bd6b-8a08b8f43d61,Colleen Carter,reneeandrews@example.com,001-455-256-3581x535,"913 Escobar Groves Apt. 269
+Gonzalezborough, IN 23185",432,336411,976898,4767,19,Home Purchase,Rejected,86
+a7da6d1c-7a5f-4f3b-b9f7-8e69e9031d79,Mary Rosales,wsims@example.net,001-286-388-7924,"7891 Long Center
+Jonesfurt, NM 52528",680,254416,163954,7345,23,Student Loan,Approved,26
+ffe5e00c-04fc-4fdf-84ae-9b431ea550d6,John White,timothyyoung@example.net,+1-424-552-2547x66396,"0324 Brown Lodge Apt. 172
+East Brianna, MI 54059",673,524004,649836,5931,12,Auto Loan,Approved,43
+467760c5-b0f9-4c33-bc03-d8150179eeb4,Dustin Lewis,holly99@example.com,+1-615-460-8092x07572,"600 Moore Stravenue Apt. 234
+Morrisborough, WA 55926",699,728036,624545,9367,24,Home Purchase,Pending,55
+e8763360-deee-4df8-b363-8eb5121d2c70,Scott Griffith,torresamy@example.com,(772)339-1848x4201,"74793 Rodriguez Parkways
+South Harryborough, CA 53110",672,71848,423569,2592,25,Business Loan,Approved,26
+91ed9425-ef90-4bb1-b129-5893f35518be,Andrew Carter,ogarcia@example.net,+1-739-725-4642x2604,"69602 Michele Isle Apt. 296
+Tamaraside, MP 29213",580,671152,701028,5526,7,Auto Loan,Approved,19
+724794fb-32dc-4235-817b-6b10aca92e40,Michael Jones,danielle23@example.net,295-410-3083x79654,"122 Jenny Square
+Perryport, PR 40551",773,336858,982437,6721,30,Auto Loan,Pending,1
+b8b756a9-5860-4348-b02a-cdaf0b60ed75,Natasha Johnson,mark37@example.org,791.603.3291,"77921 David Flats Suite 256
+Cochranberg, CT 33420",752,287185,913008,7099,29,Home Purchase,Rejected,69
+f685f204-f622-44e9-a1ce-799c024c8c78,Timothy Miller,alvarezstephanie@example.org,837-721-5675x9650,"50488 Patrick Cape Suite 764
+Port Christopher, VA 48584",760,170899,77331,3550,1,Business Loan,Rejected,81
+c86a31e5-f5e2-4935-ac7b-042f1a02395f,Richard Perez,ellisoncynthia@example.net,+1-477-872-3069,"85013 Michael Keys
+Christinaville, FL 35007",794,889256,945220,4793,27,Student Loan,Pending,50
+cdfe7060-cc1d-46a0-8d3a-fa5014a9e5f4,Brandon Garcia II,wrightjessica@example.net,+1-423-660-1552,"3887 Caldwell Bridge
+Obrienhaven, CT 71477",808,531602,895298,2219,5,Auto Loan,Pending,6
+dac5ece0-9fbd-4409-b659-92efa0eda2b1,Robert Bell,desireesteele@example.com,430-498-6657x042,"85065 Snow Parkways Apt. 668
+Alicialand, VT 58861",768,513337,21655,6159,3,Auto Loan,Pending,95
+d8a21e2e-1436-416d-b0a9-625bc4079762,Michael Jones,bensonjoann@example.net,378.259.2332,"410 Sparks Heights Apt. 012
+West Zacharyside, MO 87188",340,443699,510983,8833,13,Home Purchase,Pending,37
+a0a32a12-7f0c-4431-8bf6-f5cf114b89d6,Sarah Alvarez,james18@example.com,(960)370-3996x7530,"358 Mckinney Shoal Apt. 902
+Luisside, WI 77943",673,804754,165901,1837,27,Business Loan,Approved,43
+f7ea5ce2-c092-4295-bd7a-c2d8d32ae4ab,Troy Soto,ewilson@example.org,424-471-2414,"99305 Atkinson Estate Suite 479
+Andrewburgh, MP 65583",584,454773,669725,9390,23,Home Purchase,Approved,69
+7f4e61dc-7ad4-4bb6-98ae-3ef74b945c62,William Elliott,amber42@example.org,215-357-9338x05670,"4679 Laura Meadow
+Marcusfort, FM 37842",812,129621,774976,7819,10,Student Loan,Approved,45
+ca1df137-8967-4b02-a3ef-1d0317b0284e,Kyle Kemp,tbaker@example.net,001-847-825-4035,"708 Jill Harbors Apt. 301
+Danielsborough, MP 26599",692,619989,418484,5901,23,Student Loan,Pending,28
+f5df5aaf-46bd-4456-baab-4b5a1365c718,Carol Dickson,kiddmelissa@example.net,001-398-897-2648x7355,"95085 Carrie Pines
+Kingstad, NE 18344",429,282762,606119,7734,30,Auto Loan,Pending,50
+ad705027-ea60-4345-826e-a5f8dcf02696,Kurt Pennington,mweaver@example.org,(647)580-0885x887,"9526 Cook Creek
+East Sydney, MI 24042",773,125331,844812,2706,8,Auto Loan,Rejected,96
+cb09c948-1de1-4167-b9b5-4020e869d3af,Larry Gonzalez,opatterson@example.org,738.380.2613,"2054 Stevens Station
+Sharonport, AK 11269",716,80737,516634,5662,27,Auto Loan,Rejected,91
+99ad5323-72a0-46bc-9d42-ee80f1f43352,Janice Lambert,joshua34@example.org,306.334.1168x58051,"USS Rojas
+FPO AE 97430",584,546791,345353,8029,3,Business Loan,Rejected,43
+903b1d20-2da1-4a69-9140-f4b9e3c17100,Robert Stafford,erinhubbard@example.org,(580)371-7621,"917 Becker Oval Suite 969
+Jeremyview, NY 21200",556,269694,757000,8395,17,Home Purchase,Pending,50
+7ae4b8c4-bdb2-498c-b314-c274ae0b1c8d,Ricardo Mcdonald,monicasalinas@example.com,(296)575-9240,"69500 Steven Forge
+Port Victorstad, OR 16894",491,768988,283016,5076,12,Auto Loan,Pending,90
+681be4e3-645c-4855-9916-66a6fca21e83,Molly Patel,piercelori@example.org,468.296.5011,"7564 Jessica Trail Apt. 418
+West Johnland, CA 13179",648,270038,106039,3748,16,Home Purchase,Approved,41
+4feea198-d6a7-48d3-a450-b524d9b10522,Jared Hall,jessica08@example.net,(596)530-0269x119,"523 Brown Village Apt. 871
+West Branditown, IN 40232",739,863678,614501,4678,22,Business Loan,Rejected,14
+e57b5149-45d2-45eb-975e-b1c9199adb0f,Gary Gilmore,robertsonfernando@example.com,983-752-7133x34154,"PSC 0522, Box 3978
+APO AE 63868",781,689976,700106,9156,2,Business Loan,Approved,23
+78d0da35-a8dc-4941-909f-8f118a5bcdaa,Kevin Orozco,ccruz@example.org,573-452-4330,"USS Chang
+FPO AP 14226",541,160017,218375,3441,28,Home Purchase,Rejected,95
+155aff1a-a27a-48b4-b085-aff5f51bfdf6,Jeffrey Chapman,xrodriguez@example.com,(494)791-4087,"36218 Hughes Fields Suite 424
+Cherryshire, OK 17029",511,871231,493787,9376,5,Home Purchase,Pending,87
+97639499-cc98-4e07-92cc-0945176651a0,Greg Aguirre,laurie76@example.net,001-599-393-9430x58419,"7552 Jason Radial Suite 929
+Port Kennethburgh, MD 84560",848,431398,259241,7195,27,Student Loan,Approved,23
+5ca4db10-4893-46d7-b46e-946bfed3c93a,Anna Fernandez,jimmysteele@example.net,340.278.5386,"92342 Rivas Court Apt. 689
+New Patricia, NC 40556",300,220526,591921,9613,21,Business Loan,Pending,42
+a0c4ae7a-f5fb-4553-aaec-d0baba4a030a,Richard Madden,johnsonsusan@example.org,+1-871-851-9069,"2877 Caitlin Prairie
+Lake Patriciaville, MA 46295",528,447386,658665,5759,30,Student Loan,Pending,70
+09bd84a4-785e-417c-a6b2-94cbeaacc453,Samuel Hill,robert60@example.net,+1-860-674-3491x71278,"757 Ford Mills
+Kendraport, WI 85336",838,97545,362057,2314,19,Business Loan,Pending,14
+b3809e8f-5177-4a7c-bf10-c421c441cf5c,Shawna Morgan,sharon16@example.com,+1-933-422-0809,"59393 Copeland Groves Apt. 992
+Richardfort, LA 24011",612,830868,578973,2798,22,Auto Loan,Pending,26
+89fd27b9-9074-4b75-979b-0c0f984cae2c,Anthony Martin,gbaker@example.org,(950)855-9581,"50807 Richard Valleys Suite 870
+New Kimberly, TX 70666",564,383922,174629,1803,21,Student Loan,Rejected,8
+febb2ff4-41eb-43b6-8fad-d33eef67db68,Brian Cain,uyoung@example.org,+1-808-664-5168x4299,"PSC 1274, Box 9793
+APO AE 95786",349,812370,515870,7386,16,Home Purchase,Rejected,43
+1ba695ee-4239-4c90-a8c3-2862f05b3e2b,Andrew Valenzuela,jamesortiz@example.net,414-680-2510x79984,"01292 Bowman Divide
+South Manuel, AS 41519",596,564625,572372,7652,4,Student Loan,Approved,96
+2d159de6-d7ab-4817-9d36-f0633472ef89,Bruce Cunningham,laurasnyder@example.com,(423)558-3345x519,"USNV Martinez
+FPO AP 03762",546,48473,627261,8103,23,Auto Loan,Pending,58
+08d3269d-9a98-47c0-a0ba-32e37ff03c54,Michael Marks,epeck@example.org,001-305-627-8009x15193,"0570 Sandra Orchard
+Alanborough, CT 47725",345,247263,90459,2017,14,Auto Loan,Pending,40
+653fd0b7-6e76-407f-b755-cc0bf1883015,Miss Shelly Cameron,heather35@example.com,278.919.0690x4263,"0769 Caleb Park Suite 777
+East Jamesstad, FL 89447",816,623262,462866,8637,10,Auto Loan,Approved,44
+770ea079-a624-4b7b-b3cf-0564fd6c794f,Deborah Smith,kirsten93@example.net,+1-763-600-8692x634,"USNV Salazar
+FPO AA 82845",540,492296,885119,3763,23,Business Loan,Rejected,27
+1f4b5c94-c997-4a40-aab3-72335142d3bd,Matthew Roach,james30@example.org,736.694.6259x0367,"01946 Steven Parks Apt. 410
+Port Melanie, FM 34598",402,717465,545590,8056,17,Auto Loan,Approved,54
+6f7fcda2-e6cd-4c54-9b1f-78b00b66126d,Richard Ford,scott14@example.net,+1-927-509-7564x068,"038 Rodriguez Road
+Bateschester, PW 01443",458,858426,476150,2446,2,Auto Loan,Approved,24
+9a3e5803-ff70-4c58-84ba-5c88e13b1f64,Lori Miller,whitemichael@example.org,8335710146,"1433 Adam Stravenue Suite 605
+South Diana, VI 24253",741,401677,698314,6848,2,Auto Loan,Approved,26
+5030aeee-754c-4846-89b6-8797707d1b50,Angela Gonzalez,belljonathan@example.net,(461)356-4395x2748,"74989 Carter Junctions
+Gabrielaton, SC 68010",389,33554,574950,3474,14,Business Loan,Pending,83
+a25cda5a-3725-42e1-ae0f-765f6fa71916,Michael Brown,christieflynn@example.net,270.969.3442x01802,"953 Lauren Turnpike
+Courtneyfurt, AK 39823",331,401719,552403,5860,9,Home Purchase,Pending,27
+6b94ecb7-d892-418b-b668-1acc64bc76c0,Alexandra Marshall,kyle64@example.com,001-458-285-3796x521,"679 Raymond Falls Suite 395
+Port Jamieport, MS 98066",689,715045,929757,2219,12,Auto Loan,Pending,99
+876829d4-b94c-4be6-96d5-f7dc018c74ee,Becky Becker,donruiz@example.com,5815760573,"993 Jeremy Prairie Suite 267
+South Amy, ND 86183",805,150919,143381,2545,4,Auto Loan,Pending,20
+9cd02e49-5774-491f-a8f3-f27a5ff9d4f5,Michael Sullivan,benderkatrina@example.org,2828694436,"67316 Taylor Fords
+Hallbury, KY 30860",706,671209,623811,7046,30,Student Loan,Rejected,32
+d146a92e-575e-42ea-90d2-cb82113ee17a,Katherine Smith,ccontreras@example.com,831.779.1145,"19758 Mueller Bypass Suite 872
+Evanmouth, VI 65951",439,843987,241052,1904,12,Auto Loan,Approved,22
+ff974226-fa25-4df0-ac08-71207cd88216,Yvonne Gardner,brentmoore@example.com,(806)454-7014x061,"150 Spencer Fields
+North Jasmine, CO 17150",691,361084,32756,7495,28,Home Purchase,Pending,93
+c6183018-2733-4d80-9fda-90a83df14224,Christy Howell,umunoz@example.com,(704)459-3042x75524,"629 Edwards Forest Apt. 608
+Port Jacob, MA 40750",437,493724,427976,5793,13,Business Loan,Approved,41
+9895c04b-7210-48d8-9fbd-bcb1e4083c82,John Wilson,pamelaphillips@example.com,001-946-847-4071x411,"016 Jones Common Apt. 157
+North Christinahaven, FL 19246",404,413864,524545,6527,14,Business Loan,Rejected,84
+5dc37bad-09f5-4c84-bd75-a5bd76eeea2f,Dr. Margaret Mcdonald,madisonaustin@example.net,+1-883-500-7926x908,"798 Thomas Pike Suite 131
+Petersonside, PW 44683",546,53718,106755,9594,25,Student Loan,Pending,30
+dea7d79f-5379-42fc-b246-c90dc433a186,Julia Mitchell DVM,kimtyler@example.com,001-618-627-1077x2380,"143 Shelly Drive Apt. 276
+East Catherine, RI 18667",499,27189,511275,8686,17,Student Loan,Approved,41
+fe5e1d2e-d0aa-4e31-b715-43552bde0686,Victor Mays,christopher36@example.org,490-515-7778x8798,"3225 Sandra Roads
+South Craig, AS 73804",771,383226,261861,2550,7,Auto Loan,Approved,85
+4e37677c-44a6-4e8c-86ce-cc8e1727d70e,Belinda Rose,jamesrobert@example.net,843.443.9754x241,"419 Brandy Green
+South Lee, PR 79113",647,843587,794233,2339,7,Home Purchase,Pending,13
+8794ba63-1204-40e9-936c-c41db026ea89,Mary Williams,hectorwright@example.com,001-446-975-3893x425,"157 Allen Mews
+East Annaberg, IA 24536",341,792236,955715,8459,16,Auto Loan,Approved,71
+e4cd67fc-866b-4d12-a624-be4ac4537c46,Angela Howe,ohill@example.net,762-384-3331,"10259 Ross Hills
+Lake Alexandra, FL 25685",429,726189,370557,4651,16,Business Loan,Rejected,7
+d4ccd772-1235-4771-8624-f284a290e27f,Valerie Ruiz,jbrown@example.org,(404)468-2681x454,"7359 Graves Heights Apt. 035
+Edwardshaven, IN 14196",634,775265,129509,9919,20,Auto Loan,Rejected,43
+31407665-b505-4bb3-be7d-eca1cd87b374,Gregory Johnson,scottcook@example.org,749-516-1996x78112,"26774 Kennedy Trafficway
+North Mikeview, CT 28060",532,589627,298600,5447,5,Student Loan,Pending,25
+632037c8-a00f-4756-ab4c-ab2f8020d061,Albert Jones,jeremy96@example.org,535.201.2080,"618 Conrad Plains Apt. 366
+Sawyertown, PW 32285",499,100414,737597,3324,23,Auto Loan,Rejected,87
+694e90b7-0f8f-43e5-a952-6592f71ef711,Kathryn Underwood,xmurphy@example.org,+1-377-914-2465,"564 Donna Crescent Suite 638
+Gonzaleztown, DE 44721",414,764315,62263,5745,30,Student Loan,Rejected,98
+96467a98-9826-447a-a51c-5098f3fb533c,Melinda Vaughn,tina40@example.net,247-981-8618x93747,"832 Leonard Tunnel Suite 035
+Vincentstad, DC 59858",808,471498,363427,9640,14,Home Purchase,Rejected,92
+1443437c-9597-474e-92f5-da7c846e787c,David Jackson,davidrivera@example.net,001-934-578-9513x101,"198 Lisa Heights Apt. 711
+West Melissa, TX 61732",525,551064,50462,3787,15,Business Loan,Approved,19
+d5a59b48-289b-4038-9b27-b5583cfdc693,Todd Meyer,gordonashley@example.org,(730)265-9783x6687,"747 Austin Glens
+Jeremyfurt, KS 96158",354,293077,810519,7911,22,Auto Loan,Pending,36
+167aa78c-190e-4ec9-9857-36ac28f43cc7,Suzanne Taylor,marvinhernandez@example.org,359.485.9775,"4760 Brady Fort Apt. 004
+East Bonnieport, NE 58370",582,295946,443372,9184,10,Home Purchase,Approved,25
+d6331a81-cb2c-4274-a798-9e1e44cd3b7a,Elizabeth Ryan,pryan@example.com,3184408271,"81982 Padilla Harbor
+Susanmouth, WV 89768",383,553689,80511,6146,28,Home Purchase,Approved,67
+307c1279-7be4-4ddd-8bd7-22182eed294e,Maurice Foster,timothy17@example.org,001-827-258-0540x268,"11718 Andrea Village Suite 935
+West John, CA 91072",524,380527,911043,3209,13,Home Purchase,Pending,21
+a64bc6b5-0006-4f9d-b4f0-bf884311530b,Amanda Patrick,caitlin67@example.com,001-976-508-1648x43073,"937 Wyatt Rapid
+North Ruben, IA 26493",605,151785,509913,7188,4,Home Purchase,Rejected,20
+a9ec7424-d671-4658-a1ef-7887dee364ce,Stephanie Lewis,rachelsmith@example.org,+1-683-891-0580x00854,"6505 Angela Plaza
+Guzmanchester, MH 90163",375,372724,931710,9387,15,Auto Loan,Approved,48
+45df6e49-15e8-4048-a109-11a5714f2026,Casey Zuniga,caitlinrussell@example.com,4316446525,"46950 Nicholas Neck
+South Stephen, IN 64870",346,736908,679264,6062,7,Home Purchase,Approved,90
+0730b545-c542-4aed-a5ea-623cd4f1b5f0,James Perez,gvillanueva@example.org,001-940-755-9731x20243,"Unit 8039 Box 0667
+DPO AE 51969",692,28079,340091,8199,22,Student Loan,Rejected,15
+c6eeb262-a9f4-4d39-b2d0-369ee16581dd,George Nguyen,keith22@example.org,(316)932-6834x9253,"8296 Hall Cliff Apt. 357
+Whiteside, AZ 63444",382,574442,642744,6218,13,Business Loan,Approved,92
+949ab30b-6114-4340-8493-6ebf05d9dfe4,Jordan Salas,bellsteven@example.org,+1-764-764-1728,"28685 Tanya Centers
+Port Traci, NE 92115",485,350247,696328,6155,17,Home Purchase,Rejected,45
+7061d28b-0b79-493f-96e6-f9dabb175fee,Richard Brown,uward@example.org,001-204-646-5934x84810,"273 Jamie Prairie
+Lake Troyland, GU 20987",600,896015,545672,4652,13,Auto Loan,Pending,13
+c68fa722-290d-4148-bd36-1502489ffc90,Maria Johnson,olsonbrian@example.net,+1-318-557-8860x56323,"91540 Ronald Roads Apt. 447
+Kingview, MS 22800",616,132025,372394,1918,10,Home Purchase,Approved,60
+3814a561-623d-4d33-8c53-be71d7c4552f,Stephen Munoz,catherine38@example.net,+1-523-495-5549x714,"156 Price Isle Suite 716
+North Tiffanyland, MH 03257",458,214577,756376,9820,16,Business Loan,Approved,100
+157290b3-841b-4884-9f00-e2da05d2f26b,Bianca Robinson,lisaconrad@example.org,922-805-8102,"8751 Bowen Turnpike
+Port Megan, OK 66076",671,898297,668646,6838,26,Auto Loan,Approved,21
+96c59e84-5764-438e-8bfa-e159cb2080b0,Joshua Phillips,andersonmichael@example.com,+1-774-954-2807,"43492 Amber Fields Apt. 928
+Anneborough, MH 04799",824,791471,867209,5006,1,Student Loan,Rejected,34
+1f1cd366-ece4-4bb8-a2d5-94c5b8a95e88,Michelle Johnson,gibsonraymond@example.com,(846)928-2845x78052,"946 White Mountains
+Katherineton, WI 48462",821,877382,921061,3160,22,Student Loan,Rejected,16
+1e418560-56da-4905-b721-8cd8168c48e7,Sherry Thompson,robert86@example.com,+1-870-994-0168x4626,"4445 Miranda Ridges Apt. 696
+Bryanchester, FM 41816",821,284516,929931,4227,15,Business Loan,Rejected,34
+e5ce4edd-5382-4e48-a8f3-eecd0abf5a8e,Mark Phillips,gravesgabriel@example.org,+1-879-482-9080,"96360 West Crossroad Suite 236
+Brewerfurt, ND 09458",733,581406,705287,7921,1,Business Loan,Approved,92
+90b9ea8e-182b-4600-92ab-6cb907b84ba0,Brandon Cummings,zamorakelly@example.org,764.435.4603,"0229 Jason Pass
+South Robertfurt, IL 00543",456,332606,888242,3532,21,Business Loan,Approved,4
+2d5e87cf-0f3a-4a84-a596-9307882370f1,Daniel Bass,robert26@example.net,732-489-1502,"89525 Norman Drives Apt. 841
+Friedmanchester, OR 73904",366,267745,242452,1892,4,Auto Loan,Pending,41
+16a4714a-c7c4-4709-8467-8970f03ed883,Deborah Rodriguez,melissa67@example.org,2676412582,"448 Owens Fall
+New Diana, WA 14107",714,297389,985227,1946,8,Auto Loan,Rejected,66
+4226a6d5-7010-431a-b980-889e0589ac14,Daniel Cross,carsonstephanie@example.net,+1-820-221-2623x7388,"36759 Roy Haven Apt. 030
+Leonardtown, OH 46620",535,718134,410716,2797,29,Student Loan,Pending,71
+666bc2ff-518c-4722-aa5c-02db6f3dfe0c,Samantha Smith,jmartinez@example.com,001-881-869-3104x96020,"6453 Sanchez Isle
+New Michael, MH 16249",383,807832,592483,6737,5,Business Loan,Rejected,32
+14738082-5bd9-475d-9663-d8ed8c78b933,Zachary Anderson,williamgibbs@example.org,6806655298,"Unit 9913 Box 7338
+DPO AE 83771",355,32873,984611,1019,18,Student Loan,Approved,47
+18cfc34a-9749-4c14-8450-1ed59b6c6b2e,David Roberts,kyle05@example.com,605.314.5758,"9274 Webb Track Apt. 214
+Smithchester, VA 43806",513,832180,834414,3194,8,Home Purchase,Rejected,67
+e6ff2914-0c0e-48d3-b409-0718e8e456ce,Dr. Phillip Campbell,sheilaaustin@example.org,+1-394-688-4614x266,"6829 Cooper Knoll
+Bentleyburgh, ME 56391",445,627616,232177,7915,3,Business Loan,Pending,3
+65194a49-d3fe-4949-9f09-3eefbfcf597f,Rachel Ho,brandon41@example.com,255.295.0845x8428,"8533 Timothy Rapid
+Lake Clarenceshire, AK 96631",609,517607,265753,4660,1,Business Loan,Pending,69
+a8493314-2f94-4f38-ba2c-a3fde35ad7e5,Roger Johnson,coxmonica@example.net,753.937.8113,"6040 Melanie Hills
+Port Heathermouth, NY 08021",659,412412,56526,4128,7,Home Purchase,Approved,75
+65a67c45-cb04-48a5-b372-ee47c73071ac,Brooke Chavez,theresablair@example.com,(572)714-6886,"87457 Mitchell Ville
+North Edward, OH 55125",833,70708,272923,1406,30,Business Loan,Rejected,85
+1f765a6a-a436-46e2-b3a6-8ad54294a02c,Brandy Jenkins,pearsonjoy@example.org,223-857-1941x006,"01807 Smith Port
+South Amy, SD 75781",622,645135,641452,6321,4,Home Purchase,Pending,75
+c0fa1cf3-b927-4d13-b5af-69e627d00d2b,Stuart Ruiz,jacobsonlinda@example.com,+1-414-346-3786x989,"8464 Love Prairie
+Lake Haroldchester, DC 38458",674,331186,723869,8273,29,Student Loan,Rejected,50
+2f9855fb-e958-4076-a4da-3d37fef4173f,Alyssa Huff,john01@example.com,(979)498-7962x107,"68263 Angelica Common
+Peterchester, VI 05658",438,172641,550437,2733,24,Home Purchase,Rejected,37
+c2d97e44-5546-4572-aed6-3c837d53c7ce,Mrs. Brenda Moran,burnettsamantha@example.org,288.982.0391x504,"Unit 3372 Box 3534
+DPO AA 37950",549,647976,926716,9276,16,Home Purchase,Rejected,21
+78b08388-26d5-4afb-be7f-318b8f3e45fb,Heather Ruiz,benjamincoleman@example.org,212-249-8180,"0430 Joseph Drive Suite 661
+Joshuafort, ME 60748",543,280351,51688,2041,18,Business Loan,Rejected,30
+bf252f66-6ea5-41ba-ad86-121edd062b9e,Joseph Bush,fgarcia@example.org,(311)321-9941,"PSC 9892, Box 4099
+APO AE 36764",537,529248,628054,8207,17,Student Loan,Rejected,65
+17bcf746-3330-4235-bce8-8d71e90970e8,Richard Ray,pamela23@example.com,+1-449-282-5345,"80867 Williams Locks
+East Kimberlymouth, SD 69429",645,605502,579511,8127,18,Auto Loan,Pending,68
+aaf3b020-d219-4efe-9600-ecccf52ec922,Kim Campos,carrie66@example.com,(604)640-0137x98931,"962 Walker Park
+New Alexandermouth, OK 15172",847,210529,135894,3354,14,Business Loan,Approved,18
+5170426e-95af-4193-aad0-a00fe600452e,Megan Owens,fosternicole@example.com,001-522-404-2462,"38924 Young Canyon
+South Melissaville, SC 08541",785,794602,992670,6564,17,Home Purchase,Pending,67
+3677ac1f-6d65-4324-bc3a-c45b0708cb5c,John Mitchell,dbell@example.com,001-537-866-2466,"PSC 8930, Box 2667
+APO AP 29284",707,265224,700833,1797,12,Business Loan,Rejected,83
+8dd425b1-f50b-4863-9568-cc58e06e9482,Sherry Obrien,changtimothy@example.net,+1-856-587-2558,"329 Harper Heights Apt. 823
+North Josephborough, WY 79209",319,291771,704501,9897,27,Business Loan,Pending,4
+19a0a413-551e-490c-afe6-7df13a1beb54,Karen Hartman,margaretmccarthy@example.com,001-281-671-7629x90560,"50198 Walker Canyon Suite 926
+Barryton, CO 25382",774,212508,161807,2931,11,Business Loan,Approved,16
+2dea2047-a860-488b-9d6a-710ddf648b0b,Erica Martin,amandasteele@example.org,001-462-993-7792x60812,"0501 Parker Radial
+West Susan, NY 52695",483,629131,454776,2783,13,Student Loan,Pending,10
+05ee267d-7cb4-43db-8f5d-ed5e0253b514,Olivia Anderson,snydergrant@example.com,001-260-743-9886x0647,"339 Pitts Crossroad
+New Thomasfort, VA 50743",802,640691,165550,1643,12,Business Loan,Approved,30
+44f0a506-e17d-4cb2-8bdb-088dc1930906,Robert Alvarez,gsanchez@example.org,(222)434-9721x000,"USNS Watson
+FPO AE 10134",457,298229,960639,9449,24,Student Loan,Pending,48
+ade953b6-e386-4913-b99e-ee6a024cae66,Derrick Wood,karenpetersen@example.org,4533802397,"Unit 8833 Box 1406
+DPO AP 68648",734,609175,565564,2546,11,Home Purchase,Pending,6
+f37a3714-8680-41b0-aaed-2fb476d449ad,Benjamin Soto,ebonychang@example.org,9819632861,"754 Warren Lock
+Woodsville, CO 13963",522,146304,823027,8818,20,Business Loan,Approved,100
+3ecc7cc6-3f12-4e54-90b4-eaa337b3b3e0,Brittany Hernandez,tward@example.org,001-275-699-0778,"063 April Shoal
+West Tracy, NJ 58979",524,448025,611593,2390,7,Business Loan,Approved,42
+f0f75e2a-0bfa-464d-850a-2b3910c3ac69,Erin Martinez,tina02@example.com,797-201-2285,"84632 Stephanie Green
+New Adam, TN 62227",614,268370,489179,4634,27,Home Purchase,Approved,21
+733c8ceb-bf9a-4c16-98b5-c92da27ac2ef,Monica Johnston,ijohnson@example.org,+1-684-214-1303x829,"76090 May Streets
+West Derek, MN 09783",396,308605,565612,5240,16,Home Purchase,Rejected,25
+e6543d9a-9bf3-4910-afb1-1aba5fdc5f22,Michael Glover,walkerbrandon@example.net,+1-373-258-9108x40888,"8051 Mark Harbor Suite 611
+West Rebecca, NY 65935",331,629306,573137,2657,10,Home Purchase,Rejected,11
+0f89a8f9-73b8-4e09-a2d7-0ee971291e0c,Emily Ponce,jorgegonzales@example.net,001-238-782-7870x2065,"71236 George Spur Apt. 649
+Steventown, CA 44793",581,203807,649523,7496,22,Home Purchase,Pending,38
+1ee5231e-35dc-4660-aa32-8609b47ffe28,Rachel Fitzgerald,jeffreyevans@example.org,001-617-671-0108,"7156 Katelyn Islands Apt. 103
+Barbarafort, MT 16685",626,184467,188601,3604,5,Auto Loan,Pending,23
+95d35102-7080-4898-8553-11774f7b37b7,Larry Lutz,juarezmichael@example.com,4043029688,"74958 Bishop Overpass Apt. 838
+Port Sara, CA 87169",340,207220,369436,2242,22,Auto Loan,Rejected,82
+10995b12-39e5-4ced-8a27-d0efcca32dc9,James Cunningham,emily36@example.com,7292946270,"8097 Bradley Circles Suite 894
+Raymondchester, NV 97688",755,412906,659642,8952,17,Home Purchase,Rejected,58
+ef784697-2b3f-4c6e-9f50-6f87eb6c50d0,Stanley Ward,martinmarvin@example.net,6656639177,"412 King Radial Suite 511
+Adamsmouth, ND 66770",803,371038,307096,6888,11,Student Loan,Rejected,28
+2bf7bc0f-3d93-47b2-afe6-a7593f0258c4,Mary Chase,katie76@example.com,(484)694-4094x492,"823 Lindsay Rapids Apt. 431
+Jasonchester, AS 90076",814,784537,996205,3205,4,Business Loan,Pending,100
+2934dec8-12c2-4a64-842a-7606cd3574e1,Eric Smith,hamiltonlisa@example.net,278.885.3192x384,"607 Veronica Squares
+East Frederickville, MS 58772",556,771306,702132,9961,1,Auto Loan,Approved,5
+de9c2c08-13c3-494a-af0c-4f4afa2f2156,Michael Hopkins,fulleranna@example.net,976.484.5406,"193 Garrison Parks
+Ashleyfurt, NE 25264",583,368330,176298,3717,22,Student Loan,Rejected,26
+5e11f781-b9a2-4004-ae92-444a21f925fc,Paul Campbell,wmartinez@example.com,2284022287,"638 Abbott Rest
+Savannahmouth, IA 32638",558,280852,134370,1184,28,Home Purchase,Pending,83
+e0cdd1d9-aff4-45db-89da-51511150438d,Anna Smith,jesse26@example.org,+1-556-437-8378x420,"1654 Martinez Rest
+Codytown, MA 35808",744,85333,101438,2573,1,Home Purchase,Pending,48
+45825fc4-3c1f-4a43-b37e-e94c378c57b5,Travis Wyatt,timothyhines@example.net,001-300-855-7236x4392,"USNV Mays
+FPO AP 02336",775,325557,494079,5589,26,Home Purchase,Rejected,10
+bc6c48a5-802b-4189-9466-3950f389ceed,Aaron Savage,osims@example.net,+1-444-445-4089x44762,"378 Weber Village
+Port Jeffrey, WV 12495",382,133535,421639,8845,4,Student Loan,Pending,48
+062eec48-a048-4520-bbf4-7d37e8ba85ba,Madeline Pearson,loriford@example.net,457-765-8989x6578,"PSC 6861, Box 8771
+APO AA 29306",394,782704,759664,9058,11,Auto Loan,Pending,88
+3a511365-bcac-4b57-bcc3-eae58943da24,Ryan Edwards,john40@example.net,523-917-7054,"956 Jacqueline Knoll
+Williamston, NC 01561",497,35993,114470,4944,1,Student Loan,Approved,36
+59e5530a-2686-494a-a694-6a4cb2a8c9e8,Frederick Miller,lowerytroy@example.com,+1-457-445-0360x4602,"21963 Wong Stream Apt. 281
+East Maryhaven, MN 33748",757,868342,871553,1564,21,Home Purchase,Rejected,59
+7b2373c0-9dbe-491d-8f09-4e40241438cc,Gabrielle Collins,gallaghercraig@example.org,388-968-4544,"796 Ryan Prairie Suite 983
+Nguyenton, IA 19748",710,596952,14658,7754,9,Home Purchase,Pending,11
+25c58c83-2b1d-4dbe-968d-7ba6aecbcf57,Mark Taylor,nunezmelissa@example.net,001-629-304-5054,"38068 Green Street
+Garzaberg, ME 91232",837,106350,782501,7942,8,Home Purchase,Approved,57
+775a0520-3d06-4998-8b5f-a67d03c56ee3,Mary Hernandez,deborah13@example.com,734-678-1875,"0349 Gonzalez Pines
+Laraburgh, MT 58516",368,34549,251546,3905,9,Auto Loan,Rejected,83
+bc5c1961-1ae8-4407-98eb-374c0b0d14b1,Paul Costa,timcastillo@example.net,(434)201-2968x108,"956 Michael Light Apt. 060
+Lake Cynthia, TX 88384",480,647661,451442,7180,2,Auto Loan,Rejected,65
+40608e4a-7896-4675-8b61-164fdb11234b,Michelle May,gwest@example.com,001-944-991-0843,"6515 Christine Manors
+Cameronmouth, SD 73722",754,496563,262674,9361,27,Business Loan,Rejected,90
+f42c836e-3ddc-4c7b-9b67-7f632146494c,James Chen,gloria15@example.net,(981)451-9715,"02507 Andrew Mount Suite 050
+North Melindachester, TX 33112",450,723784,71408,4344,2,Auto Loan,Approved,29
+94227597-df20-4cc5-80cd-4bad631020ee,Daniel Perez,williamcarr@example.org,549-281-6113,"529 Orozco Heights Apt. 128
+Scottton, GA 21629",590,765052,85540,1940,6,Student Loan,Pending,90
+1a0c50a1-5d06-4293-946f-f9b80448142c,Christopher Lang,tlarson@example.org,(285)743-5306,"56821 Daniels Square Suite 930
+Port Mary, ME 00531",733,725143,598903,6695,21,Business Loan,Approved,89
+5343ed6e-c5ea-4a43-abab-42a16f30e962,Tonya Perez,houstonmichael@example.net,(696)760-4070x80376,"69354 Virginia Locks
+Cynthiahaven, PW 73252",444,620977,93823,2752,18,Student Loan,Rejected,79
+7746fd68-4071-4585-a34a-acdd08436c0b,Timothy Howe,nguyenmegan@example.com,(743)407-3786x816,"51316 Roberts Ways
+Port Cassiefurt, AL 09412",794,842924,584447,5783,24,Student Loan,Approved,12
+003b0c5b-a656-437f-8b98-025c9bbc7b56,Tara Garcia,willisnicholas@example.net,(272)600-3809x334,"742 Kelly Plain
+South Mikemouth, WY 26382",332,875009,510280,3569,22,Student Loan,Approved,57
+707be359-88d8-4435-a227-bb563e9e7e6d,Rachel Prince,maryprice@example.net,881.961.8668,"486 Eric Ramp Apt. 871
+Kimberlyton, WV 04684",781,659277,429918,8445,21,Home Purchase,Pending,58
+6533952c-0808-4ac8-b062-fe20f67038ff,Stephen Ewing,ecrawford@example.org,(227)356-8404,"37211 Anne Tunnel Apt. 858
+East Shannon, VI 56606",307,184530,965115,5357,24,Business Loan,Pending,10
+86ff03b2-03c9-49c8-a941-dfeb30381efe,Derrick Lynch Jr.,whobbs@example.org,997-630-5276,"4304 Marcus Heights Suite 616
+Mooreshire, PA 42853",680,600748,281177,9646,6,Business Loan,Rejected,94
+df15a065-a415-417b-be97-b1da48373f1e,Michelle Ward,frederick36@example.org,358.755.2532,"0889 Maria Ville Apt. 675
+Lake Maria, WA 10900",631,360104,569254,7904,28,Auto Loan,Approved,94
+22654735-a8b8-4c22-b2ae-4022aab1ee83,Ronald Montgomery,julieanderson@example.org,+1-546-684-0581x793,"54306 Lamb Circles Suite 209
+Michelemouth, NC 29797",729,749729,502241,9497,27,Home Purchase,Approved,74
+f46e8dec-b243-4013-99d8-e29cd83d71dd,Lisa Cole,xknox@example.org,761.834.3528x130,"55290 Pham Curve
+Christophertown, NM 10150",502,860015,422250,2494,28,Home Purchase,Rejected,16
+e3eabd78-2f17-45eb-8420-19ff20f5ff3f,Vanessa Smith,vbishop@example.com,001-960-849-6705x4824,"PSC 4014, Box 3806
+APO AE 49314",425,776007,100652,3986,4,Home Purchase,Pending,100
+7a411f42-a9cb-4ec4-a548-426c92e4e7b3,Christopher Perez,joseph09@example.com,320.718.0141x700,"33441 Hunter Prairie
+Smithstad, MP 60636",473,159365,721023,4349,18,Home Purchase,Approved,24
+9c818f22-8d0c-4f66-9dc5-66f6fc610241,Jennifer Taylor,frank58@example.net,(687)905-8481x24192,"7789 Hale Forest Suite 445
+West Robert, ME 95599",426,332347,259323,1919,19,Home Purchase,Pending,15
+09bc6a3c-f91b-4d0b-b21f-1eb867081e07,Brandi Smith,nicole80@example.org,783.972.2338x3758,"2098 Shaun Corners
+Lake Tonya, NV 44782",673,352266,425127,9993,5,Business Loan,Rejected,9
+a1db9b5d-8c47-42bb-838f-fa0aa87c7af3,Nathan Hall,hollystanley@example.net,(244)540-7656x020,"602 Ayala Ferry
+Kimberlyfurt, NY 66605",781,263465,993366,5588,12,Business Loan,Approved,16
+1a19a434-aa70-4454-b503-509b46c4283b,Jennifer Welch,ruizwillie@example.org,546-404-9383,"774 Morales Light Apt. 696
+Christophertown, WA 83987",711,663761,206052,3123,28,Student Loan,Rejected,58
+c27ca4d4-1565-4ec7-b0d0-1d417b885502,Sheila Campos,crystalperez@example.org,+1-225-895-1440,"6577 Joseph View Suite 104
+North Jeffreyfort, NV 32102",553,672543,67119,6321,3,Auto Loan,Approved,9
+7fc95db0-d86b-47a4-b464-cb6f5dade39e,Amy Sanchez,brandimendoza@example.net,+1-981-573-1655x0641,"44473 Lindsay Inlet Suite 499
+Peterfort, WA 50205",789,338393,94650,1967,20,Home Purchase,Rejected,24
+e16b13ea-8961-466a-a98c-622bfc57c501,Kayla Wright,dmorton@example.org,+1-534-303-2838,"2762 Wood Prairie Apt. 954
+North James, AR 31976",670,725133,806049,7745,16,Home Purchase,Pending,25
+b7e9eeb7-b909-4d33-b6eb-0b1c07f22bea,Kari Allen,tylerreese@example.org,+1-631-967-9101x48508,"72847 Matthew Meadows
+East Jason, OK 66834",489,498054,543279,9687,13,Home Purchase,Rejected,67
+56accb57-ff26-4b35-988b-76c8862ef8a0,Maria Thompson,uphillips@example.com,+1-583-719-3810x5375,"USNS Green
+FPO AE 61230",323,563519,143566,5654,27,Student Loan,Pending,31
+a98055f8-64fe-4956-99b7-bdc34dc1d27f,Mrs. Savannah Blankenship,parkamanda@example.net,696-990-8941x149,"71073 Daniels Port Apt. 626
+West Erin, LA 82806",722,805777,9752,4249,24,Home Purchase,Pending,84
+6d69cb78-d095-40ad-b16c-b29a1dba2da8,Faith Perry,katie71@example.com,001-292-645-2591,"40389 Turner Island
+Dillonchester, NE 29865",460,212788,388775,5734,23,Home Purchase,Rejected,94
+4198e00d-cf4f-4bb4-a200-21bb8a018a56,Aaron Peterson,kmorris@example.net,001-423-452-1117x852,"751 Heather Burgs Apt. 083
+South Vincentborough, MT 80230",720,358439,718399,8194,12,Auto Loan,Approved,72
+15e94a5d-3aef-44c8-ac09-c68b3560042c,Tiffany Johnson,baldwinmichael@example.org,+1-703-938-7301,"Unit 3324 Box 3069
+DPO AE 91368",501,464981,739212,4802,13,Business Loan,Pending,4
+24706ffb-79a4-44f4-8a44-cef91a4ee6b7,Kristi Thompson,gmartinez@example.org,742-240-3022x13800,"0994 Corey Creek
+Lake Miaburgh, AZ 93751",802,295468,527207,7359,7,Business Loan,Pending,9
+bdf0a46a-0f23-4440-8feb-8be199048c31,Kelsey Rodriguez,patriciasanchez@example.net,001-904-603-5023x39939,"034 Moore Hills Apt. 906
+Lake Sophiaside, VT 63339",343,716134,409152,7806,17,Student Loan,Pending,33
+cdf754aa-531e-4e83-9e1f-609037d1daef,Anna Vance,lucas81@example.org,001-367-347-4010,"4997 Andrews Fork Apt. 818
+North Susan, PR 45831",805,315608,728260,5009,16,Home Purchase,Rejected,29
+c53d00dc-6736-462c-a5ce-016e1b5a98d3,Robin Hahn,vincentstephen@example.com,+1-747-408-0807,"1400 John Estate Suite 661
+Lunaberg, KY 13696",761,141080,333053,4624,17,Business Loan,Approved,34
+435a5468-58ae-4791-92f6-fe29eaa2f434,Shawn Fernandez,ffarley@example.com,(973)699-1434x823,"502 Melissa Drives Suite 210
+East Catherineburgh, ID 75812",556,311587,159736,6216,8,Auto Loan,Pending,26
+da00b800-b540-42d5-81d7-fb76c210e1cd,Jorge Valentine,jbaker@example.com,001-452-266-0443x52080,"973 Johnson Mews Apt. 211
+East Kyleview, AL 40487",439,553824,900265,6644,22,Home Purchase,Rejected,49
+cfa7a508-651f-4613-b522-89e24d31bb77,Linda Adams,wthomas@example.org,4589087394,"USS Martin
+FPO AA 67226",840,832836,624088,7759,19,Student Loan,Approved,31
+f3d3a40e-6bfa-4823-9a59-681528509317,Matthew Harris,kendrahoffman@example.net,+1-620-706-5471x821,"813 Anderson Harbor Apt. 985
+North Jenniferfurt, TX 57312",740,274967,416015,3557,10,Auto Loan,Rejected,38
+9276e971-a6a9-4413-b462-9f91662d2cdb,Laurie Avila,evansbrian@example.com,616.226.9020x92193,"1462 Karen Harbor
+Lake Patrick, WY 45610",300,775309,591490,9569,8,Business Loan,Approved,35
+6a07eb0d-4aaa-4760-bf2e-0d3ffc58cc4a,Austin Smith,samantha07@example.net,299-363-1198x19618,"28950 Harris Squares
+Christopherview, AS 83890",548,357010,387948,3531,25,Home Purchase,Approved,79
+84d58c53-c772-4149-ad92-53c2f937317f,Melissa Strickland,glennjaime@example.net,(705)756-3289x66679,"413 Tina Drives
+Davidchester, WV 77290",617,711494,239370,8712,18,Auto Loan,Pending,40
+014e40d3-2670-45aa-bc06-6132db714ca5,Gabriel Curtis,mvilla@example.com,001-898-941-3156x3116,"0223 Justin Turnpike
+Taylorhaven, GA 72379",419,750606,965024,9472,5,Home Purchase,Approved,72
+87ab5f5e-9f90-447e-bfca-7df6403d1b9d,Ronald Price,caroline05@example.net,386.261.2679x32724,"21439 Robert Mission Apt. 493
+Petermouth, IN 41010",658,810480,65859,9407,4,Student Loan,Approved,22
+6047cb80-daf0-4dbc-b0ca-87089ce8c72d,Olivia Hartman,smithdawn@example.com,001-992-239-5662x16277,"01527 Bowman Fork Suite 635
+Griffinland, PA 82310",765,737645,588988,1268,13,Student Loan,Approved,7
+ce3cdf95-22b6-48a1-bc92-874a3c81f915,Karen Reyes,plopez@example.net,3916706470,"573 Davis Inlet
+Elliottview, DC 48674",453,834019,850460,8566,29,Auto Loan,Approved,27
+bf6465c4-d331-489a-a563-a4cd825e7196,Richard Smith,bishopjessica@example.org,760-978-9441,"186 Gonzales Trail Apt. 082
+South Ronaldshire, AS 98146",360,605993,153332,7348,27,Home Purchase,Approved,24
+7e6c2f48-b175-4886-9695-2ef80505eb30,Breanna Frye,joneschristina@example.net,(455)518-0761,"027 Vincent Centers Suite 477
+Kristinchester, SD 75612",826,728323,259659,1813,3,Auto Loan,Approved,66
+a0405d87-77d3-4825-bd0d-9cc0880fd8db,Cody Allen,tjohnson@example.net,001-430-301-7814,"9343 Le Tunnel Suite 942
+Jonesborough, AL 68720",444,382674,964975,4960,2,Business Loan,Rejected,96
+dac9b94c-5310-47ba-9c4b-0416c7e14ea7,Vicki Yu,amandawilson@example.net,203-664-4210x2722,"808 Roberts Tunnel Apt. 474
+East Manuelfurt, NE 94972",401,842161,770747,8500,23,Student Loan,Approved,53
+41eb5cd8-90c2-4c2b-83ee-51a922d4318a,Jesus Smith,ashleygomez@example.org,555-867-5455,"9848 Chavez Pine Apt. 644
+North Dawn, DE 93942",826,503906,915716,4693,3,Student Loan,Rejected,29
+d81b7e97-8067-4a3f-a184-97e37aa359fd,Janet Gross,lesliefrost@example.org,898.339.4316,"USS Powers
+FPO AA 84034",667,457970,743812,8821,18,Student Loan,Approved,59
+ea249c0c-442c-44f5-8f8f-23128c51420f,Joshua Carter,gking@example.org,+1-400-890-4250,"6120 Taylor Mission
+Steventon, AL 23212",327,795427,133499,2899,3,Student Loan,Rejected,72
+0c74ed15-0c38-42eb-9e0a-b76c6a3408e4,Joseph Reeves,changandrew@example.com,974.229.8221x34035,"38859 Martinez Trail
+South Adrianton, NV 30237",628,331425,802534,6417,15,Home Purchase,Rejected,51
+d2000b05-0750-44c5-a7ea-1356c34d5334,Troy Diaz,longgary@example.com,+1-679-759-7093x655,"98083 Mayer Pike Suite 288
+Newtonchester, PW 81813",712,524388,181993,3010,5,Student Loan,Approved,43
+6f188d8a-e291-478b-9c0b-c1504c055050,Erika Allen,william49@example.com,502.933.1626,"674 Michael Village
+South Mindy, MO 33672",413,733629,714700,3080,24,Business Loan,Pending,94
+9e93803d-b739-4323-8b6f-2cb6acc2debb,Wendy Alexander,adrian62@example.org,(315)793-4839x883,"604 Webster Squares Suite 192
+New Ericfurt, IL 28851",319,585852,983873,1091,24,Auto Loan,Approved,6
+27d689c1-ff53-4983-8a67-97dc062750ff,Sherri Walker,taylormiranda@example.net,001-399-873-6624x2254,"87346 Bailey Islands
+North Angela, KY 97113",321,323320,58860,5620,24,Student Loan,Approved,78
+6ecbb156-9574-4815-bfb8-3b2eef5b6e87,Andrea Carson,carmendennis@example.org,547-426-5769x804,"1670 Jorge Ports Suite 031
+East Natalieburgh, NY 07684",550,719852,93638,1537,18,Auto Loan,Approved,25
+4fa92f34-d3d3-41e1-afd0-befd3b1b0e4d,Suzanne Valdez,djohnson@example.org,+1-643-803-9148x48850,"59125 Don Burgs Apt. 075
+Andersonton, TN 75208",654,391256,179135,9239,15,Auto Loan,Approved,32
+0efeeefc-74f9-4fc1-afc2-8346adaaead7,Bethany Thomas,nherrera@example.com,6863914605,"85991 Dana Via Suite 837
+Stephaniemouth, ME 63850",784,625534,294931,9024,27,Home Purchase,Approved,22
+992bbf23-a499-4a49-b628-c840235d318d,Timothy Jordan,francisco16@example.org,283.812.0012,"07919 Warren Extensions
+Rogerfurt, AZ 64191",623,405449,525589,2947,18,Home Purchase,Approved,88
+d08058ca-17e8-46f4-a6f5-2447baa75720,Mary Berg,christianrose@example.org,(278)585-8035x222,"296 Samantha Parkways
+Brownchester, IN 46062",392,571743,78567,5999,18,Home Purchase,Pending,97
+5cabde7f-af5a-42a9-ac1b-17e7c0060dcd,Pamela Morris,jevans@example.net,001-333-560-2476x10640,"USS Hamilton
+FPO AP 54179",516,784187,363921,3274,20,Auto Loan,Rejected,85
+8d7fbe07-8a52-43d6-a0b4-432c2444cc35,Mr. Nathaniel Morris,kevin02@example.net,(481)642-6848,"40878 Faith Turnpike Apt. 296
+East Jeremyview, IN 67835",681,676400,453043,8734,14,Auto Loan,Approved,59
+f21b8ec0-f11f-4ea3-bca0-2201564a4096,Robert Taylor,amywells@example.net,301.699.1411x15216,"9838 Ray Circles
+Javierville, MO 65132",441,180118,741864,9013,26,Business Loan,Pending,37
+fc986bb6-a64d-49e5-8a0e-fd3be0a17454,Kathleen Gonzalez,jose90@example.org,001-819-604-4199,"59083 Powell Point
+Kingshire, OR 41343",749,172600,638842,9980,22,Student Loan,Approved,80
+eb25e4bf-4b61-4be1-aa48-baeb3b673ffd,Jon Cook,swilson@example.org,(581)388-1235x1520,"736 Murray Track Apt. 741
+Lake Brittneyhaven, CA 42320",544,295889,412340,3536,30,Auto Loan,Rejected,74
+765ffd00-6187-4a47-9fa9-8fe2f3d4819e,Daniel Donovan,xbrewer@example.net,+1-704-601-9135x487,"16265 Laura Pines Apt. 947
+Port Marcus, KS 80815",618,427103,548148,1233,10,Home Purchase,Rejected,39
+e301896c-bfb5-4811-8052-3ee4c9d114fb,Sheila Allen,tylerlopez@example.com,5849380215,"312 Thomas Loaf
+Sandraberg, NY 92645",816,831112,378776,2395,26,Student Loan,Approved,48
+070b7e93-60b5-42e2-aa12-9827a43f649e,Jon Hanna,knightmichael@example.net,587-912-0573x98361,"812 Saunders Isle Apt. 073
+Andrewborough, DC 28457",434,720964,16896,9623,6,Auto Loan,Pending,20
+d0c248e4-06d3-41b1-a708-e5d9e148cfb9,Michael Smith,dianalowery@example.com,001-489-574-0918,"9374 Erin Isle Apt. 493
+Fischermouth, WA 76449",390,533842,509526,2245,27,Student Loan,Rejected,96
+ac695d5d-a599-4c16-b977-800d969a1038,Nicholas Costa,ssmith@example.org,+1-257-751-1805,"5445 Moore Underpass
+South Peggy, SD 76555",435,388571,872396,4465,18,Student Loan,Rejected,75
+df493e4b-eb0a-43f7-ae78-26185fa2e2bc,Mackenzie Cherry,ybradshaw@example.org,001-402-326-3307x198,"3813 Harold Wells
+Stephensshire, WI 16523",770,791780,736593,6472,19,Home Purchase,Rejected,4
+752f2682-1382-4304-a6e1-8bd0aa718eb0,Brenda Boyd,zrivera@example.com,625-979-6028x85398,"079 Melissa Lights Apt. 110
+Port Shawn, HI 38147",823,693214,166017,5448,10,Business Loan,Pending,58
+93e6d190-fb2f-4da1-be8d-bb334004a95e,Miguel Thomas,sandracooper@example.net,774-727-2008x0485,"Unit 0530 Box 9021
+DPO AE 96435",582,805991,537675,3564,29,Auto Loan,Rejected,2
+d2d7d3d0-e552-4101-af23-4ba31680f4f9,Brian Delgado,gilbertrobert@example.com,(244)931-9065x180,"8197 Shane Stravenue Apt. 898
+Cristianstad, AL 97503",377,744540,740341,5411,14,Student Loan,Approved,31
+423637cd-bfe0-4664-aa52-dc1015a192e7,Amy Smith,pedroperry@example.org,559.648.4376,"USNS Williams
+FPO AP 69271",688,223710,681654,5203,14,Business Loan,Approved,40
+70de6a5b-a24f-490f-a784-3c159f34422f,Sherry Proctor,tamigarcia@example.com,347.324.9036,"9096 Sergio Lodge
+Heatherport, CT 48978",579,879139,146010,4788,6,Auto Loan,Approved,60
+284311d4-74da-44e6-9a2e-b3cd5f7e0164,Mary Lopez,meltonsusan@example.com,366-411-5576,"9360 Danny Mall
+Davisville, WA 86798",561,505253,724500,5452,29,Home Purchase,Rejected,71
+7c151db2-f0dd-4620-bec8-f7c187c04cce,Jill Kelly,taraweaver@example.net,(781)233-5993,"14477 Margaret Walk Suite 342
+North Briana, SD 27676",494,117507,273466,8157,4,Home Purchase,Rejected,48
+e4fe8520-45c4-4cf9-a326-a720fbd3882b,Aaron Gomez,rachel20@example.org,+1-816-390-1089x299,"USNV Buchanan
+FPO AA 65122",561,579761,746084,2013,9,Home Purchase,Approved,28
+cbd919f4-8670-4e92-be2b-e6cf02144fc0,Eric Hansen,sierramitchell@example.net,001-734-520-5772x19628,"Unit 6072 Box 8332
+DPO AE 56252",754,540037,852094,1994,21,Student Loan,Pending,24
+28486ff9-79b1-4e37-8016-b7f49ad1657f,Brendan Mason,ndavis@example.com,287-683-7165,"53385 Davis Fall
+South Brucefurt, OH 63669",499,796320,190775,7001,17,Student Loan,Approved,66
+82533a51-c4c6-4fc9-bf56-a60b921b52a7,Michael Solis,evansmichael@example.org,992-890-3666x2261,"7738 Sharon Court Apt. 092
+Estradaside, NC 16301",303,642820,641076,3704,29,Home Purchase,Rejected,35
+21ae3580-0059-4527-b1ec-824310b8fbb9,Daniel Bentley,williamdonaldson@example.net,(725)676-6263,"USNV Perry
+FPO AP 58838",832,704747,548965,2052,1,Home Purchase,Rejected,3
+82207917-e39d-4a45-abef-1076f7b31129,Alison Miller,zlane@example.net,618.228.8656x483,"3176 Cooley Parks
+Coopershire, VT 04188",771,621152,242371,6623,25,Student Loan,Approved,14
+2ac6f8bd-d34a-42ce-a4f1-2acc73d45256,Michele Owens,amber83@example.com,(350)688-6107,"77601 Rebecca Greens
+Morrisview, NV 44885",426,569659,261769,3723,8,Student Loan,Rejected,27
+0b672893-3246-40fb-88d4-081889226246,Jessica Burton,caseyadam@example.net,(579)601-9209,"Unit 7161 Box 6486
+DPO AE 63496",779,685591,600298,7976,2,Home Purchase,Rejected,27
+223b870a-c2df-44de-a19f-f3733a8b7199,Jennifer Joseph,fcombs@example.net,788.649.2754x9360,"1302 Brandi Parkways Suite 862
+New Tarashire, MN 03452",306,86405,41180,1757,30,Home Purchase,Pending,5
+8d549aad-291f-42c0-b12b-83c84800e09f,Robert Rose,johnthompson@example.org,001-457-560-4082,"7993 Salazar Island Suite 325
+Tuckerfort, AK 85525",760,156354,164890,1833,1,Auto Loan,Pending,71
+6549a7e3-287b-4b4d-b04b-c7369dd65e3d,Shannon Boyd,gonzalezmegan@example.org,(273)821-2440x902,"8721 Oconnor Ville Suite 308
+West Lisa, PW 88786",594,268836,183590,6299,15,Business Loan,Rejected,98
+2cdc830d-40d8-424e-bf45-c3f4a0b9280f,Teresa Palmer,elizabethanderson@example.net,917-786-7549x22953,"8084 Kathryn Forges
+Robertbury, MI 86414",819,869795,154530,1990,27,Student Loan,Pending,42
+05c8596e-9875-4e2e-872c-cb95b80ab97e,Joshua Nash,alicia30@example.org,713.783.1929x672,"8858 Schroeder Plains Apt. 302
+West Darlene, GA 92822",772,665767,56688,3702,27,Student Loan,Rejected,24
+5763ada9-0ffe-4e04-90a3-21b22147d8a1,Daisy Page MD,gmccoy@example.com,+1-328-988-8275x537,"0651 Allen Corner Apt. 118
+Markport, AK 17744",553,478595,232131,4412,27,Home Purchase,Approved,62
+74825e43-12f5-43e1-aefb-4181160bfe7f,Heather Carrillo,hannah32@example.org,(282)532-7407x546,"031 Williams Mountain Suite 215
+Stephensstad, ND 76766",494,894307,906213,9548,14,Auto Loan,Approved,48
+5f3115f6-1d46-48a2-aaae-e4420f1a8935,Rebecca Moore,crosstimothy@example.org,934.814.4519,"8380 Katie Garden Apt. 379
+South Williambury, ME 51747",391,507666,492749,7107,3,Student Loan,Approved,51
+990141f9-3297-472d-9ab4-d3f90a087455,Donna Lucas,robertssuzanne@example.com,(709)277-9133,"120 Mcgee Skyway Suite 606
+East Joe, AZ 63441",643,617191,213021,3363,20,Business Loan,Rejected,91
+b44c49ea-75b9-40ed-9c36-b073e0b8751d,Joseph Martin,cassandra20@example.net,454-546-1309,"Unit 2619 Box 9975
+DPO AP 97865",413,602474,147531,3703,23,Business Loan,Approved,84
+dfe93974-362d-4a14-bce1-3fccea2672fe,Sarah Garcia,tdavis@example.org,761-811-9802x67964,"210 Reed Flats
+East Danashire, NE 31840",828,128095,666264,2201,5,Home Purchase,Approved,97
+88efedfe-28c5-470c-a71e-47ed28ccf38f,Emily Russell,belldeborah@example.net,001-251-496-7961x833,"7050 Thompson Expressway
+Davistown, PA 60024",466,440653,493724,8518,11,Home Purchase,Pending,26
+0106f39b-d688-4d33-bd34-31084b82ad3d,Scott Cook,michaelklein@example.org,(344)837-5210,"49834 Mullins Shore Apt. 862
+West Lindsay, MA 03079",337,726143,28439,7089,25,Business Loan,Approved,60
+a95a6718-8a8a-4743-8d32-a1d71397e630,Lisa Cain,longjames@example.com,(522)521-6800,"09347 Kenneth Isle
+Jennifertown, FL 28006",527,838929,352490,5540,12,Business Loan,Approved,52
+e7b996a3-a68b-45c1-bcde-8f2099978dfd,John Santiago,amybell@example.net,+1-593-652-1284x1960,"9570 Miller Glens Suite 272
+West Marioton, VI 37413",571,398661,836162,4866,8,Auto Loan,Approved,77
+24a4b669-b1ae-492b-8fb2-b9dcd52ec34c,James Harris,zunigajacob@example.net,001-325-971-8630x102,"4816 Casey Village
+Port Brittanyhaven, CO 21711",440,284679,200044,1982,28,Home Purchase,Approved,97
+c823efbc-e8de-4db0-a006-b09998494fa9,Ann Nguyen,colemandanielle@example.com,(373)998-5299x8733,"7756 Steven Alley Suite 577
+Lake Traciefurt, NH 49735",536,570699,182238,8195,29,Student Loan,Pending,60
+7109a12d-5df5-45fb-a783-c007cff7bc71,Katherine Davis,pamela66@example.net,431.336.5876,"2301 Mccann Point Apt. 713
+Moralesview, OR 14207",635,590088,506927,5694,14,Home Purchase,Pending,73
+ddbb91d5-8de5-4d8c-a191-d52b1f9c45c4,William Terrell,andreachristensen@example.net,(217)496-8805x69625,"7665 Smith Terrace Apt. 834
+Shermanburgh, GU 27425",785,603075,875427,5485,16,Student Loan,Pending,19
+03fcd4d8-114d-4392-91a2-b6cb3917110e,Julie Gallagher,bryan@example.net,741.364.1667,"3074 Haley Views Apt. 651
+North Jenniferland, IL 39641",390,322706,562328,1504,16,Business Loan,Approved,100
+223d9ce9-038a-4162-8bd4-e667eb39bac7,Thomas Scott,evan93@example.org,+1-506-627-7789x510,"83456 Gutierrez Lane
+Lake Tracy, MP 04219",306,423328,884351,4525,19,Home Purchase,Pending,87
+5c792a8b-4656-4d2c-b7f6-93645b148716,Janet Melendez DDS,carlossimmons@example.net,+1-832-524-3978x66759,"2609 Traci Row
+Lake Kennethchester, LA 23196",772,65646,13964,4609,28,Student Loan,Rejected,64
+5ccbf642-f7b6-4c46-bfb8-7db9d8e89720,Mallory Gonzalez,michael87@example.net,541-327-8971,"4903 Elizabeth Trail
+Beasleyhaven, UT 99839",508,83825,403163,7573,8,Student Loan,Approved,71
+c6527500-4d19-44b1-87c8-9a74782ec57f,Barbara Miller,hannah70@example.com,531.841.0583x80125,"9598 Joseph Passage
+South Karen, VT 38103",358,237330,797233,1091,24,Student Loan,Approved,97
+f5a617a5-7377-4c0b-870a-7a73f36e5c05,John Williamson,jessicavasquez@example.com,001-493-924-5421x820,"844 Jones Via
+West Matthew, AR 65924",829,564644,888335,9462,17,Business Loan,Pending,85
+cf564d3f-4515-4f8d-af33-25b1416df2be,Laurie Silva,bradleyowens@example.org,(788)771-2256,"12369 Debra Squares Suite 155
+Port Justin, MT 19604",831,753748,388993,1376,19,Student Loan,Rejected,75
+385d94da-e1cb-474a-b5d5-f9d5176d55df,Jamie Walls,vwalton@example.org,664-992-8286,"919 Henry Forks
+Websterhaven, NH 48837",560,282762,130225,3348,7,Business Loan,Pending,73
+cd7e3cf2-72f3-4d6c-b654-4692e84752ce,Keith Murray,wolfnorman@example.com,442.804.2012x65576,"2890 Ramsey Mountain Suite 635
+Montgomerymouth, MT 19533",782,345924,716140,3342,21,Student Loan,Approved,23
+dadd37dd-ef91-4ba4-bd3e-7a9e4c244dcd,Andrea Ross,amy77@example.com,277.342.4297x1489,"596 Pittman Forks
+Alexandraville, TN 08704",541,533159,614028,2988,19,Home Purchase,Pending,70
+45ed30f6-1169-46a5-b587-8775acd2563a,Michael Burns,michael53@example.net,278.937.8361x74187,"659 Martin Way Suite 162
+Blairville, HI 25500",848,169717,252169,5775,21,Auto Loan,Pending,76
+e214c7af-edc4-4480-9ab7-66dd37837e04,Pamela Garcia,markmckenzie@example.com,621.624.1564x600,"903 Gutierrez Knoll Suite 452
+Lake Wesleyborough, PA 29188",524,205237,764398,7482,30,Auto Loan,Pending,87
+2dd32fd8-be7d-41ec-9f25-939b9e75907a,Nathan Riley,efields@example.net,343.530.8358,"0778 York Vista Suite 262
+North Robertfurt, DE 23936",772,590108,4061,3742,13,Home Purchase,Rejected,41
+06b2492c-48b4-453b-b7cc-31a1664178d1,Jacob Bates,timothy05@example.com,(305)882-6322,"757 Briggs Lodge Apt. 356
+West Sandra, GA 20866",366,176770,158907,7563,20,Business Loan,Rejected,97
+b8a35c4e-768e-4155-9874-dc28c891845f,Michael Jackson,pcombs@example.net,001-390-262-6513,"9608 Alyssa Gateway Apt. 015
+Port Becky, MP 92218",777,548991,78037,2033,11,Home Purchase,Approved,81
+369cf265-b5d3-4e36-a7c9-9ceacbb6675f,Teresa Obrien,marklee@example.com,(608)578-1157x5534,"59182 Kathleen Estate Suite 833
+Cynthiafurt, PR 20857",313,577277,126883,6498,8,Home Purchase,Approved,95
+83321072-a2d6-4f54-ae75-836df954d753,Diane James,crawfordmatthew@example.org,(577)238-2541x10148,"671 Boyer Wells Suite 582
+Turnershire, OH 87598",443,322611,33736,1185,30,Student Loan,Pending,40
+1f71b66e-f399-4d65-9ca6-637a3ca5fec4,Tracy Kennedy,beckcarolyn@example.com,689.460.9292,"579 Erica Path
+Hardyfort, NJ 86099",802,641823,398238,7640,14,Business Loan,Pending,31
+5f5c4d91-8878-4eb5-aa28-310389fefc60,Robert Williams,millerkathleen@example.net,(301)926-4086x7570,"8747 Jennifer Estates Suite 828
+Crossstad, NE 66793",650,367086,13381,8771,21,Auto Loan,Pending,23
+e6838e84-5770-485d-9e59-466cb73ce6f1,Laura Mckinney,smithadrian@example.com,+1-681-810-3209,"171 Michael Streets
+New Catherinefort, AZ 00690",347,369470,653642,7456,8,Home Purchase,Rejected,51
+af234c5a-e629-451f-9fc1-1bc22eb2ff5d,Cody Munoz,curtisstacy@example.net,412-861-0676,"38048 Diaz Islands
+Simpsonshire, MN 77398",344,296480,375341,6108,19,Business Loan,Approved,4
+5cf4b149-a3b2-4cc9-970b-a72b7ab9bcff,Dr. Paul Gutierrez,carolyncraig@example.com,001-641-733-8315,"8637 Schmidt Village
+New Debratown, MS 14477",462,558067,215347,6395,6,Home Purchase,Rejected,61
+7b0a054e-2872-4b31-805f-37c7858cc2a8,Christopher Smith,greenerica@example.com,248.222.2651,"9446 Barbara Station Apt. 567
+South Jeffrey, SD 91345",835,609344,382577,7984,19,Home Purchase,Rejected,29
+abb52972-a3d2-4eaa-a551-26700499b5a5,Steven Washington,ugonzales@example.org,281-675-0161x96945,"524 Singleton Throughway Suite 976
+New Anthonyton, FL 87043",840,20854,278630,6306,1,Auto Loan,Approved,4
+2d14eb64-9047-4632-833a-f05fc4315a98,Jennifer Randolph,castrosara@example.net,+1-885-315-2149x5984,"6766 Joshua Forges Apt. 563
+Stephenmouth, WA 38615",741,735583,190802,8884,7,Student Loan,Pending,90
+9288f917-9154-40e4-ab5a-8cfc648f1dfc,Nicholas Guzman,robert88@example.net,5485549582,"1536 Roy Causeway
+Saraport, SC 84601",743,865335,91684,3259,26,Business Loan,Rejected,75
+5add8810-3e76-40f2-9778-8d72d6ab6721,Rita Lee,wbennett@example.net,601-993-3249,"45556 Lance Valleys Suite 533
+Wendychester, SC 64261",437,325093,900714,5926,18,Business Loan,Approved,85
+f49320d0-d90e-4003-bf1b-3a5288abf499,Breanna Huff,brockkenneth@example.net,412-771-8279x52547,"486 Nelson Trace Apt. 631
+Mitchellburgh, NY 56018",307,343270,588602,9568,27,Auto Loan,Approved,24
+a38870f9-1228-4bb4-a358-a087d337e74c,Tonya Ward,hmartin@example.org,(352)539-8418,"68862 Bryan Ranch
+Miguelhaven, SD 54112",362,61332,765324,5715,28,Home Purchase,Approved,33
+53d73e1b-0bab-4496-8f53-7a13d09beda8,Robert Williams,michaelwatson@example.org,658-935-5599x169,"0122 Abigail Street
+North Lori, MP 50882",783,460830,67151,4877,28,Home Purchase,Approved,0
+35cd731c-da41-4b9d-8012-7d3de5d1c454,John Estrada,patkins@example.org,480-326-1272x5517,"2697 Sheryl Underpass Suite 586
+South Joannemouth, RI 23986",821,743114,817805,1177,26,Auto Loan,Approved,0
+6804c969-68a2-42ed-81b5-fcdcebbe3681,Debra Cantrell,tbrown@example.com,(291)572-9595,"11711 Reeves Cliff
+West Cory, IN 92456",586,210166,862016,1621,16,Business Loan,Approved,90
+adc1d90a-87f2-455a-9c0c-7feb396fcacd,Rhonda Stewart,melissacortez@example.org,+1-498-618-5587x428,"72662 Lynch Locks
+Janetfort, KS 18677",647,798442,6060,1488,18,Student Loan,Pending,24
